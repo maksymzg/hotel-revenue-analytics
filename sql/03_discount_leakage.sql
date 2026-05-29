@@ -1,0 +1,4 @@
+-- 03_discount_leakage.sql  (Q3, KPI: Margin Leakage Rate + Discount Effectiveness)
+-- Pytanie: czy rabaty realnie coś dają, czy to czysty wyciek marży?
+-- Techniki: Discount/Gross w czasie (window po dacie), rabat vs wolumen/rating per kanał/segment.
+-- TODO: leakage rate per dzień/tydzień (piki) + relacja głębokość rabatu -> rating/wolumen.

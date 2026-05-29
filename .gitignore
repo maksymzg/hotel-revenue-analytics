@@ -1,0 +1,24 @@
+# --- Dane (duże/surowe — nie commitujemy; instrukcja pobrania w README) ---
+# Ignorujemy zawartość, ale zachowujemy foldery (przez .gitkeep)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.parquet
+# małą próbkę (data/sample/) trzymamy w repo
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Power BI (pliki tymczasowe) ---
+*.pbix.tmp
+~$*
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/

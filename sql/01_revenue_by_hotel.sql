@@ -1,0 +1,4 @@
+-- 01_revenue_by_hotel.sql  (Q1)
+-- Pytanie: które hotele / kategorie / miasta dają przychód i MARŻĘ, a które słabują?
+-- Techniki: GROUP BY, agregacje, ranking (ROW_NUMBER/RANK), udział w całości (window SUM).
+-- TODO: net/gross revenue, margin %, ranking hoteli, udział % w przychodzie sieci.

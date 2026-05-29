@@ -1,0 +1,9 @@
+-- 00_load_duckdb.sql
+-- Cel: wczytanie oczyszczonych danych do DuckDB jako widok/tabela analityczna.
+-- DuckDB czyta pliki wprost — nie trzeba ładować do serwera.
+--
+-- Przykład (do uzupełnienia po etapie czyszczenia):
+--   CREATE OR REPLACE VIEW bookings AS
+--   SELECT * FROM read_parquet('data/processed/hotels_clean.parquet');
+--
+-- TODO: ostateczna definicja widoku + ewentualne typy/kolumny pochodne.

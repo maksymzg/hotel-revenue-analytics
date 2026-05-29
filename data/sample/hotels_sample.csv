@@ -1,0 +1,1001 @@
+Booking_ID,Hotel_Name,Hotel_Category,City,State,Country,Checkin_Date,Checkout_Date,Month,Quarter,Year,Room_Type,Guests,Nights_Stayed,Room_Rate,Extra_Charges,Discount,Gross_Revenue,Net_Revenue,GST_Amount,Total_With_GST,Booking_Channel,Customer_Type,Payment_Mode,Occupancy_Status,Customer_Rating,Feedback_Status,Covid_Impact_Level
+BK9835534,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44320,44324,May,Q2,2021,Deluxe,3,4,22569,2390,3506,92666,89160,10699.2,99859.2,Walk-in,Regular,UPI,Checked-Out,4.6,Positive,High
+BK7803377,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44352,44356,June,Q2,2021,Presidential Suite,2,4,21693,4271,4213,91043,86830,10419.6,97249.6,Corporate,VIP,Credit Card,Checked-In,4.6,Positive,High
+BK3686278,ITC Grand Goa,Resort,Goa,Goa,India,44443,44445,September,Q3,2021,Luxury Suite,1,2,14474,4243,3802,33191,29389,3526.68,32915.68,Booking.com,Corporate,Cash,Checked-In,4.2,Positive,Low
+BK7514886,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44469,44470,September,Q3,2021,Executive,1,1,25327,2363,3281,27690,24409,2929.08,27338.08,Website,Regular,Debit Card,Cancelled,3.8,Neutral,Low
+BK6312815,ITC Narmada,Business,Ahmedabad,Gujarat,India,44461,44463,September,Q3,2021,Deluxe,1,2,6732,1092,4616,14556,9940,1192.8,11132.8,Walk-in,New Guest,UPI,Checked-In,4.6,Negative,Low
+BK5563236,ITC Sonar,Business,Kolkata,West Bengal,India,44452,44453,September,Q3,2021,Executive,1,1,24551,5114,4688,29665,24977,2997.24,27974.24,MakeMyTrip,New Guest,Debit Card,Checked-In,3.7,Positive,Low
+BK3946722,ITC Grand Goa,Resort,Goa,Goa,India,44339,44344,May,Q2,2021,Luxury Suite,2,5,20189,4810,296,105755,105459,12655.08,118114.08,Corporate,Corporate,Debit Card,Checked-Out,4.8,Positive,High
+BK5214751,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44592,44593,January,Q1,2022,Luxury Suite,2,1,14663,3372,2109,18035,15926,1911.12,17837.12,MakeMyTrip,Regular,Debit Card,Checked-Out,4.3,Positive,High
+BK4623241,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44615,44620,February,Q1,2022,Presidential Suite,3,5,22208,1370,1740,112410,110670,13280.4,123950.4,Walk-in,Regular,Net Banking,Checked-In,4.5,Positive,Low
+BK1623736,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44464,44467,September,Q3,2021,Luxury Suite,2,3,18545,4680,1666,60315,58649,7037.88,65686.88,Booking.com,Regular,Cash,Checked-Out,4.6,Positive,Low
+BK4163929,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44620,44624,February,Q1,2022,Club Room,3,4,21419,4283,3918,89959,86041,10324.92,96365.92,Walk-in,New Guest,Net Banking,Checked-In,3.4,Positive,Low
+BK3327428,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44363,44366,June,Q2,2021,Presidential Suite,3,3,8349,4111,1737,29158,27421,3290.52,30711.52,Walk-in,Member,Cash,Checked-In,4.2,Negative,High
+BK6052943,ITC Narmada,Business,Ahmedabad,Gujarat,India,44595,44597,February,Q1,2022,Executive,1,2,13137,449,2743,26723,23980,2877.6,26857.6,Booking.com,Member,Debit Card,Checked-Out,3.1,Negative,Low
+BK3042624,ITC Narmada,Business,Ahmedabad,Gujarat,India,44480,44481,October,Q4,2021,Luxury Suite,3,1,18616,6619,2921,25235,22314,2677.68,24991.68,Walk-in,Member,Debit Card,Checked-Out,4.6,Negative,Low
+BK1422305,ITC Sonar,Business,Kolkata,West Bengal,India,44331,44332,May,Q2,2021,Luxury Suite,4,1,14551,4230,3555,18781,15226,1827.12,17053.12,Booking.com,Corporate,UPI,Checked-In,4.7,Positive,High
+BK8625822,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44548,44550,December,Q4,2021,Presidential Suite,2,2,6637,300,1636,13574,11938,1432.56,13370.56,Website,VIP,UPI,Checked-In,4.7,Positive,Low
+BK1453750,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44321,44325,May,Q2,2021,Presidential Suite,4,4,23343,918,4131,94290,90159,10819.08,100978.08,Website,VIP,Debit Card,Checked-In,4.6,Positive,High
+BK3480248,ITC Sonar,Business,Kolkata,West Bengal,India,44351,44354,June,Q2,2021,Luxury Suite,3,3,5028,4079,2436,19163,16727,2007.24,18734.24,Booking.com,New Guest,Net Banking,Checked-In,3.8,Positive,High
+BK8495009,ITC Sonar,Business,Kolkata,West Bengal,India,44437,44440,August,Q3,2021,Presidential Suite,1,3,18672,1653,1401,57669,56268,6752.16,63020.16,MakeMyTrip,VIP,Net Banking,Checked-Out,4.6,Positive,Low
+BK1571611,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44643,44647,March,Q1,2022,Deluxe,3,4,21523,1633,3899,87725,83826,10059.12,93885.12,Website,VIP,Credit Card,Checked-In,3.1,Positive,Low
+BK7693467,ITC Rajputana,Business,Jaipur,Rajasthan,India,44519,44523,November,Q4,2021,Executive,3,4,13993,6931,1076,62903,61827,7419.24,69246.24,Booking.com,Regular,Net Banking,Checked-In,4.5,Neutral,Low
+BK5946148,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44408,44411,July,Q3,2021,Luxury Suite,2,3,27758,3717,1828,86991,85163,10219.56,95382.56,Goibibo,New Guest,Cash,Checked-In,3.8,Positive,Low
+BK3453597,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44422,44425,August,Q3,2021,Luxury Suite,1,3,26214,3789,4674,82431,77757,9330.84,87087.84,Website,VIP,Cash,Checked-Out,4.1,Positive,Low
+BK7956836,ITC Sonar,Business,Kolkata,West Bengal,India,44332,44336,May,Q2,2021,Executive,2,4,12767,570,898,51638,50740,6088.8,56828.8,Corporate,Member,Net Banking,Checked-Out,4.4,Positive,High
+BK8095729,ITC Windsor,Business,Bengaluru,Karnataka,India,44619,44620,February,Q1,2022,Presidential Suite,2,1,13923,1065,4041,14988,10947,1313.64,12260.64,Goibibo,Member,Cash,Checked-Out,3.4,Positive,Low
+BK2871264,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44417,44418,August,Q3,2021,Club Room,4,1,15935,5941,2907,21876,18969,2276.28,21245.28,Website,VIP,Credit Card,Checked-In,3.2,Positive,Low
+BK1134255,ITC Rajputana,Business,Jaipur,Rajasthan,India,44342,44343,May,Q2,2021,Executive,4,1,9082,5790,3611,14872,11261,1351.32,12612.32,Website,Member,UPI,Checked-Out,3.2,Positive,High
+BK3838770,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44385,44386,July,Q3,2021,Club Room,2,1,8503,6425,4137,14928,10791,1294.92,12085.92,Walk-in,New Guest,Credit Card,Checked-Out,3.9,Positive,Low
+BK3413079,ITC Windsor,Business,Bengaluru,Karnataka,India,44326,44328,May,Q2,2021,Executive,4,2,5399,3674,4016,14472,10456,1254.72,11710.72,Website,VIP,Debit Card,Cancelled,4.7,Neutral,High
+BK6018016,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44441,44444,September,Q3,2021,Deluxe,3,3,15476,6968,1192,53396,52204,6264.48,58468.48,Corporate,Member,UPI,Checked-Out,4.9,Positive,Low
+BK8998513,ITC Maurya,Luxury,New Delhi,Delhi,India,44602,44603,February,Q1,2022,Luxury Suite,3,1,20186,5831,4507,26017,21510,2581.2,24091.2,Goibibo,Member,Debit Card,Checked-In,4.5,Neutral,Low
+BK9223747,ITC Windsor,Business,Bengaluru,Karnataka,India,44424,44426,August,Q3,2021,Deluxe,4,2,4520,6145,2671,15185,12514,1501.68,14015.68,Corporate,New Guest,Debit Card,Checked-In,3.7,Positive,Low
+BK7658065,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44429,44431,August,Q3,2021,Executive,2,2,26217,3417,2136,55851,53715,6445.8,60160.8,MakeMyTrip,VIP,UPI,Checked-Out,3.9,Positive,Low
+BK6014751,ITC Rajputana,Business,Jaipur,Rajasthan,India,44628,44630,March,Q1,2022,Executive,4,2,24250,8,3465,48508,45043,5405.16,50448.16,Goibibo,New Guest,Cash,Checked-In,3.5,Positive,Low
+BK7940745,ITC Grand Goa,Resort,Goa,Goa,India,44449,44453,September,Q3,2021,Deluxe,3,4,13601,1752,3626,56156,52530,6303.6,58833.6,Corporate,Corporate,Debit Card,Checked-Out,4.5,Positive,Low
+BK5911293,ITC Windsor,Business,Bengaluru,Karnataka,India,44443,44446,September,Q3,2021,Executive,4,3,7366,1332,3499,23430,19931,2391.72,22322.72,Goibibo,VIP,Credit Card,Checked-In,3.8,Positive,Low
+BK5329282,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44544,44548,December,Q4,2021,Club Room,4,4,21371,2785,1420,88269,86849,10421.88,97270.88,Walk-in,Member,Debit Card,Checked-Out,3.8,Positive,Low
+BK6604120,ITC Maurya,Luxury,New Delhi,Delhi,India,44290,44293,April,Q2,2021,Executive,1,3,19336,5043,45,63051,63006,7560.72,70566.72,Goibibo,New Guest,Cash,Checked-In,3.3,Neutral,High
+BK7738224,ITC Narmada,Business,Ahmedabad,Gujarat,India,44587,44590,January,Q1,2022,Luxury Suite,4,3,9857,235,3528,29806,26278,3153.36,29431.36,Corporate,VIP,UPI,Checked-In,3.0,Positive,High
+BK4280399,ITC Narmada,Business,Ahmedabad,Gujarat,India,44565,44569,January,Q1,2022,Club Room,2,4,12826,285,1824,51589,49765,5971.8,55736.8,Goibibo,Member,Debit Card,Checked-In,4.8,Negative,High
+BK3385345,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44483,44484,October,Q4,2021,Presidential Suite,4,1,27517,6677,1604,34194,32590,3910.8,36500.8,Website,Member,Credit Card,Checked-In,4.9,Positive,Low
+BK7555704,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44556,44558,December,Q4,2021,Deluxe,3,2,27989,1892,3327,57870,54543,6545.16,61088.16,MakeMyTrip,VIP,Cash,Checked-In,3.7,Positive,Low
+BK1507395,ITC Windsor,Business,Bengaluru,Karnataka,India,44587,44592,January,Q1,2022,Luxury Suite,4,5,8937,5829,4664,50514,45850,5502.0,51352.0,Website,Regular,Debit Card,Cancelled,4.3,Negative,High
+BK7172862,ITC Windsor,Business,Bengaluru,Karnataka,India,44389,44393,July,Q3,2021,Executive,4,4,26051,6545,293,110749,110456,13254.72,123710.72,MakeMyTrip,Member,Net Banking,Cancelled,3.7,Negative,Low
+BK5230745,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44531,44533,December,Q4,2021,Presidential Suite,2,2,6915,3056,2574,16886,14312,1717.44,16029.44,Booking.com,New Guest,UPI,Checked-Out,4.7,Positive,Low
+BK5417523,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44593,44595,February,Q1,2022,Deluxe,4,2,10001,481,4709,20483,15774,1892.88,17666.88,MakeMyTrip,Corporate,Credit Card,Checked-Out,3.9,Neutral,Low
+BK8487740,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44325,44326,May,Q2,2021,Club Room,1,1,10308,1765,4095,12073,7978,957.36,8935.36,Walk-in,Member,Net Banking,Checked-In,5.0,Positive,High
+BK8159796,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44342,44345,May,Q2,2021,Club Room,4,3,6586,579,2043,20337,18294,2195.28,20489.28,Booking.com,Regular,Credit Card,Checked-In,3.8,Positive,High
+BK9528507,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44645,44650,March,Q1,2022,Club Room,3,5,11431,1928,26,59083,59057,7086.84,66143.84,Walk-in,Member,Cash,Checked-Out,4.9,Neutral,Low
+BK7879686,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44488,44490,October,Q4,2021,Club Room,1,2,24452,3578,4526,52482,47956,5754.72,53710.72,Walk-in,New Guest,Credit Card,Checked-In,4.1,Neutral,Low
+BK8996038,ITC Windsor,Business,Bengaluru,Karnataka,India,44511,44512,November,Q4,2021,Executive,4,1,23819,5774,2875,29593,26718,3206.16,29924.16,MakeMyTrip,Member,Cash,Checked-Out,3.3,Positive,Low
+BK9309706,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44458,44460,September,Q3,2021,Club Room,2,2,9940,1806,2519,21686,19167,2300.04,21467.04,Walk-in,Member,Debit Card,Checked-Out,4.8,Positive,Low
+BK4625036,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44473,44478,October,Q4,2021,Presidential Suite,1,5,18764,1757,747,95577,94830,11379.6,106209.6,Corporate,Regular,Debit Card,Cancelled,3.8,Neutral,Low
+BK3415611,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44385,44387,July,Q3,2021,Deluxe,1,2,15412,2317,1500,33141,31641,3796.92,35437.92,Corporate,Member,Debit Card,Checked-Out,4.0,Positive,Low
+BK5077785,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44360,44361,June,Q2,2021,Deluxe,1,1,6641,4929,1175,11570,10395,1247.4,11642.4,Corporate,Member,Credit Card,Checked-In,4.1,Positive,High
+BK3451355,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44534,44535,December,Q4,2021,Executive,3,1,18313,1353,4531,19666,15135,1816.2,16951.2,Walk-in,VIP,Credit Card,Checked-Out,3.1,Positive,Low
+BK1960592,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44484,44488,October,Q4,2021,Club Room,1,4,7804,4808,1891,36024,34133,4095.96,38228.96,Walk-in,Corporate,Debit Card,Checked-In,3.9,Positive,Low
+BK8584886,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44646,44649,March,Q1,2022,Deluxe,3,3,13416,3918,1491,44166,42675,5121.0,47796.0,Website,Corporate,UPI,Checked-In,3.4,Positive,Low
+BK4505688,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44583,44586,January,Q1,2022,Club Room,3,3,20626,1557,2111,63435,61324,7358.88,68682.88,Goibibo,Member,UPI,Checked-Out,3.8,Positive,High
+BK5865217,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44330,44331,May,Q2,2021,Presidential Suite,4,1,26496,3400,78,29896,29818,3578.16,33396.16,Walk-in,Corporate,Net Banking,Cancelled,3.2,Positive,High
+BK1856138,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44592,44593,January,Q1,2022,Deluxe,1,1,21494,6258,4219,27752,23533,2823.96,26356.96,Website,Regular,UPI,No Show,4.5,Neutral,High
+BK6041516,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44302,44303,April,Q2,2021,Club Room,1,1,14468,2854,2514,17322,14808,1776.96,16584.96,Walk-in,VIP,UPI,Checked-Out,3.2,Positive,High
+BK5857622,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44346,44348,May,Q2,2021,Executive,1,2,20524,6304,3808,47352,43544,5225.28,48769.28,Walk-in,Corporate,UPI,Checked-Out,4.8,Positive,High
+BK6611062,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44300,44301,April,Q2,2021,Executive,1,1,14351,5039,2966,19390,16424,1970.88,18394.88,Goibibo,New Guest,Credit Card,No Show,3.3,Positive,High
+BK2384478,ITC Windsor,Business,Bengaluru,Karnataka,India,44548,44553,December,Q4,2021,Executive,1,5,13499,4891,3874,72386,68512,8221.44,76733.44,Booking.com,Corporate,Credit Card,Checked-In,5.0,Negative,Low
+BK7698764,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44528,44529,November,Q4,2021,Presidential Suite,4,1,25842,3892,274,29734,29460,3535.2,32995.2,Walk-in,New Guest,Cash,Checked-In,4.1,Positive,Low
+BK3525958,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44354,44358,June,Q2,2021,Club Room,1,4,10586,6031,3858,48375,44517,5342.04,49859.04,Booking.com,VIP,UPI,Checked-Out,4.1,Positive,High
+BK9964825,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44554,44558,December,Q4,2021,Club Room,3,4,17219,6738,1460,75614,74154,8898.48,83052.48,Walk-in,Member,Credit Card,Checked-Out,3.2,Positive,Low
+BK5127901,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44467,44468,September,Q3,2021,Executive,1,1,4562,3154,4729,7716,2987,358.44,3345.44,Corporate,VIP,Cash,Checked-In,3.4,Positive,Low
+BK3139064,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44550,44551,December,Q4,2021,Deluxe,3,1,23700,6542,3303,30242,26939,3232.68,30171.68,Website,Corporate,Credit Card,Checked-Out,4.9,Positive,Low
+BK9063393,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44563,44564,January,Q1,2022,Executive,4,1,24680,1890,1977,26570,24593,2951.16,27544.16,Booking.com,VIP,UPI,Checked-In,4.1,Positive,High
+BK3936055,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44391,44395,July,Q3,2021,Luxury Suite,3,4,26640,3114,3653,109674,106021,12722.52,118743.52,Walk-in,Corporate,UPI,Checked-Out,4.2,Positive,Low
+BK7666971,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44362,44366,June,Q2,2021,Club Room,3,4,20909,3210,4519,86846,82327,9879.24,92206.24,Corporate,New Guest,Cash,Checked-Out,3.5,Positive,High
+BK4751509,ITC Windsor,Business,Bengaluru,Karnataka,India,44484,44487,October,Q4,2021,Luxury Suite,4,3,6673,2979,995,22998,22003,2640.36,24643.36,Walk-in,VIP,Cash,Checked-In,4.1,Positive,Low
+BK8581295,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44322,44324,May,Q2,2021,Presidential Suite,3,2,27738,1214,980,56690,55710,6685.2,62395.2,Booking.com,Regular,Net Banking,Cancelled,4.7,Neutral,High
+BK5751702,ITC Windsor,Business,Bengaluru,Karnataka,India,44511,44516,November,Q4,2021,Luxury Suite,4,5,7061,3250,2741,38555,35814,4297.68,40111.68,Website,Regular,UPI,Checked-In,4.3,Positive,Low
+BK7976626,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44449,44452,September,Q3,2021,Club Room,3,3,8968,727,4860,27631,22771,2732.52,25503.52,Website,Corporate,Cash,Checked-Out,3.0,Neutral,Low
+BK1838419,ITC Windsor,Business,Bengaluru,Karnataka,India,44384,44385,July,Q3,2021,Luxury Suite,1,1,7702,4511,2635,12213,9578,1149.36,10727.36,MakeMyTrip,New Guest,Net Banking,Checked-Out,3.4,Positive,Low
+BK7863891,ITC Grand Goa,Resort,Goa,Goa,India,44608,44612,February,Q1,2022,Club Room,4,4,8671,3414,3900,38098,34198,4103.76,38301.76,Booking.com,Member,Credit Card,Checked-In,4.6,Positive,Low
+BK1762653,ITC Sonar,Business,Kolkata,West Bengal,India,44446,44449,September,Q3,2021,Luxury Suite,1,3,23093,489,4394,69768,65374,7844.88,73218.88,Booking.com,New Guest,Net Banking,Checked-Out,4.9,Neutral,Low
+BK8273301,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44406,44411,July,Q3,2021,Deluxe,2,5,18538,4083,4478,96773,92295,11075.4,103370.4,MakeMyTrip,Regular,Net Banking,Checked-Out,4.5,Negative,Low
+BK8400895,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44578,44580,January,Q1,2022,Club Room,3,2,7490,3450,1562,18430,16868,2024.16,18892.16,Goibibo,Member,Net Banking,Checked-Out,4.0,Positive,High
+BK7887693,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44297,44302,April,Q2,2021,Presidential Suite,4,5,15810,5541,2658,84591,81933,9831.96,91764.96,Corporate,Corporate,Credit Card,Checked-In,4.3,Neutral,High
+BK6255971,ITC Maurya,Luxury,New Delhi,Delhi,India,44630,44635,March,Q1,2022,Executive,1,5,17131,4429,18,90084,90066,10807.92,100873.92,Booking.com,Member,Credit Card,Cancelled,4.8,Positive,Low
+BK4947720,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44298,44303,April,Q2,2021,Deluxe,4,5,18923,6829,3159,101444,98285,11794.2,110079.2,Corporate,Member,Cash,Checked-Out,4.2,Positive,High
+BK4331302,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44361,44365,June,Q2,2021,Club Room,2,4,12536,88,2408,50232,47824,5738.88,53562.88,MakeMyTrip,VIP,Credit Card,Checked-Out,3.8,Positive,High
+BK9471075,ITC Sonar,Business,Kolkata,West Bengal,India,44331,44335,May,Q2,2021,Deluxe,4,4,15041,3161,2742,63325,60583,7269.96,67852.96,Goibibo,New Guest,Net Banking,Cancelled,5.0,Negative,High
+BK1664927,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44370,44372,June,Q2,2021,Club Room,1,2,15925,2342,2399,34192,31793,3815.16,35608.16,Website,Member,UPI,Checked-In,4.7,Positive,High
+BK5746854,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44526,44529,November,Q4,2021,Deluxe,3,3,24299,5482,4632,78379,73747,8849.64,82596.64,MakeMyTrip,Regular,Cash,Cancelled,4.5,Positive,Low
+BK2569103,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44528,44532,November,Q4,2021,Presidential Suite,2,4,20035,1059,4008,81199,77191,9262.92,86453.92,Website,VIP,UPI,Checked-In,3.6,Neutral,Low
+BK9995766,ITC Rajputana,Business,Jaipur,Rajasthan,India,44327,44332,May,Q2,2021,Executive,2,5,8537,6779,4057,49464,45407,5448.84,50855.84,Website,Member,Cash,Cancelled,3.9,Neutral,High
+BK2934089,ITC Rajputana,Business,Jaipur,Rajasthan,India,44626,44627,March,Q1,2022,Deluxe,1,1,14488,5778,4602,20266,15664,1879.68,17543.68,MakeMyTrip,Member,Cash,Checked-Out,4.2,Positive,Low
+BK6646182,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44388,44392,July,Q3,2021,Deluxe,2,4,15200,5588,3338,66388,63050,7566.0,70616.0,Booking.com,Regular,Credit Card,Checked-Out,4.0,Negative,Low
+BK5476887,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44524,44525,November,Q4,2021,Presidential Suite,2,1,23540,3833,4349,27373,23024,2762.88,25786.88,MakeMyTrip,New Guest,Cash,Checked-In,4.2,Positive,Low
+BK5806128,ITC Rajputana,Business,Jaipur,Rajasthan,India,44648,44652,March,Q1,2022,Executive,4,4,5641,4671,2842,27235,24393,2927.16,27320.16,Walk-in,Corporate,UPI,Checked-In,4.2,Positive,Low
+BK7304177,ITC Grand Goa,Resort,Goa,Goa,India,44502,44505,November,Q4,2021,Deluxe,4,3,17842,6738,18,60264,60246,7229.52,67475.52,MakeMyTrip,VIP,Cash,Checked-In,4.7,Neutral,Low
+BK5648908,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44288,44289,April,Q2,2021,Deluxe,3,1,12993,1213,395,14206,13811,1657.32,15468.32,Booking.com,New Guest,Debit Card,No Show,3.6,Positive,High
+BK4367648,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44421,44426,August,Q3,2021,Executive,2,5,22337,2260,2122,113945,111823,13418.76,125241.76,Booking.com,Member,Net Banking,Checked-Out,5.0,Positive,Low
+BK6130952,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44455,44457,September,Q3,2021,Deluxe,3,2,6614,2789,1112,16017,14905,1788.6,16693.6,Website,Corporate,Cash,No Show,4.9,Positive,Low
+BK9451142,ITC Windsor,Business,Bengaluru,Karnataka,India,44535,44537,December,Q4,2021,Presidential Suite,3,2,21784,3880,3921,47448,43527,5223.24,48750.24,Goibibo,Member,Debit Card,Checked-In,4.3,Positive,Low
+BK3197594,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44629,44630,March,Q1,2022,Deluxe,4,1,26673,2507,4322,29180,24858,2982.96,27840.96,Booking.com,New Guest,Credit Card,Checked-In,3.6,Neutral,Low
+BK8490819,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44512,44517,November,Q4,2021,Executive,2,5,10029,506,2008,50651,48643,5837.16,54480.16,Goibibo,Member,Cash,Checked-In,4.2,Positive,Low
+BK5781019,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44630,44635,March,Q1,2022,Club Room,3,5,24421,1820,1730,123925,122195,14663.4,136858.4,Website,Corporate,Debit Card,Checked-In,4.0,Positive,Low
+BK2019936,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44549,44552,December,Q4,2021,Club Room,4,3,4636,6577,1566,20485,18919,2270.28,21189.28,Corporate,Member,Cash,Checked-In,3.8,Positive,Low
+BK3261237,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44398,44401,July,Q3,2021,Deluxe,3,3,26699,1624,3551,81721,78170,9380.4,87550.4,Walk-in,Corporate,Cash,Checked-In,4.4,Negative,Low
+BK6660596,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44328,44329,May,Q2,2021,Club Room,3,1,20892,6494,4494,27386,22892,2747.04,25639.04,Corporate,Regular,UPI,Checked-Out,4.1,Positive,High
+BK1671538,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44428,44431,August,Q3,2021,Luxury Suite,3,3,19042,6740,1697,63866,62169,7460.28,69629.28,Walk-in,Regular,UPI,Checked-In,3.2,Positive,Low
+BK4279773,ITC Sonar,Business,Kolkata,West Bengal,India,44622,44623,March,Q1,2022,Club Room,3,1,5523,4215,330,9738,9408,1128.96,10536.96,Booking.com,Member,Debit Card,Checked-In,3.6,Positive,Low
+BK4306434,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44310,44314,April,Q2,2021,Club Room,1,4,10488,3348,2021,45300,43279,5193.48,48472.48,MakeMyTrip,New Guest,Debit Card,Checked-Out,3.5,Positive,High
+BK1534553,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44433,44438,August,Q3,2021,Presidential Suite,3,5,13035,1051,4983,66226,61243,7349.16,68592.16,Goibibo,Member,UPI,No Show,4.4,Positive,Low
+BK6704001,ITC Windsor,Business,Bengaluru,Karnataka,India,44404,44408,July,Q3,2021,Presidential Suite,4,4,25158,82,3726,100714,96988,11638.56,108626.56,Walk-in,Regular,Credit Card,Checked-In,4.1,Negative,Low
+BK8838511,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44577,44579,January,Q1,2022,Executive,2,2,18049,1626,4129,37724,33595,4031.4,37626.4,Goibibo,Regular,Cash,Checked-In,4.7,Positive,High
+BK3897475,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44574,44575,January,Q1,2022,Luxury Suite,4,1,16579,492,856,17071,16215,1945.8,18160.8,Booking.com,Member,UPI,Checked-In,3.1,Positive,High
+BK2231566,ITC Sonar,Business,Kolkata,West Bengal,India,44445,44447,September,Q3,2021,Deluxe,1,2,10552,6563,229,27667,27438,3292.56,30730.56,Website,Corporate,Net Banking,Checked-In,4.8,Neutral,Low
+BK7244677,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44299,44304,April,Q2,2021,Executive,3,5,6528,2269,248,34909,34661,4159.32,38820.32,Booking.com,VIP,Cash,Checked-In,3.8,Positive,High
+BK9809467,ITC Grand Goa,Resort,Goa,Goa,India,44480,44483,October,Q4,2021,Deluxe,1,3,19347,6299,1820,64340,62520,7502.4,70022.4,MakeMyTrip,VIP,Cash,Checked-Out,5.0,Positive,Low
+BK1509054,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44287,44288,April,Q2,2021,Executive,2,1,26449,950,4927,27399,22472,2696.64,25168.64,MakeMyTrip,VIP,Cash,Checked-In,4.2,Positive,High
+BK6929930,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44307,44308,April,Q2,2021,Deluxe,4,1,9133,5919,2685,15052,12367,1484.04,13851.04,MakeMyTrip,Member,Cash,No Show,3.7,Positive,High
+BK8592572,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44482,44487,October,Q4,2021,Presidential Suite,4,5,18945,2973,3710,97698,93988,11278.56,105266.56,Corporate,New Guest,UPI,Checked-Out,4.0,Positive,Low
+BK2969788,ITC Sonar,Business,Kolkata,West Bengal,India,44577,44580,January,Q1,2022,Executive,2,3,11693,1956,499,37035,36536,4384.32,40920.32,MakeMyTrip,Regular,Credit Card,Cancelled,3.7,Positive,High
+BK9127196,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44538,44541,December,Q4,2021,Club Room,3,3,19650,4470,4272,63420,59148,7097.76,66245.76,Goibibo,VIP,Credit Card,No Show,4.9,Neutral,Low
+BK2697731,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44624,44625,March,Q1,2022,Deluxe,1,1,17334,181,963,17515,16552,1986.24,18538.24,Website,VIP,Net Banking,Checked-In,4.6,Negative,Low
+BK2135120,ITC Windsor,Business,Bengaluru,Karnataka,India,44297,44302,April,Q2,2021,Executive,2,5,10160,1023,1983,51823,49840,5980.8,55820.8,Corporate,Regular,UPI,Checked-In,4.2,Neutral,High
+BK1473688,ITC Windsor,Business,Bengaluru,Karnataka,India,44310,44313,April,Q2,2021,Club Room,4,3,7925,2456,819,26231,25412,3049.44,28461.44,Website,Corporate,UPI,Checked-In,3.8,Positive,High
+BK9905004,ITC Windsor,Business,Bengaluru,Karnataka,India,44608,44610,February,Q1,2022,Presidential Suite,3,2,26982,85,2302,54049,51747,6209.64,57956.64,Booking.com,Member,Credit Card,Checked-In,3.7,Neutral,Low
+BK9842247,ITC Grand Goa,Resort,Goa,Goa,India,44500,44501,October,Q4,2021,Presidential Suite,1,1,19511,3245,4500,22756,18256,2190.72,20446.72,Website,Corporate,Net Banking,Checked-Out,3.8,Positive,Low
+BK9573968,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44541,44544,December,Q4,2021,Presidential Suite,1,3,19107,742,658,58063,57405,6888.6,64293.6,Booking.com,Member,Cash,Checked-Out,3.4,Positive,Low
+BK5806966,ITC Grand Goa,Resort,Goa,Goa,India,44387,44390,July,Q3,2021,Club Room,2,3,5105,4691,573,20006,19433,2331.96,21764.96,Goibibo,Regular,Net Banking,Checked-In,4.4,Positive,Low
+BK1842999,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44603,44604,February,Q1,2022,Executive,3,1,26769,2388,486,29157,28671,3440.52,32111.52,Walk-in,VIP,Cash,Checked-In,4.8,Positive,Low
+BK2538780,ITC Grand Goa,Resort,Goa,Goa,India,44313,44318,April,Q2,2021,Club Room,3,5,15097,4862,1012,80347,79335,9520.2,88855.2,MakeMyTrip,Corporate,UPI,Checked-Out,3.3,Positive,High
+BK4634184,ITC Maurya,Luxury,New Delhi,Delhi,India,44374,44378,June,Q2,2021,Deluxe,3,4,20187,2547,4939,83295,78356,9402.72,87758.72,Website,Member,Cash,Checked-Out,3.6,Positive,High
+BK2900082,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44600,44603,February,Q1,2022,Executive,1,3,22723,2951,3751,71120,67369,8084.28,75453.28,Walk-in,Corporate,Cash,Checked-Out,3.0,Positive,Low
+BK3314510,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44522,44523,November,Q4,2021,Presidential Suite,2,1,6264,3942,1805,10206,8401,1008.12,9409.12,Goibibo,VIP,UPI,Cancelled,4.6,Positive,Low
+BK7631476,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44549,44551,December,Q4,2021,Luxury Suite,3,2,18694,2418,2139,39806,37667,4520.04,42187.04,MakeMyTrip,New Guest,UPI,Checked-Out,3.9,Positive,Low
+BK8071212,ITC Sonar,Business,Kolkata,West Bengal,India,44382,44385,July,Q3,2021,Deluxe,3,3,15857,874,1653,48445,46792,5615.04,52407.04,Website,VIP,Net Banking,Checked-Out,4.7,Negative,Low
+BK8873340,ITC Maurya,Luxury,New Delhi,Delhi,India,44392,44397,July,Q3,2021,Executive,1,5,19394,4230,3925,101200,97275,11673.0,108948.0,Goibibo,Regular,Net Banking,Checked-In,3.1,Neutral,Low
+BK6022123,ITC Windsor,Business,Bengaluru,Karnataka,India,44612,44614,February,Q1,2022,Deluxe,3,2,15040,6388,3376,36468,33092,3971.04,37063.04,Booking.com,Member,Net Banking,Checked-Out,4.4,Positive,Low
+BK6134975,ITC Sonar,Business,Kolkata,West Bengal,India,44406,44409,July,Q3,2021,Club Room,1,3,19138,1337,2689,58751,56062,6727.44,62789.44,Goibibo,Regular,Credit Card,Checked-Out,4.1,Positive,Low
+BK2612779,ITC Sonar,Business,Kolkata,West Bengal,India,44328,44333,May,Q2,2021,Deluxe,4,5,9403,4694,79,51709,51630,6195.6,57825.6,Walk-in,Member,Net Banking,Checked-In,4.6,Negative,High
+BK3191525,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44295,44300,April,Q2,2021,Club Room,1,5,14553,4995,192,77760,77568,9308.16,86876.16,Booking.com,Member,Credit Card,Checked-Out,3.9,Positive,High
+BK2762924,ITC Narmada,Business,Ahmedabad,Gujarat,India,44586,44588,January,Q1,2022,Presidential Suite,4,2,17539,2357,1995,37435,35440,4252.8,39692.8,Corporate,New Guest,UPI,Checked-In,3.6,Positive,High
+BK3639033,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44504,44509,November,Q4,2021,Executive,4,5,10013,4976,150,55041,54891,6586.92,61477.92,Walk-in,New Guest,Cash,Checked-Out,4.7,Positive,Low
+BK8175758,ITC Maurya,Luxury,New Delhi,Delhi,India,44492,44496,October,Q4,2021,Executive,2,4,19822,6213,2833,85501,82668,9920.16,92588.16,MakeMyTrip,Corporate,Debit Card,Checked-In,4.4,Neutral,Low
+BK7622124,ITC Sonar,Business,Kolkata,West Bengal,India,44518,44523,November,Q4,2021,Deluxe,4,5,26838,1629,1178,135819,134641,16156.92,150797.92,Website,Regular,Net Banking,Checked-Out,3.8,Neutral,Low
+BK1590338,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44319,44321,May,Q2,2021,Executive,2,2,23087,4086,189,50260,50071,6008.52,56079.52,Booking.com,Corporate,Credit Card,Checked-Out,4.4,Positive,High
+BK4277514,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44615,44616,February,Q1,2022,Luxury Suite,4,1,5656,6439,2753,12095,9342,1121.04,10463.04,Walk-in,VIP,Debit Card,Checked-In,3.2,Positive,Low
+BK6282836,ITC Maurya,Luxury,New Delhi,Delhi,India,44547,44552,December,Q4,2021,Luxury Suite,4,5,13199,1529,1632,67524,65892,7907.04,73799.04,Booking.com,Member,UPI,Checked-In,3.3,Positive,Low
+BK5751239,ITC Narmada,Business,Ahmedabad,Gujarat,India,44365,44369,June,Q2,2021,Club Room,2,4,25799,4391,1413,107587,106174,12740.88,118914.88,Walk-in,Member,Net Banking,Cancelled,4.4,Positive,High
+BK2060184,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44473,44476,October,Q4,2021,Executive,4,3,6680,3865,4081,23905,19824,2378.88,22202.88,MakeMyTrip,VIP,Cash,Cancelled,4.1,Positive,Low
+BK7074019,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44604,44606,February,Q1,2022,Deluxe,4,2,12716,6300,2923,31732,28809,3457.08,32266.08,Booking.com,Regular,Credit Card,Cancelled,3.1,Positive,Low
+BK4800933,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44549,44551,December,Q4,2021,Presidential Suite,1,2,19581,3361,2998,42523,39525,4743.0,44268.0,Corporate,Regular,Debit Card,Checked-In,4.2,Neutral,Low
+BK1400150,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44335,44336,May,Q2,2021,Luxury Suite,2,1,15641,6079,3319,21720,18401,2208.12,20609.12,Corporate,New Guest,Debit Card,Checked-In,3.5,Neutral,High
+BK9461418,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44629,44631,March,Q1,2022,Presidential Suite,4,2,20887,2863,2743,44637,41894,5027.28,46921.28,Booking.com,VIP,Debit Card,Checked-In,3.3,Positive,Low
+BK3385776,ITC Windsor,Business,Bengaluru,Karnataka,India,44359,44363,June,Q2,2021,Luxury Suite,3,4,10495,3623,1744,45603,43859,5263.08,49122.08,Walk-in,Corporate,Debit Card,Checked-Out,3.9,Neutral,High
+BK9624436,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44355,44357,June,Q2,2021,Executive,3,2,27769,3847,939,59385,58446,7013.52,65459.52,Corporate,Regular,UPI,Checked-In,3.3,Neutral,High
+BK1420643,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44367,44371,June,Q2,2021,Presidential Suite,3,4,24422,4195,1817,101883,100066,12007.92,112073.92,Walk-in,VIP,Net Banking,Checked-In,3.4,Positive,High
+BK6801976,ITC Sonar,Business,Kolkata,West Bengal,India,44431,44434,August,Q3,2021,Executive,4,3,4806,4076,3266,18494,15228,1827.36,17055.36,Goibibo,Member,UPI,Checked-Out,4.5,Positive,Low
+BK4159522,ITC Windsor,Business,Bengaluru,Karnataka,India,44419,44421,August,Q3,2021,Luxury Suite,3,2,9772,6274,3579,25818,22239,2668.68,24907.68,Goibibo,New Guest,Credit Card,Checked-In,4.3,Positive,Low
+BK9685661,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44360,44361,June,Q2,2021,Luxury Suite,2,1,15352,1255,2272,16607,14335,1720.2,16055.2,Goibibo,Corporate,UPI,Checked-In,3.4,Positive,High
+BK1081146,ITC Maurya,Luxury,New Delhi,Delhi,India,44462,44467,September,Q3,2021,Luxury Suite,4,5,12579,5459,4108,68354,64246,7709.52,71955.52,Walk-in,Regular,Credit Card,Checked-In,4.3,Positive,Low
+BK5600422,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44375,44378,June,Q2,2021,Executive,3,3,20425,606,4417,61881,57464,6895.68,64359.68,Corporate,New Guest,UPI,Checked-In,3.1,Positive,High
+BK2457252,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44438,44442,August,Q3,2021,Luxury Suite,4,4,16541,4363,206,70527,70321,8438.52,78759.52,Booking.com,Regular,Net Banking,Checked-In,3.4,Positive,Low
+BK8457949,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44566,44571,January,Q1,2022,Luxury Suite,1,5,21460,4119,3152,111419,108267,12992.04,121259.04,Walk-in,Member,Credit Card,No Show,3.0,Neutral,High
+BK7581949,ITC Sonar,Business,Kolkata,West Bengal,India,44304,44307,April,Q2,2021,Presidential Suite,1,3,5782,5515,1412,22861,21449,2573.88,24022.88,Walk-in,Corporate,Cash,Checked-Out,3.9,Neutral,High
+BK7921592,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44373,44376,June,Q2,2021,Executive,4,3,26584,6085,1991,85837,83846,10061.52,93907.52,MakeMyTrip,New Guest,Net Banking,Checked-In,3.9,Neutral,High
+BK2140949,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44522,44525,November,Q4,2021,Executive,1,3,7568,2616,4302,25320,21018,2522.16,23540.16,Goibibo,Member,Credit Card,Checked-Out,3.5,Positive,Low
+BK1569857,ITC Windsor,Business,Bengaluru,Karnataka,India,44547,44550,December,Q4,2021,Deluxe,2,3,27064,1586,3658,82778,79120,9494.4,88614.4,Corporate,Member,UPI,Checked-In,3.5,Negative,Low
+BK5548406,ITC Sonar,Business,Kolkata,West Bengal,India,44378,44382,July,Q3,2021,Luxury Suite,3,4,18897,6718,1359,82306,80947,9713.64,90660.64,Goibibo,VIP,Net Banking,Checked-Out,4.3,Positive,Low
+BK4458553,ITC Rajputana,Business,Jaipur,Rajasthan,India,44637,44638,March,Q1,2022,Club Room,1,1,4915,4034,2741,8949,6208,744.96,6952.96,MakeMyTrip,New Guest,Net Banking,Checked-Out,4.4,Neutral,Low
+BK6133490,ITC Narmada,Business,Ahmedabad,Gujarat,India,44443,44445,September,Q3,2021,Deluxe,1,2,20841,927,3667,42609,38942,4673.04,43615.04,Walk-in,Regular,Cash,Checked-In,3.7,Positive,Low
+BK4461172,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44565,44567,January,Q1,2022,Presidential Suite,4,2,16491,6206,3807,39188,35381,4245.72,39626.72,Corporate,Corporate,UPI,Checked-In,4.2,Positive,High
+BK4744418,ITC Maurya,Luxury,New Delhi,Delhi,India,44608,44610,February,Q1,2022,Luxury Suite,1,2,21765,2349,634,45879,45245,5429.4,50674.4,Booking.com,Corporate,UPI,Cancelled,4.5,Positive,Low
+BK4731389,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44522,44527,November,Q4,2021,Club Room,3,5,22130,1229,3787,111879,108092,12971.04,121063.04,Corporate,VIP,UPI,Checked-Out,4.8,Positive,Low
+BK1367331,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44646,44648,March,Q1,2022,Deluxe,2,2,27277,1517,4849,56071,51222,6146.64,57368.64,Booking.com,VIP,Debit Card,Checked-In,5.0,Negative,Low
+BK8196898,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44635,44636,March,Q1,2022,Executive,1,1,7786,2092,2281,9878,7597,911.64,8508.64,Goibibo,Corporate,Net Banking,Checked-In,3.7,Positive,Low
+BK6897400,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44379,44382,July,Q3,2021,Club Room,2,3,27716,3941,3747,87089,83342,10001.04,93343.04,Goibibo,Corporate,Credit Card,Cancelled,4.7,Positive,Low
+BK1237167,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44420,44424,August,Q3,2021,Presidential Suite,4,4,23750,5086,1876,100086,98210,11785.2,109995.2,Corporate,Member,Net Banking,Checked-In,3.6,Positive,Low
+BK6366205,ITC Maurya,Luxury,New Delhi,Delhi,India,44457,44459,September,Q3,2021,Presidential Suite,1,2,15209,1858,2996,32276,29280,3513.6,32793.6,Walk-in,New Guest,Debit Card,Checked-Out,3.9,Positive,Low
+BK1708855,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44535,44539,December,Q4,2021,Presidential Suite,4,4,18439,6062,999,79818,78819,9458.28,88277.28,MakeMyTrip,Regular,UPI,Checked-In,4.0,Positive,Low
+BK3814174,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44382,44387,July,Q3,2021,Presidential Suite,2,5,9049,1948,4068,47193,43125,5175.0,48300.0,Corporate,VIP,Cash,Checked-In,5.0,Negative,Low
+BK9938148,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44483,44485,October,Q4,2021,Luxury Suite,3,2,7271,3541,1924,18083,16159,1939.08,18098.08,Corporate,VIP,Credit Card,No Show,4.0,Neutral,Low
+BK5361117,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44619,44620,February,Q1,2022,Luxury Suite,3,1,19898,3005,599,22903,22304,2676.48,24980.48,Booking.com,Corporate,Debit Card,Checked-Out,4.6,Positive,Low
+BK3396852,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44581,44585,January,Q1,2022,Luxury Suite,4,4,24252,681,3476,97689,94213,11305.56,105518.56,Website,New Guest,Credit Card,Checked-In,4.6,Positive,High
+BK2566157,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44313,44314,April,Q2,2021,Deluxe,1,1,23306,3269,2685,26575,23890,2866.8,26756.8,Website,Member,Debit Card,Checked-In,4.0,Positive,High
+BK8700790,ITC Narmada,Business,Ahmedabad,Gujarat,India,44334,44337,May,Q2,2021,Deluxe,1,3,9953,2537,50,32396,32346,3881.52,36227.52,Corporate,Regular,UPI,Checked-Out,3.9,Negative,High
+BK8886292,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44288,44293,April,Q2,2021,Club Room,4,5,18435,44,2877,92219,89342,10721.04,100063.04,Goibibo,Regular,Cash,Checked-Out,4.4,Neutral,High
+BK8055229,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44426,44431,August,Q3,2021,Club Room,1,5,23519,1523,2047,119118,117071,14048.52,131119.52,Corporate,Regular,Cash,Checked-In,4.0,Positive,Low
+BK3857330,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44405,44410,July,Q3,2021,Club Room,3,5,5788,4018,4538,32958,28420,3410.4,31830.4,Corporate,New Guest,Debit Card,Checked-In,5.0,Neutral,Low
+BK1031293,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44454,44455,September,Q3,2021,Luxury Suite,1,1,19401,6517,1408,25918,24510,2941.2,27451.2,Walk-in,Regular,Credit Card,Checked-Out,4.5,Positive,Low
+BK5025219,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44390,44391,July,Q3,2021,Luxury Suite,1,1,22430,5829,262,28259,27997,3359.64,31356.64,Walk-in,Member,Cash,Checked-In,4.7,Positive,Low
+BK1651704,ITC Windsor,Business,Bengaluru,Karnataka,India,44496,44499,October,Q4,2021,Presidential Suite,4,3,18834,1578,438,58080,57642,6917.04,64559.04,Walk-in,Regular,UPI,Checked-Out,4.6,Positive,Low
+BK1843163,ITC Grand Goa,Resort,Goa,Goa,India,44418,44422,August,Q3,2021,Deluxe,1,4,23614,2708,1917,97164,95247,11429.64,106676.64,Goibibo,Regular,UPI,Checked-In,4.2,Positive,Low
+BK6678224,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44351,44356,June,Q2,2021,Executive,3,5,7243,529,3809,36744,32935,3952.2,36887.2,Walk-in,Corporate,Net Banking,Checked-In,3.9,Neutral,High
+BK4312841,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44371,44374,June,Q2,2021,Deluxe,4,3,25446,44,76,76382,76306,9156.72,85462.72,MakeMyTrip,Corporate,Debit Card,Checked-Out,4.4,Positive,High
+BK1829347,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44308,44312,April,Q2,2021,Club Room,2,4,6366,2033,2483,27497,25014,3001.68,28015.68,Walk-in,Member,Credit Card,Checked-In,3.9,Positive,High
+BK8153673,ITC Maurya,Luxury,New Delhi,Delhi,India,44321,44324,May,Q2,2021,Presidential Suite,1,3,19466,2236,1116,60634,59518,7142.16,66660.16,Corporate,VIP,Credit Card,Checked-In,4.7,Positive,High
+BK5699263,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44409,44413,August,Q3,2021,Deluxe,4,4,25934,6986,3658,110722,107064,12847.68,119911.68,Website,Regular,Debit Card,Checked-Out,3.8,Positive,Low
+BK8652546,ITC Grand Goa,Resort,Goa,Goa,India,44624,44628,March,Q1,2022,Executive,3,4,17063,704,3999,68956,64957,7794.84,72751.84,Corporate,New Guest,Credit Card,Checked-In,4.7,Positive,Low
+BK8893729,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44520,44524,November,Q4,2021,Deluxe,3,4,8432,6862,2917,40590,37673,4520.76,42193.76,Walk-in,Corporate,Cash,Checked-In,3.5,Positive,Low
+BK5987401,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44373,44376,June,Q2,2021,Deluxe,3,3,22551,2996,1895,70649,68754,8250.48,77004.48,MakeMyTrip,Regular,Debit Card,Checked-Out,3.9,Positive,High
+BK2564039,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44387,44388,July,Q3,2021,Luxury Suite,4,1,26469,2661,303,29130,28827,3459.24,32286.24,Corporate,Regular,UPI,Checked-In,4.0,Negative,Low
+BK8922196,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44312,44316,April,Q2,2021,Executive,1,4,22372,3869,2176,93357,91181,10941.72,102122.72,Walk-in,New Guest,Net Banking,Checked-In,4.4,Positive,High
+BK8077021,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44429,44431,August,Q3,2021,Club Room,4,2,14070,2015,1817,30155,28338,3400.56,31738.56,Walk-in,Corporate,Debit Card,Checked-In,4.1,Positive,Low
+BK7070579,ITC Grand Goa,Resort,Goa,Goa,India,44350,44351,June,Q2,2021,Presidential Suite,4,1,9477,2438,4161,11915,7754,930.48,8684.48,Website,New Guest,Debit Card,Checked-In,3.8,Positive,High
+BK7405185,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44552,44555,December,Q4,2021,Deluxe,4,3,23284,5070,595,74922,74327,8919.24,83246.24,Booking.com,Member,Net Banking,Checked-In,3.0,Positive,Low
+BK5497453,ITC Narmada,Business,Ahmedabad,Gujarat,India,44370,44372,June,Q2,2021,Presidential Suite,3,2,5854,5768,3950,17476,13526,1623.12,15149.12,Corporate,New Guest,Credit Card,Checked-In,3.9,Positive,High
+BK6324886,ITC Grand Goa,Resort,Goa,Goa,India,44307,44309,April,Q2,2021,Executive,1,2,13398,1402,1934,28198,26264,3151.68,29415.68,Corporate,Member,Credit Card,Checked-In,4.6,Neutral,High
+BK1345047,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44511,44515,November,Q4,2021,Deluxe,2,4,6895,3256,4256,30836,26580,3189.6,29769.6,Corporate,Member,Debit Card,Checked-Out,3.0,Positive,Low
+BK3566713,ITC Grand Goa,Resort,Goa,Goa,India,44319,44321,May,Q2,2021,Presidential Suite,4,2,9662,4167,345,23491,23146,2777.52,25923.52,Corporate,Member,Debit Card,Checked-Out,4.3,Neutral,High
+BK7387315,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44305,44307,April,Q2,2021,Deluxe,4,2,4888,2863,1551,12639,11088,1330.56,12418.56,Goibibo,Regular,Debit Card,Checked-In,4.9,Positive,High
+BK8324377,ITC Narmada,Business,Ahmedabad,Gujarat,India,44547,44551,December,Q4,2021,Luxury Suite,3,4,5356,4094,3797,25518,21721,2606.52,24327.52,Walk-in,VIP,Cash,Checked-In,4.3,Positive,Low
+BK2340814,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44553,44554,December,Q4,2021,Presidential Suite,2,1,27208,4661,3684,31869,28185,3382.2,31567.2,Corporate,VIP,Net Banking,Checked-Out,4.6,Positive,Low
+BK2718870,ITC Rajputana,Business,Jaipur,Rajasthan,India,44615,44617,February,Q1,2022,Club Room,2,2,26566,3704,733,56836,56103,6732.36,62835.36,Goibibo,Member,Credit Card,Cancelled,3.5,Positive,Low
+BK6784339,ITC Windsor,Business,Bengaluru,Karnataka,India,44575,44579,January,Q1,2022,Luxury Suite,1,4,10326,4389,3493,45693,42200,5064.0,47264.0,Goibibo,Regular,UPI,Checked-Out,4.6,Negative,High
+BK8100806,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44462,44464,September,Q3,2021,Luxury Suite,1,2,13335,6953,3916,33623,29707,3564.84,33271.84,Goibibo,New Guest,Debit Card,Checked-Out,3.7,Negative,Low
+BK1666250,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44513,44515,November,Q4,2021,Presidential Suite,1,2,16974,3756,4384,37704,33320,3998.4,37318.4,MakeMyTrip,VIP,Cash,No Show,4.5,Positive,Low
+BK9755642,ITC Grand Goa,Resort,Goa,Goa,India,44362,44364,June,Q2,2021,Presidential Suite,4,2,16825,6810,4425,40460,36035,4324.2,40359.2,Booking.com,VIP,Cash,Checked-In,3.8,Positive,High
+BK5755737,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44650,44652,March,Q1,2022,Executive,2,2,7768,544,2924,16080,13156,1578.72,14734.72,Goibibo,Member,Credit Card,Checked-In,3.6,Positive,Low
+BK1191705,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44332,44337,May,Q2,2021,Presidential Suite,3,5,25752,4738,2338,133498,131160,15739.2,146899.2,Goibibo,Corporate,Credit Card,Checked-Out,3.5,Positive,High
+BK7353489,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44580,44581,January,Q1,2022,Luxury Suite,1,1,13685,6653,1830,20338,18508,2220.96,20728.96,MakeMyTrip,New Guest,Cash,Checked-Out,3.9,Neutral,High
+BK1800823,ITC Rajputana,Business,Jaipur,Rajasthan,India,44583,44585,January,Q1,2022,Executive,3,2,13363,5964,4756,32690,27934,3352.08,31286.08,MakeMyTrip,New Guest,Credit Card,Checked-In,4.0,Positive,High
+BK8860501,ITC Windsor,Business,Bengaluru,Karnataka,India,44541,44542,December,Q4,2021,Luxury Suite,2,1,26305,613,1675,26918,25243,3029.16,28272.16,Walk-in,Corporate,Credit Card,Checked-Out,4.4,Positive,Low
+BK7726752,ITC Windsor,Business,Bengaluru,Karnataka,India,44395,44397,July,Q3,2021,Luxury Suite,3,2,15665,2,4475,31332,26857,3222.84,30079.84,Booking.com,Regular,Cash,Checked-Out,3.9,Positive,Low
+BK1551163,ITC Windsor,Business,Bengaluru,Karnataka,India,44398,44400,July,Q3,2021,Deluxe,4,2,27684,31,921,55399,54478,6537.36,61015.36,Corporate,New Guest,UPI,Checked-In,3.9,Neutral,Low
+BK5512921,ITC Windsor,Business,Bengaluru,Karnataka,India,44336,44338,May,Q2,2021,Luxury Suite,1,2,24254,4966,1738,53474,51736,6208.32,57944.32,Walk-in,Regular,Cash,Checked-Out,3.7,Positive,High
+BK1621844,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44511,44512,November,Q4,2021,Deluxe,1,1,18781,2470,4946,21251,16305,1956.6,18261.6,Goibibo,Regular,Cash,Checked-In,3.2,Negative,Low
+BK7431713,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44536,44539,December,Q4,2021,Luxury Suite,3,3,19756,6384,4227,65652,61425,7371.0,68796.0,Booking.com,Corporate,Net Banking,Cancelled,3.6,Positive,Low
+BK7764257,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44292,44297,April,Q2,2021,Presidential Suite,2,5,9028,935,2386,46075,43689,5242.68,48931.68,Corporate,Member,Cash,Checked-In,3.7,Positive,High
+BK6734961,ITC Narmada,Business,Ahmedabad,Gujarat,India,44552,44556,December,Q4,2021,Deluxe,1,4,19359,1228,4897,78664,73767,8852.04,82619.04,Website,Regular,Credit Card,Checked-In,4.2,Negative,Low
+BK5609928,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44332,44335,May,Q2,2021,Club Room,2,3,17380,1702,4885,53842,48957,5874.84,54831.84,Goibibo,VIP,Credit Card,Checked-In,4.5,Positive,High
+BK7447932,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44313,44316,April,Q2,2021,Deluxe,4,3,11157,6376,458,39847,39389,4726.68,44115.68,Booking.com,VIP,Net Banking,Checked-In,4.5,Positive,High
+BK8315506,ITC Windsor,Business,Bengaluru,Karnataka,India,44457,44458,September,Q3,2021,Luxury Suite,4,1,12251,6563,2287,18814,16527,1983.24,18510.24,Goibibo,Corporate,Cash,Checked-In,4.9,Positive,Low
+BK3578910,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44578,44581,January,Q1,2022,Executive,3,3,23589,3260,3355,74027,70672,8480.64,79152.64,Goibibo,Corporate,Debit Card,Checked-In,3.9,Positive,High
+BK2598169,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44478,44481,October,Q4,2021,Luxury Suite,3,3,23525,6619,3587,77194,73607,8832.84,82439.84,Website,New Guest,UPI,Checked-Out,4.6,Positive,Low
+BK6975449,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44347,44349,May,Q2,2021,Deluxe,4,2,7537,6618,571,21692,21121,2534.52,23655.52,MakeMyTrip,New Guest,UPI,Checked-In,3.4,Positive,High
+BK6526166,ITC Maurya,Luxury,New Delhi,Delhi,India,44571,44576,January,Q1,2022,Deluxe,1,5,9989,787,3802,50732,46930,5631.6,52561.6,Walk-in,Member,UPI,Checked-In,3.0,Positive,High
+BK9732106,ITC Maurya,Luxury,New Delhi,Delhi,India,44583,44588,January,Q1,2022,Luxury Suite,3,5,5830,1887,3353,31037,27684,3322.08,31006.08,Booking.com,Corporate,Debit Card,Cancelled,4.8,Positive,High
+BK1262447,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44374,44375,June,Q2,2021,Presidential Suite,1,1,16689,121,73,16810,16737,2008.44,18745.44,Website,New Guest,Net Banking,Cancelled,3.3,Positive,High
+BK8559860,ITC Narmada,Business,Ahmedabad,Gujarat,India,44540,44545,December,Q4,2021,Club Room,4,5,16334,3128,4558,84798,80240,9628.8,89868.8,Goibibo,Member,Debit Card,Checked-Out,3.8,Positive,Low
+BK8083199,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44352,44355,June,Q2,2021,Deluxe,3,3,9646,6406,3125,35344,32219,3866.28,36085.28,Website,Corporate,Net Banking,Checked-Out,4.0,Positive,High
+BK4574444,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44589,44592,January,Q1,2022,Deluxe,4,3,18377,5869,4512,61000,56488,6778.56,63266.56,Corporate,VIP,Cash,Checked-Out,3.5,Positive,High
+BK3555611,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44617,44622,February,Q1,2022,Executive,4,5,16878,337,3685,84727,81042,9725.04,90767.04,Corporate,VIP,Credit Card,Checked-In,3.8,Positive,Low
+BK3374560,ITC Grand Goa,Resort,Goa,Goa,India,44596,44598,February,Q1,2022,Presidential Suite,3,2,25223,478,1613,50924,49311,5917.32,55228.32,MakeMyTrip,Regular,Credit Card,Cancelled,4.0,Neutral,Low
+BK2878522,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44509,44510,November,Q4,2021,Luxury Suite,2,1,27495,1158,235,28653,28418,3410.16,31828.16,Booking.com,VIP,Debit Card,Cancelled,3.9,Positive,Low
+BK5290498,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44587,44589,January,Q1,2022,Deluxe,4,2,23270,6032,2033,52572,50539,6064.68,56603.68,Corporate,VIP,Net Banking,No Show,4.1,Positive,High
+BK2460928,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44451,44456,September,Q3,2021,Deluxe,4,5,21426,741,3457,107871,104414,12529.68,116943.68,Goibibo,New Guest,Debit Card,Checked-In,4.0,Positive,Low
+BK7210630,ITC Rajputana,Business,Jaipur,Rajasthan,India,44287,44288,April,Q2,2021,Executive,2,1,12954,4870,4287,17824,13537,1624.44,15161.44,Corporate,Member,UPI,Checked-In,4.3,Positive,High
+BK1826892,ITC Sonar,Business,Kolkata,West Bengal,India,44539,44542,December,Q4,2021,Executive,3,3,17212,1417,1901,53053,51152,6138.24,57290.24,Goibibo,VIP,Debit Card,Checked-Out,3.4,Positive,Low
+BK4935329,ITC Narmada,Business,Ahmedabad,Gujarat,India,44523,44524,November,Q4,2021,Deluxe,4,1,9240,2162,2594,11402,8808,1056.96,9864.96,Corporate,VIP,Cash,Checked-In,4.1,Positive,Low
+BK6611673,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44497,44501,October,Q4,2021,Club Room,3,4,11475,1477,4104,47377,43273,5192.76,48465.76,Walk-in,Member,Cash,Checked-Out,3.5,Positive,Low
+BK4766599,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44538,44543,December,Q4,2021,Deluxe,3,5,20793,1987,1704,105952,104248,12509.76,116757.76,Website,VIP,Credit Card,Checked-In,3.6,Positive,Low
+BK4451018,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44368,44369,June,Q2,2021,Executive,1,1,25064,1830,4946,26894,21948,2633.76,24581.76,MakeMyTrip,Corporate,Credit Card,Checked-In,4.1,Positive,High
+BK6369389,ITC Maurya,Luxury,New Delhi,Delhi,India,44370,44373,June,Q2,2021,Club Room,4,3,26768,378,791,80682,79891,9586.92,89477.92,Booking.com,Member,Credit Card,No Show,3.1,Positive,High
+BK3669881,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44441,44445,September,Q3,2021,Presidential Suite,1,4,9758,2101,1366,41133,39767,4772.04,44539.04,Corporate,Member,Cash,No Show,3.0,Positive,Low
+BK2179144,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44578,44582,January,Q1,2022,Luxury Suite,2,4,24529,6191,3696,104307,100611,12073.32,112684.32,Booking.com,VIP,Debit Card,Checked-In,4.7,Positive,High
+BK7497033,ITC Windsor,Business,Bengaluru,Karnataka,India,44551,44552,December,Q4,2021,Deluxe,2,1,17771,3394,3075,21165,18090,2170.8,20260.8,Goibibo,New Guest,Net Banking,Checked-In,3.7,Positive,Low
+BK1558491,ITC Sonar,Business,Kolkata,West Bengal,India,44512,44513,November,Q4,2021,Club Room,3,1,17032,1516,840,18548,17708,2124.96,19832.96,MakeMyTrip,Member,Credit Card,Checked-Out,3.9,Positive,Low
+BK4674469,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44373,44374,June,Q2,2021,Presidential Suite,4,1,7486,46,3555,7532,3977,477.24,4454.24,Booking.com,Member,Credit Card,Checked-Out,3.8,Positive,High
+BK6744039,ITC Narmada,Business,Ahmedabad,Gujarat,India,44316,44317,April,Q2,2021,Club Room,3,1,24920,1811,2585,26731,24146,2897.52,27043.52,Booking.com,Corporate,UPI,Checked-In,3.5,Neutral,High
+BK5496401,ITC Rajputana,Business,Jaipur,Rajasthan,India,44430,44434,August,Q3,2021,Executive,1,4,27141,6190,2699,114754,112055,13446.6,125501.6,Website,New Guest,Net Banking,Checked-In,3.9,Neutral,Low
+BK7177887,ITC Sonar,Business,Kolkata,West Bengal,India,44297,44300,April,Q2,2021,Deluxe,3,3,17684,3083,3887,56135,52248,6269.76,58517.76,Goibibo,Corporate,Cash,Checked-In,4.1,Negative,High
+BK8154257,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44597,44602,February,Q1,2022,Luxury Suite,4,5,11676,4540,654,62920,62266,7471.92,69737.92,Website,VIP,Cash,Checked-Out,4.3,Positive,Low
+BK3602029,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44462,44465,September,Q3,2021,Presidential Suite,2,3,9874,4695,4769,34317,29548,3545.76,33093.76,MakeMyTrip,Corporate,Debit Card,Checked-In,4.5,Positive,Low
+BK8039692,ITC Maurya,Luxury,New Delhi,Delhi,India,44606,44611,February,Q1,2022,Executive,3,5,23378,516,651,117406,116755,14010.6,130765.6,Walk-in,VIP,Debit Card,Checked-In,4.2,Neutral,Low
+BK7218659,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44538,44542,December,Q4,2021,Deluxe,1,4,7250,5563,4774,34563,29789,3574.68,33363.68,Corporate,Corporate,Debit Card,Checked-Out,4.4,Positive,Low
+BK5432781,ITC Maurya,Luxury,New Delhi,Delhi,India,44493,44498,October,Q4,2021,Luxury Suite,2,5,8310,6628,9,48178,48169,5780.28,53949.28,Website,Regular,Cash,Checked-Out,3.1,Neutral,Low
+BK5603217,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44354,44357,June,Q2,2021,Presidential Suite,4,3,18067,4124,1241,58325,57084,6850.08,63934.08,Walk-in,Corporate,Cash,Checked-In,4.5,Positive,High
+BK4642835,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44563,44567,January,Q1,2022,Club Room,4,4,13925,1324,3401,57024,53623,6434.76,60057.76,Walk-in,Member,Net Banking,Cancelled,4.7,Positive,High
+BK1951313,ITC Windsor,Business,Bengaluru,Karnataka,India,44422,44424,August,Q3,2021,Executive,4,2,7294,628,4905,15216,10311,1237.32,11548.32,Goibibo,Corporate,Net Banking,Checked-Out,3.1,Positive,Low
+BK9155821,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44645,44649,March,Q1,2022,Club Room,1,4,7464,1733,2276,31589,29313,3517.56,32830.56,Goibibo,Regular,Cash,Checked-In,3.4,Positive,Low
+BK1554793,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44359,44364,June,Q2,2021,Club Room,1,5,18567,6913,3678,99748,96070,11528.4,107598.4,MakeMyTrip,Regular,Net Banking,Checked-In,4.6,Positive,High
+BK2694641,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44480,44481,October,Q4,2021,Luxury Suite,1,1,25394,3933,973,29327,28354,3402.48,31756.48,Website,New Guest,Credit Card,Checked-Out,3.4,Neutral,Low
+BK3963074,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44329,44334,May,Q2,2021,Executive,2,5,10441,3713,4843,55918,51075,6129.0,57204.0,Walk-in,Member,Cash,Checked-In,4.3,Neutral,High
+BK2258058,ITC Maurya,Luxury,New Delhi,Delhi,India,44574,44578,January,Q1,2022,Luxury Suite,2,4,21205,3044,3149,87864,84715,10165.8,94880.8,Website,Member,Debit Card,Checked-In,5.0,Positive,High
+BK3135932,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44418,44422,August,Q3,2021,Luxury Suite,2,4,21083,5042,3848,89374,85526,10263.12,95789.12,Booking.com,Regular,UPI,Checked-In,3.6,Negative,Low
+BK5787694,ITC Maurya,Luxury,New Delhi,Delhi,India,44322,44323,May,Q2,2021,Presidential Suite,2,1,13601,4545,1894,18146,16252,1950.24,18202.24,Website,Regular,Cash,Checked-In,3.7,Positive,High
+BK9406915,ITC Sonar,Business,Kolkata,West Bengal,India,44534,44535,December,Q4,2021,Club Room,1,1,12115,1057,3189,13172,9983,1197.96,11180.96,Corporate,Member,Cash,Checked-In,4.2,Positive,Low
+BK1129238,ITC Maurya,Luxury,New Delhi,Delhi,India,44550,44553,December,Q4,2021,Executive,2,3,9411,3545,3704,31778,28074,3368.88,31442.88,Corporate,VIP,Cash,Checked-In,3.9,Positive,Low
+BK8130085,ITC Narmada,Business,Ahmedabad,Gujarat,India,44450,44452,September,Q3,2021,Deluxe,4,2,10972,5036,2772,26980,24208,2904.96,27112.96,Website,Member,UPI,Checked-Out,3.5,Positive,Low
+BK8015123,ITC Maurya,Luxury,New Delhi,Delhi,India,44556,44558,December,Q4,2021,Club Room,4,2,20676,3913,4320,45265,40945,4913.4,45858.4,Website,Corporate,Cash,Checked-In,4.3,Positive,Low
+BK6604084,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44366,44369,June,Q2,2021,Luxury Suite,1,3,12155,3695,3794,40160,36366,4363.92,40729.92,MakeMyTrip,Member,Credit Card,Checked-In,4.5,Positive,High
+BK2084866,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44649,44650,March,Q1,2022,Club Room,3,1,5337,3425,4275,8762,4487,538.44,5025.44,Booking.com,Member,Cash,Checked-Out,3.8,Neutral,Low
+BK9409102,ITC Windsor,Business,Bengaluru,Karnataka,India,44646,44650,March,Q1,2022,Luxury Suite,2,4,14537,6797,1628,64945,63317,7598.04,70915.04,MakeMyTrip,Regular,Credit Card,Checked-In,5.0,Negative,Low
+BK7512553,ITC Rajputana,Business,Jaipur,Rajasthan,India,44554,44557,December,Q4,2021,Presidential Suite,2,3,12772,1361,1420,39677,38257,4590.84,42847.84,Goibibo,VIP,UPI,Checked-Out,3.1,Positive,Low
+BK6265766,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44589,44594,January,Q1,2022,Deluxe,4,5,15457,5824,570,83109,82539,9904.68,92443.68,MakeMyTrip,New Guest,Cash,No Show,3.5,Positive,High
+BK2133819,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44336,44337,May,Q2,2021,Club Room,3,1,25919,5102,3087,31021,27934,3352.08,31286.08,Booking.com,New Guest,Credit Card,Checked-Out,4.1,Positive,High
+BK5535429,ITC Maurya,Luxury,New Delhi,Delhi,India,44637,44642,March,Q1,2022,Club Room,1,5,7657,6436,2014,44721,42707,5124.84,47831.84,Booking.com,VIP,Credit Card,Checked-In,3.5,Neutral,Low
+BK4048756,ITC Maurya,Luxury,New Delhi,Delhi,India,44614,44617,February,Q1,2022,Presidential Suite,2,3,10260,3773,2599,34553,31954,3834.48,35788.48,Booking.com,Member,Debit Card,Cancelled,3.2,Positive,Low
+BK5410482,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44361,44365,June,Q2,2021,Executive,4,4,23338,4553,3406,97905,94499,11339.88,105838.88,Corporate,Member,Debit Card,Checked-In,3.4,Positive,High
+BK1087923,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44486,44491,October,Q4,2021,Executive,2,5,5499,6381,4714,33876,29162,3499.44,32661.44,Booking.com,Member,Cash,Checked-In,4.2,Positive,Low
+BK5833274,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44408,44413,July,Q3,2021,Luxury Suite,3,5,16210,6562,353,87612,87259,10471.08,97730.08,Website,Corporate,UPI,Checked-Out,3.7,Positive,Low
+BK6996568,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44310,44315,April,Q2,2021,Presidential Suite,3,5,10423,5908,1559,58023,56464,6775.68,63239.68,Corporate,VIP,UPI,Checked-Out,4.7,Neutral,High
+BK2557177,ITC Windsor,Business,Bengaluru,Karnataka,India,44397,44400,July,Q3,2021,Executive,1,3,14994,4290,289,49272,48983,5877.96,54860.96,Goibibo,Regular,Cash,Checked-In,4.7,Positive,Low
+BK1414086,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44459,44460,September,Q3,2021,Executive,3,1,5687,5673,4395,11360,6965,835.8,7800.8,Walk-in,Member,Net Banking,Checked-In,4.1,Positive,Low
+BK9232391,ITC Rajputana,Business,Jaipur,Rajasthan,India,44648,44649,March,Q1,2022,Club Room,1,1,26541,5625,161,32166,32005,3840.6,35845.6,Booking.com,New Guest,Debit Card,Cancelled,3.0,Neutral,Low
+BK4978485,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44511,44515,November,Q4,2021,Executive,2,4,17904,3436,3613,75052,71439,8572.68,80011.68,Website,Member,Net Banking,Checked-In,4.7,Positive,Low
+BK7615362,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44623,44628,March,Q1,2022,Luxury Suite,2,5,18802,3256,2578,97266,94688,11362.56,106050.56,Goibibo,VIP,Debit Card,No Show,3.1,Negative,Low
+BK1586084,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44503,44507,November,Q4,2021,Executive,3,4,18315,6388,3683,79648,75965,9115.8,85080.8,MakeMyTrip,VIP,Debit Card,Checked-In,3.8,Positive,Low
+BK6590685,ITC Narmada,Business,Ahmedabad,Gujarat,India,44429,44434,August,Q3,2021,Luxury Suite,3,5,14111,1119,4579,71674,67095,8051.4,75146.4,Website,Corporate,Cash,Checked-In,4.3,Positive,Low
+BK3837259,ITC Sonar,Business,Kolkata,West Bengal,India,44475,44479,October,Q4,2021,Presidential Suite,4,4,24785,4392,1669,103532,101863,12223.56,114086.56,Walk-in,New Guest,Debit Card,Checked-Out,4.6,Positive,Low
+BK9032832,ITC Narmada,Business,Ahmedabad,Gujarat,India,44605,44609,February,Q1,2022,Club Room,4,4,21815,4432,109,91692,91583,10989.96,102572.96,Booking.com,VIP,Debit Card,Checked-In,3.8,Positive,Low
+BK6046286,ITC Maurya,Luxury,New Delhi,Delhi,India,44314,44317,April,Q2,2021,Deluxe,1,3,25242,4564,3273,80290,77017,9242.04,86259.04,Corporate,Member,Credit Card,Checked-In,3.5,Positive,High
+BK9950797,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44335,44340,May,Q2,2021,Club Room,4,5,8979,3953,177,48848,48671,5840.52,54511.52,MakeMyTrip,New Guest,Credit Card,Checked-Out,4.4,Positive,High
+BK6545489,ITC Rajputana,Business,Jaipur,Rajasthan,India,44379,44381,July,Q3,2021,Deluxe,1,2,26618,5911,877,59147,58270,6992.4,65262.4,MakeMyTrip,VIP,Cash,Checked-Out,3.8,Positive,Low
+BK4399810,ITC Sonar,Business,Kolkata,West Bengal,India,44530,44533,November,Q4,2021,Executive,4,3,20041,6445,724,66568,65844,7901.28,73745.28,MakeMyTrip,Corporate,UPI,Checked-Out,4.9,Negative,Low
+BK5561369,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44288,44293,April,Q2,2021,Deluxe,1,5,9518,4841,460,52431,51971,6236.52,58207.52,Goibibo,New Guest,Net Banking,Checked-In,4.7,Positive,High
+BK4324084,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44555,44557,December,Q4,2021,Executive,4,2,26275,3722,140,56272,56132,6735.84,62867.84,Walk-in,Member,Net Banking,No Show,3.2,Positive,Low
+BK6445430,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44512,44516,November,Q4,2021,Executive,2,4,16629,615,4040,67131,63091,7570.92,70661.92,Corporate,Member,Cash,Checked-Out,4.7,Neutral,Low
+BK9828648,ITC Rajputana,Business,Jaipur,Rajasthan,India,44431,44436,August,Q3,2021,Executive,1,5,10782,2527,3644,56437,52793,6335.16,59128.16,MakeMyTrip,Member,Credit Card,Checked-Out,4.4,Negative,Low
+BK3625940,ITC Rajputana,Business,Jaipur,Rajasthan,India,44394,44398,July,Q3,2021,Club Room,4,4,7923,3991,592,35683,35091,4210.92,39301.92,Walk-in,VIP,UPI,Checked-Out,4.7,Neutral,Low
+BK5215277,ITC Narmada,Business,Ahmedabad,Gujarat,India,44417,44422,August,Q3,2021,Executive,2,5,15475,6312,3749,83687,79938,9592.56,89530.56,MakeMyTrip,Corporate,Cash,Checked-Out,3.2,Positive,Low
+BK2875420,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44620,44622,February,Q1,2022,Club Room,4,2,4897,2959,4352,12753,8401,1008.12,9409.12,Website,Regular,Credit Card,Cancelled,4.3,Positive,Low
+BK6670035,ITC Maurya,Luxury,New Delhi,Delhi,India,44288,44292,April,Q2,2021,Presidential Suite,1,4,26859,5388,359,112824,112465,13495.8,125960.8,MakeMyTrip,Member,Credit Card,Cancelled,3.4,Positive,High
+BK5129103,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44598,44603,February,Q1,2022,Executive,3,5,26171,647,4810,131502,126692,15203.04,141895.04,Walk-in,Member,Net Banking,Checked-Out,4.1,Positive,Low
+BK7350141,ITC Windsor,Business,Bengaluru,Karnataka,India,44579,44584,January,Q1,2022,Deluxe,2,5,5301,163,1159,26668,25509,3061.08,28570.08,Website,Member,Debit Card,Checked-In,4.9,Positive,High
+BK9731673,ITC Narmada,Business,Ahmedabad,Gujarat,India,44522,44527,November,Q4,2021,Club Room,3,5,23582,2456,4646,120366,115720,13886.4,129606.4,Website,New Guest,Cash,Checked-In,4.1,Positive,Low
+BK7733697,ITC Rajputana,Business,Jaipur,Rajasthan,India,44544,44546,December,Q4,2021,Presidential Suite,2,2,11478,5783,3889,28739,24850,2982.0,27832.0,Corporate,Regular,Net Banking,Checked-In,4.0,Positive,Low
+BK1332431,ITC Grand Goa,Resort,Goa,Goa,India,44425,44427,August,Q3,2021,Luxury Suite,4,2,13628,2424,4317,29680,25363,3043.56,28406.56,Website,Corporate,UPI,Checked-Out,4.9,Positive,Low
+BK6388871,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44566,44570,January,Q1,2022,Luxury Suite,3,4,10540,948,175,43108,42933,5151.96,48084.96,Corporate,New Guest,Credit Card,Checked-In,3.7,Positive,High
+BK7602817,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44641,44645,March,Q1,2022,Presidential Suite,3,4,24384,3128,2407,100664,98257,11790.84,110047.84,Website,Member,UPI,No Show,4.1,Neutral,Low
+BK6516179,ITC Windsor,Business,Bengaluru,Karnataka,India,44432,44435,August,Q3,2021,Executive,3,3,15314,4731,4731,50673,45942,5513.04,51455.04,Website,New Guest,Debit Card,Checked-In,4.9,Positive,Low
+BK5325157,ITC Narmada,Business,Ahmedabad,Gujarat,India,44544,44549,December,Q4,2021,Deluxe,1,5,22049,5023,3932,115268,111336,13360.32,124696.32,Corporate,Member,Cash,Checked-In,3.8,Positive,Low
+BK8549885,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44425,44426,August,Q3,2021,Presidential Suite,4,1,9414,0,488,9414,8926,1071.12,9997.12,Corporate,New Guest,Debit Card,Checked-Out,3.4,Positive,Low
+BK4709472,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44351,44354,June,Q2,2021,Deluxe,1,3,8398,2623,1216,27817,26601,3192.12,29793.12,Website,Regular,Credit Card,Checked-In,3.6,Positive,High
+BK9280697,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44590,44594,January,Q1,2022,Deluxe,4,4,19240,3214,3602,80174,76572,9188.64,85760.64,Goibibo,Member,Debit Card,No Show,4.4,Neutral,High
+BK3066840,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44443,44447,September,Q3,2021,Luxury Suite,1,4,8817,6837,2564,42105,39541,4744.92,44285.92,MakeMyTrip,VIP,Cash,Checked-In,4.3,Positive,Low
+BK5102772,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44371,44374,June,Q2,2021,Executive,3,3,17587,3979,4792,56740,51948,6233.76,58181.76,MakeMyTrip,New Guest,UPI,Cancelled,4.2,Positive,High
+BK8262455,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44492,44497,October,Q4,2021,Club Room,4,5,22778,6184,4696,120074,115378,13845.36,129223.36,Website,VIP,UPI,Checked-Out,4.8,Positive,Low
+BK3838364,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44331,44336,May,Q2,2021,Presidential Suite,3,5,11696,2401,219,60881,60662,7279.44,67941.44,Booking.com,Member,UPI,Checked-In,3.3,Positive,High
+BK8371401,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44615,44619,February,Q1,2022,Executive,2,4,12270,5153,2232,54233,52001,6240.12,58241.12,Website,Member,UPI,Checked-In,3.5,Positive,Low
+BK8779106,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44447,44451,September,Q3,2021,Luxury Suite,1,4,18370,861,1043,74341,73298,8795.76,82093.76,Booking.com,Regular,Debit Card,Checked-In,4.0,Positive,Low
+BK5638274,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44431,44432,August,Q3,2021,Presidential Suite,1,1,22728,162,1096,22890,21794,2615.28,24409.28,Walk-in,Regular,UPI,Checked-In,4.3,Positive,Low
+BK5815060,ITC Maurya,Luxury,New Delhi,Delhi,India,44405,44408,July,Q3,2021,Executive,1,3,16581,4987,2878,54730,51852,6222.24,58074.24,MakeMyTrip,New Guest,UPI,Checked-Out,3.8,Positive,Low
+BK3954100,ITC Sonar,Business,Kolkata,West Bengal,India,44642,44644,March,Q1,2022,Executive,4,2,6396,4833,1466,17625,16159,1939.08,18098.08,Goibibo,Member,UPI,No Show,3.6,Positive,Low
+BK7077488,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44389,44393,July,Q3,2021,Club Room,3,4,8211,4486,285,37330,37045,4445.4,41490.4,Booking.com,Corporate,Credit Card,No Show,4.5,Neutral,Low
+BK7647346,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44395,44396,July,Q3,2021,Club Room,4,1,13319,497,4061,13816,9755,1170.6,10925.6,Walk-in,New Guest,Net Banking,Checked-In,4.6,Positive,Low
+BK4720568,ITC Sonar,Business,Kolkata,West Bengal,India,44627,44631,March,Q1,2022,Club Room,4,4,24762,563,3857,99611,95754,11490.48,107244.48,Website,Member,UPI,Checked-In,3.4,Neutral,Low
+BK4899719,ITC Maurya,Luxury,New Delhi,Delhi,India,44374,44376,June,Q2,2021,Executive,4,2,10135,6187,3563,26457,22894,2747.28,25641.28,Website,Corporate,UPI,Checked-In,3.2,Neutral,High
+BK5884825,ITC Narmada,Business,Ahmedabad,Gujarat,India,44316,44319,April,Q2,2021,Luxury Suite,4,3,23517,6552,809,77103,76294,9155.28,85449.28,Website,Regular,Net Banking,Checked-In,4.0,Positive,High
+BK9920317,ITC Windsor,Business,Bengaluru,Karnataka,India,44358,44359,June,Q2,2021,Presidential Suite,1,1,15618,135,337,15753,15416,1849.92,17265.92,Booking.com,New Guest,Credit Card,Cancelled,4.6,Neutral,High
+BK8296473,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44514,44518,November,Q4,2021,Presidential Suite,2,4,21425,3547,2340,89247,86907,10428.84,97335.84,MakeMyTrip,Member,Cash,Checked-In,4.2,Positive,Low
+BK3259539,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44363,44367,June,Q2,2021,Luxury Suite,1,4,17471,6920,1378,76804,75426,9051.12,84477.12,Website,New Guest,Debit Card,Cancelled,3.1,Neutral,High
+BK9494597,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44451,44456,September,Q3,2021,Executive,2,5,26738,3678,1232,137368,136136,16336.32,152472.32,Walk-in,VIP,Net Banking,Checked-In,3.7,Negative,Low
+BK3062477,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44502,44504,November,Q4,2021,Executive,4,2,10748,6336,3340,27832,24492,2939.04,27431.04,Walk-in,VIP,Debit Card,Cancelled,4.2,Positive,Low
+BK2514886,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44371,44374,June,Q2,2021,Club Room,3,3,6284,2227,1972,21079,19107,2292.84,21399.84,Corporate,Member,Credit Card,Checked-In,3.7,Positive,High
+BK2570397,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44351,44355,June,Q2,2021,Executive,4,4,19795,3033,564,82213,81649,9797.88,91446.88,Goibibo,Corporate,UPI,Checked-In,4.8,Positive,High
+BK1183399,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44621,44625,March,Q1,2022,Deluxe,4,4,18962,6674,3246,82522,79276,9513.12,88789.12,Goibibo,New Guest,Credit Card,Checked-Out,4.2,Positive,Low
+BK5659355,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44552,44555,December,Q4,2021,Deluxe,1,3,24353,6618,1893,79677,77784,9334.08,87118.08,MakeMyTrip,Corporate,Cash,Cancelled,3.5,Neutral,Low
+BK7135012,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44295,44296,April,Q2,2021,Club Room,1,1,8765,4064,1773,12829,11056,1326.72,12382.72,Goibibo,Member,Credit Card,Checked-In,4.1,Positive,High
+BK5318977,ITC Windsor,Business,Bengaluru,Karnataka,India,44453,44456,September,Q3,2021,Luxury Suite,4,3,18624,4304,1077,60176,59099,7091.88,66190.88,Booking.com,Corporate,Debit Card,Checked-Out,3.8,Positive,Low
+BK2181441,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44443,44446,September,Q3,2021,Luxury Suite,1,3,25858,2879,3759,80453,76694,9203.28,85897.28,Booking.com,Corporate,Net Banking,Checked-In,4.6,Positive,Low
+BK8481152,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44461,44464,September,Q3,2021,Luxury Suite,3,3,5518,6621,4538,23175,18637,2236.44,20873.44,Website,Regular,Net Banking,Checked-In,4.6,Positive,Low
+BK4791604,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44290,44294,April,Q2,2021,Presidential Suite,2,4,10757,991,260,44019,43759,5251.08,49010.08,Website,Member,Net Banking,Checked-In,4.4,Neutral,High
+BK5499285,ITC Windsor,Business,Bengaluru,Karnataka,India,44509,44511,November,Q4,2021,Deluxe,1,2,7742,3983,3641,19467,15826,1899.12,17725.12,Goibibo,VIP,Net Banking,No Show,3.2,Positive,Low
+BK9167213,ITC Maurya,Luxury,New Delhi,Delhi,India,44345,44346,May,Q2,2021,Presidential Suite,2,1,20240,6620,637,26860,26223,3146.76,29369.76,Booking.com,Member,Debit Card,Checked-In,3.4,Positive,High
+BK5501405,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44644,44649,March,Q1,2022,Luxury Suite,1,5,25135,4082,4353,129757,125404,15048.48,140452.48,Booking.com,Member,Cash,Checked-In,4.9,Neutral,Low
+BK1203370,ITC Maurya,Luxury,New Delhi,Delhi,India,44375,44379,June,Q2,2021,Presidential Suite,1,4,27746,5225,4725,116209,111484,13378.08,124862.08,Website,VIP,Cash,Cancelled,4.5,Neutral,High
+BK9886302,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44571,44576,January,Q1,2022,Presidential Suite,2,5,6412,5048,3117,37108,33991,4078.92,38069.92,Walk-in,Corporate,Credit Card,Cancelled,3.0,Positive,High
+BK2064386,ITC Windsor,Business,Bengaluru,Karnataka,India,44354,44359,June,Q2,2021,Deluxe,2,5,12137,3262,1667,63947,62280,7473.6,69753.6,Corporate,Regular,UPI,Checked-In,4.3,Positive,High
+BK8305638,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44295,44296,April,Q2,2021,Luxury Suite,4,1,27049,3516,3543,30565,27022,3242.64,30264.64,Booking.com,Regular,UPI,Checked-Out,4.6,Neutral,High
+BK5408528,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44425,44430,August,Q3,2021,Deluxe,3,5,17956,4985,2432,94765,92333,11079.96,103412.96,MakeMyTrip,New Guest,Debit Card,Checked-Out,3.4,Positive,Low
+BK7474585,ITC Narmada,Business,Ahmedabad,Gujarat,India,44598,44602,February,Q1,2022,Deluxe,1,4,10651,1138,1038,43742,42704,5124.48,47828.48,Goibibo,Member,Debit Card,Checked-In,4.2,Positive,Low
+BK1535166,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44645,44650,March,Q1,2022,Club Room,3,5,21535,4125,1255,111800,110545,13265.4,123810.4,Goibibo,Member,Debit Card,No Show,4.4,Positive,Low
+BK9807293,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44515,44520,November,Q4,2021,Luxury Suite,1,5,23611,554,3585,118609,115024,13802.88,128826.88,Goibibo,Member,Credit Card,Checked-In,3.0,Positive,Low
+BK3436699,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44438,44443,August,Q3,2021,Deluxe,3,5,4607,1300,3592,24335,20743,2489.16,23232.16,Goibibo,Member,Debit Card,Checked-In,4.1,Positive,Low
+BK7395520,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44304,44308,April,Q2,2021,Luxury Suite,4,4,21991,3000,4812,90964,86152,10338.24,96490.24,Corporate,Member,UPI,Checked-In,4.1,Positive,High
+BK6476806,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44410,44413,August,Q3,2021,Presidential Suite,1,3,27777,171,479,83502,83023,9962.76,92985.76,Corporate,New Guest,Cash,Checked-Out,3.4,Neutral,Low
+BK9890533,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44481,44485,October,Q4,2021,Executive,2,4,25740,4733,2797,107693,104896,12587.52,117483.52,Website,New Guest,Credit Card,Checked-In,3.3,Positive,Low
+BK1891709,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44412,44417,August,Q3,2021,Club Room,3,5,15253,3773,2924,80038,77114,9253.68,86367.68,Corporate,Corporate,Cash,Checked-In,4.2,Positive,Low
+BK6469911,ITC Sonar,Business,Kolkata,West Bengal,India,44423,44428,August,Q3,2021,Club Room,1,5,11574,1022,156,58892,58736,7048.32,65784.32,MakeMyTrip,Member,UPI,Checked-In,3.1,Negative,Low
+BK4320083,ITC Rajputana,Business,Jaipur,Rajasthan,India,44612,44615,February,Q1,2022,Executive,3,3,24436,4346,1094,77654,76560,9187.2,85747.2,Goibibo,VIP,Cash,Checked-Out,4.6,Positive,Low
+BK2595551,ITC Sonar,Business,Kolkata,West Bengal,India,44416,44420,August,Q3,2021,Executive,4,4,11036,3375,3677,47519,43842,5261.04,49103.04,MakeMyTrip,VIP,Debit Card,Checked-Out,3.0,Positive,Low
+BK8709101,ITC Maurya,Luxury,New Delhi,Delhi,India,44632,44636,March,Q1,2022,Luxury Suite,3,4,27153,2194,2150,110806,108656,13038.72,121694.72,Website,Regular,Debit Card,Checked-Out,3.4,Positive,Low
+BK6181261,ITC Sonar,Business,Kolkata,West Bengal,India,44516,44520,November,Q4,2021,Club Room,3,4,17835,6973,4957,78313,73356,8802.72,82158.72,MakeMyTrip,Corporate,Cash,Checked-In,3.2,Positive,Low
+BK3667912,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44473,44478,October,Q4,2021,Luxury Suite,4,5,20774,946,1473,104816,103343,12401.16,115744.16,Corporate,Regular,Cash,Checked-In,4.9,Neutral,Low
+BK1397151,ITC Narmada,Business,Ahmedabad,Gujarat,India,44502,44503,November,Q4,2021,Luxury Suite,4,1,16540,6769,1258,23309,22051,2646.12,24697.12,Website,New Guest,Cash,Checked-In,4.0,Positive,Low
+BK1366386,ITC Maurya,Luxury,New Delhi,Delhi,India,44615,44620,February,Q1,2022,Deluxe,1,5,23618,5137,4618,123227,118609,14233.08,132842.08,Booking.com,VIP,Debit Card,Checked-Out,4.5,Positive,Low
+BK9464863,ITC Sonar,Business,Kolkata,West Bengal,India,44296,44298,April,Q2,2021,Presidential Suite,4,2,7236,4860,425,19332,18907,2268.84,21175.84,Goibibo,New Guest,Credit Card,Checked-Out,4.8,Positive,High
+BK7951723,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44630,44633,March,Q1,2022,Deluxe,2,3,26560,1549,3919,81229,77310,9277.2,86587.2,Goibibo,New Guest,Credit Card,Checked-Out,4.6,Positive,Low
+BK8484704,ITC Rajputana,Business,Jaipur,Rajasthan,India,44405,44407,July,Q3,2021,Deluxe,3,2,8421,2437,724,19279,18555,2226.6,20781.6,Booking.com,VIP,Net Banking,Checked-Out,4.5,Positive,Low
+BK9664930,ITC Sonar,Business,Kolkata,West Bengal,India,44516,44518,November,Q4,2021,Deluxe,2,2,23136,3755,954,50027,49073,5888.76,54961.76,Walk-in,Regular,Debit Card,Cancelled,4.5,Negative,Low
+BK1036182,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44563,44564,January,Q1,2022,Club Room,3,1,20590,11,1432,20601,19169,2300.28,21469.28,Walk-in,Member,Credit Card,Checked-In,4.8,Positive,High
+BK8759119,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44438,44441,August,Q3,2021,Club Room,4,3,9502,5137,47,33643,33596,4031.52,37627.52,Website,Corporate,UPI,Checked-Out,3.8,Neutral,Low
+BK1080106,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44601,44604,February,Q1,2022,Luxury Suite,4,3,12149,2324,1234,38771,37537,4504.44,42041.44,Walk-in,Corporate,UPI,Checked-In,4.6,Positive,Low
+BK2915447,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44288,44290,April,Q2,2021,Presidential Suite,1,2,17194,393,1965,34781,32816,3937.92,36753.92,MakeMyTrip,Regular,Credit Card,Checked-In,4.8,Positive,High
+BK3480114,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44547,44551,December,Q4,2021,Luxury Suite,3,4,25475,3516,4662,105416,100754,12090.48,112844.48,Goibibo,Member,Debit Card,Checked-Out,4.7,Positive,Low
+BK4407960,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44492,44494,October,Q4,2021,Deluxe,3,2,9256,1375,2181,19887,17706,2124.72,19830.72,Walk-in,Regular,Debit Card,Checked-In,3.8,Negative,Low
+BK6500873,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44517,44518,November,Q4,2021,Club Room,2,1,13169,626,3018,13795,10777,1293.24,12070.24,Website,Corporate,UPI,Checked-In,5.0,Positive,Low
+BK2588014,ITC Grand Goa,Resort,Goa,Goa,India,44560,44561,December,Q4,2021,Presidential Suite,4,1,12632,1237,59,13869,13810,1657.2,15467.2,Goibibo,Member,Credit Card,No Show,4.2,Positive,Low
+BK4807991,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44626,44629,March,Q1,2022,Executive,4,3,13034,828,2011,39930,37919,4550.28,42469.28,Corporate,New Guest,Debit Card,Checked-In,4.3,Positive,Low
+BK5626788,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44384,44387,July,Q3,2021,Club Room,2,3,23688,2522,3426,73586,70160,8419.2,78579.2,Booking.com,Regular,Cash,Checked-In,4.1,Positive,Low
+BK9504127,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44572,44573,January,Q1,2022,Luxury Suite,2,1,26903,1281,3342,28184,24842,2981.04,27823.04,MakeMyTrip,Regular,UPI,Checked-In,4.3,Positive,High
+BK4194726,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44423,44427,August,Q3,2021,Presidential Suite,2,4,9379,599,1398,38115,36717,4406.04,41123.04,MakeMyTrip,New Guest,UPI,Checked-Out,3.0,Positive,Low
+BK2922702,ITC Rajputana,Business,Jaipur,Rajasthan,India,44545,44546,December,Q4,2021,Luxury Suite,2,1,24042,1179,1630,25221,23591,2830.92,26421.92,Website,VIP,Debit Card,Checked-Out,3.2,Positive,Low
+BK3481042,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44298,44299,April,Q2,2021,Presidential Suite,1,1,4642,1365,4323,6007,1684,202.08,1886.08,Booking.com,Corporate,Net Banking,Cancelled,4.5,Positive,High
+BK4630920,ITC Grand Goa,Resort,Goa,Goa,India,44583,44587,January,Q1,2022,Luxury Suite,2,4,17370,5912,3508,75392,71884,8626.08,80510.08,Walk-in,VIP,Net Banking,Checked-In,4.3,Negative,High
+BK9748313,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44523,44524,November,Q4,2021,Deluxe,2,1,14341,5184,4420,19525,15105,1812.6,16917.6,Goibibo,Member,UPI,Checked-In,4.3,Neutral,Low
+BK7133291,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44587,44592,January,Q1,2022,Club Room,3,5,6201,6405,923,37410,36487,4378.44,40865.44,Corporate,VIP,Cash,Checked-In,3.8,Positive,High
+BK1410870,ITC Maurya,Luxury,New Delhi,Delhi,India,44339,44341,May,Q2,2021,Deluxe,1,2,7138,3078,4827,17354,12527,1503.24,14030.24,Walk-in,Corporate,Credit Card,Checked-Out,3.4,Positive,High
+BK6266225,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44319,44323,May,Q2,2021,Executive,3,4,22234,2148,1389,91084,89695,10763.4,100458.4,Website,Regular,Debit Card,No Show,3.0,Positive,High
+BK1549884,ITC Maurya,Luxury,New Delhi,Delhi,India,44519,44520,November,Q4,2021,Luxury Suite,1,1,21802,6038,2208,27840,25632,3075.84,28707.84,MakeMyTrip,New Guest,Debit Card,Checked-In,4.9,Positive,Low
+BK6719108,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44633,44634,March,Q1,2022,Presidential Suite,2,1,20894,2276,837,23170,22333,2679.96,25012.96,MakeMyTrip,New Guest,Cash,Checked-Out,5.0,Positive,Low
+BK3614924,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44412,44413,August,Q3,2021,Presidential Suite,3,1,24141,719,178,24860,24682,2961.84,27643.84,Booking.com,Corporate,Net Banking,Checked-In,3.6,Neutral,Low
+BK7893665,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44618,44623,February,Q1,2022,Presidential Suite,4,5,27121,4566,1530,140171,138641,16636.92,155277.92,Walk-in,VIP,UPI,No Show,4.4,Positive,Low
+BK8137608,ITC Sonar,Business,Kolkata,West Bengal,India,44461,44463,September,Q3,2021,Deluxe,4,2,9796,6113,4020,25705,21685,2602.2,24287.2,Website,Regular,Debit Card,Cancelled,4.8,Positive,Low
+BK6724493,ITC Sonar,Business,Kolkata,West Bengal,India,44460,44461,September,Q3,2021,Presidential Suite,3,1,13904,520,3804,14424,10620,1274.4,11894.4,Booking.com,Regular,Credit Card,No Show,3.1,Positive,Low
+BK3015732,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44408,44409,July,Q3,2021,Club Room,3,1,4578,1158,2863,5736,2873,344.76,3217.76,Booking.com,Member,UPI,No Show,3.8,Positive,Low
+BK5375969,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44469,44471,September,Q3,2021,Executive,3,2,22787,3732,4543,49306,44763,5371.56,50134.56,MakeMyTrip,Regular,UPI,Checked-In,4.2,Positive,Low
+BK6285565,ITC Maurya,Luxury,New Delhi,Delhi,India,44543,44548,December,Q4,2021,Executive,4,5,7749,5663,1346,44408,43062,5167.44,48229.44,Booking.com,New Guest,Credit Card,Checked-Out,3.2,Neutral,Low
+BK5731476,ITC Maurya,Luxury,New Delhi,Delhi,India,44445,44449,September,Q3,2021,Executive,3,4,14190,111,3414,56871,53457,6414.84,59871.84,Walk-in,Member,Cash,Cancelled,3.7,Positive,Low
+BK2795361,ITC Windsor,Business,Bengaluru,Karnataka,India,44338,44339,May,Q2,2021,Deluxe,4,1,26888,5891,520,32779,32259,3871.08,36130.08,Walk-in,VIP,Debit Card,Checked-In,3.2,Negative,High
+BK8659395,ITC Narmada,Business,Ahmedabad,Gujarat,India,44451,44452,September,Q3,2021,Executive,4,1,12316,1166,1599,13482,11883,1425.96,13308.96,MakeMyTrip,Regular,Net Banking,Cancelled,5.0,Positive,Low
+BK8133093,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44372,44375,June,Q2,2021,Luxury Suite,1,3,15398,3023,799,49217,48418,5810.16,54228.16,Website,New Guest,Credit Card,Checked-In,4.4,Negative,High
+BK4655543,ITC Rajputana,Business,Jaipur,Rajasthan,India,44349,44354,June,Q2,2021,Presidential Suite,3,5,27023,552,1585,135667,134082,16089.84,150171.84,Goibibo,Corporate,Net Banking,No Show,4.9,Positive,High
+BK3654909,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44470,44471,October,Q4,2021,Club Room,1,1,18576,733,2399,19309,16910,2029.2,18939.2,Walk-in,Regular,Net Banking,Checked-Out,4.5,Positive,Low
+BK3466026,ITC Rajputana,Business,Jaipur,Rajasthan,India,44517,44521,November,Q4,2021,Club Room,4,4,9432,980,1709,38708,36999,4439.88,41438.88,Booking.com,Regular,Debit Card,Checked-In,4.5,Positive,Low
+BK3642662,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44433,44436,August,Q3,2021,Executive,3,3,23005,5806,464,74821,74357,8922.84,83279.84,MakeMyTrip,New Guest,Credit Card,Checked-In,4.8,Positive,Low
+BK4431573,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44634,44639,March,Q1,2022,Executive,1,5,14910,372,4627,74922,70295,8435.4,78730.4,Corporate,Corporate,Cash,Checked-In,4.4,Positive,Low
+BK3341919,ITC Rajputana,Business,Jaipur,Rajasthan,India,44466,44469,September,Q3,2021,Executive,3,3,6220,1687,3247,20347,17100,2052.0,19152.0,Booking.com,New Guest,Net Banking,Cancelled,3.1,Neutral,Low
+BK1167653,ITC Rajputana,Business,Jaipur,Rajasthan,India,44464,44465,September,Q3,2021,Deluxe,3,1,11987,586,1287,12573,11286,1354.32,12640.32,Booking.com,Member,UPI,Checked-In,4.1,Positive,Low
+BK7468149,ITC Grand Goa,Resort,Goa,Goa,India,44645,44648,March,Q1,2022,Club Room,3,3,17134,5823,155,57225,57070,6848.4,63918.4,Website,Regular,Credit Card,Checked-In,4.9,Neutral,Low
+BK9411952,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44313,44317,April,Q2,2021,Luxury Suite,1,4,26459,3890,1040,109726,108686,13042.32,121728.32,Corporate,VIP,Credit Card,Checked-In,4.4,Neutral,High
+BK8884735,ITC Rajputana,Business,Jaipur,Rajasthan,India,44569,44571,January,Q1,2022,Luxury Suite,1,2,13410,3977,674,30797,30123,3614.76,33737.76,MakeMyTrip,VIP,Net Banking,Checked-In,4.7,Positive,High
+BK5110131,ITC Sonar,Business,Kolkata,West Bengal,India,44304,44309,April,Q2,2021,Executive,1,5,25499,6903,118,134398,134280,16113.6,150393.6,Booking.com,Member,Debit Card,Checked-In,4.9,Positive,High
+BK6610006,ITC Narmada,Business,Ahmedabad,Gujarat,India,44299,44304,April,Q2,2021,Luxury Suite,2,5,12920,4402,4443,69002,64559,7747.08,72306.08,MakeMyTrip,New Guest,Cash,Checked-In,3.3,Positive,High
+BK8808343,ITC Narmada,Business,Ahmedabad,Gujarat,India,44356,44360,June,Q2,2021,Deluxe,1,4,23370,56,2225,93536,91311,10957.32,102268.32,Booking.com,VIP,UPI,Checked-In,4.7,Neutral,High
+BK5317433,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44616,44619,February,Q1,2022,Club Room,1,3,25574,3689,1460,80411,78951,9474.12,88425.12,Goibibo,Corporate,Credit Card,Checked-Out,3.8,Positive,Low
+BK3653322,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44413,44415,August,Q3,2021,Executive,2,2,7610,648,971,15868,14897,1787.64,16684.64,Booking.com,New Guest,Cash,Checked-Out,3.1,Negative,Low
+BK5736160,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44552,44553,December,Q4,2021,Presidential Suite,1,1,13007,2070,4505,15077,10572,1268.64,11840.64,Booking.com,Member,Debit Card,Checked-Out,4.8,Positive,Low
+BK3180786,ITC Maurya,Luxury,New Delhi,Delhi,India,44438,44441,August,Q3,2021,Deluxe,2,3,25701,4814,2675,81917,79242,9509.04,88751.04,MakeMyTrip,Corporate,Net Banking,Checked-In,4.9,Positive,Low
+BK1876104,ITC Windsor,Business,Bengaluru,Karnataka,India,44376,44381,June,Q2,2021,Club Room,1,5,16033,184,152,80349,80197,9623.64,89820.64,MakeMyTrip,Member,Net Banking,Checked-In,4.7,Neutral,High
+BK4156425,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44473,44478,October,Q4,2021,Executive,2,5,16825,1952,1634,86077,84443,10133.16,94576.16,Goibibo,Corporate,Debit Card,Checked-In,3.2,Positive,Low
+BK9275388,ITC Maurya,Luxury,New Delhi,Delhi,India,44638,44643,March,Q1,2022,Deluxe,2,5,16004,6770,3523,86790,83267,9992.04,93259.04,Website,VIP,Net Banking,Checked-Out,4.8,Positive,Low
+BK2424258,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44460,44465,September,Q3,2021,Presidential Suite,1,5,6656,1630,3335,34910,31575,3789.0,35364.0,Corporate,Regular,Debit Card,Checked-Out,3.5,Positive,Low
+BK9635983,ITC Windsor,Business,Bengaluru,Karnataka,India,44365,44367,June,Q2,2021,Deluxe,2,2,7103,4301,1830,18507,16677,2001.24,18678.24,Corporate,Member,Net Banking,Checked-In,5.0,Positive,High
+BK5101306,ITC Grand Goa,Resort,Goa,Goa,India,44372,44377,June,Q2,2021,Deluxe,1,5,4835,1842,3960,26017,22057,2646.84,24703.84,MakeMyTrip,VIP,Debit Card,Checked-In,4.7,Neutral,High
+BK8071178,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44631,44633,March,Q1,2022,Deluxe,2,2,6435,3164,3625,16034,12409,1489.08,13898.08,Booking.com,New Guest,UPI,Checked-Out,4.2,Positive,Low
+BK9254463,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44576,44581,January,Q1,2022,Presidential Suite,4,5,11699,71,1809,58566,56757,6810.84,63567.84,Walk-in,Member,UPI,Checked-In,3.2,Negative,High
+BK7271721,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44311,44315,April,Q2,2021,Luxury Suite,2,4,17210,1504,4047,70344,66297,7955.64,74252.64,Walk-in,Member,Cash,Cancelled,4.0,Negative,High
+BK7753206,ITC Maurya,Luxury,New Delhi,Delhi,India,44551,44552,December,Q4,2021,Presidential Suite,1,1,12991,5979,4023,18970,14947,1793.64,16740.64,Booking.com,Regular,Net Banking,Checked-Out,4.4,Positive,Low
+BK4357461,ITC Maurya,Luxury,New Delhi,Delhi,India,44580,44584,January,Q1,2022,Deluxe,3,4,24120,1689,773,98169,97396,11687.52,109083.52,Website,Member,Debit Card,Cancelled,4.1,Positive,High
+BK1073554,ITC Windsor,Business,Bengaluru,Karnataka,India,44399,44404,July,Q3,2021,Deluxe,1,5,12844,6453,1572,70673,69101,8292.12,77393.12,Goibibo,Member,Cash,Checked-Out,4.3,Neutral,Low
+BK5293505,ITC Windsor,Business,Bengaluru,Karnataka,India,44553,44555,December,Q4,2021,Deluxe,1,2,7391,3682,4437,18464,14027,1683.24,15710.24,Corporate,Member,UPI,Checked-In,3.3,Positive,Low
+BK6967549,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44374,44377,June,Q2,2021,Luxury Suite,2,3,23508,6146,1591,76670,75079,9009.48,84088.48,MakeMyTrip,New Guest,UPI,Checked-Out,4.4,Positive,High
+BK1419503,ITC Grand Goa,Resort,Goa,Goa,India,44579,44581,January,Q1,2022,Deluxe,3,2,24067,3756,3223,51890,48667,5840.04,54507.04,Booking.com,Regular,Credit Card,Checked-In,4.7,Positive,High
+BK8481275,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44605,44606,February,Q1,2022,Luxury Suite,3,1,24707,3231,1950,27938,25988,3118.56,29106.56,Walk-in,Member,Cash,Cancelled,4.3,Positive,Low
+BK5956817,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44407,44409,July,Q3,2021,Deluxe,3,2,17552,4292,1876,39396,37520,4502.4,42022.4,Booking.com,Corporate,UPI,No Show,4.8,Negative,Low
+BK4169800,ITC Rajputana,Business,Jaipur,Rajasthan,India,44349,44352,June,Q2,2021,Club Room,2,3,16505,2000,54,51515,51461,6175.32,57636.32,Walk-in,Member,Cash,Checked-In,3.8,Positive,High
+BK2420458,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44551,44554,December,Q4,2021,Presidential Suite,2,3,15236,2489,361,48197,47836,5740.32,53576.32,Corporate,VIP,UPI,Checked-In,4.4,Positive,Low
+BK9145907,ITC Windsor,Business,Bengaluru,Karnataka,India,44577,44578,January,Q1,2022,Presidential Suite,3,1,9748,6009,3283,15757,12474,1496.88,13970.88,Goibibo,New Guest,Credit Card,Checked-Out,4.3,Positive,High
+BK2444275,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44350,44351,June,Q2,2021,Deluxe,2,1,14965,5077,4018,20042,16024,1922.88,17946.88,Goibibo,New Guest,Credit Card,Checked-In,4.2,Positive,High
+BK8633719,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44331,44334,May,Q2,2021,Luxury Suite,4,3,20036,3769,2592,63877,61285,7354.2,68639.2,MakeMyTrip,New Guest,Net Banking,Checked-Out,3.7,Positive,High
+BK1266521,ITC Sonar,Business,Kolkata,West Bengal,India,44449,44450,September,Q3,2021,Club Room,1,1,12336,3539,4240,15875,11635,1396.2,13031.2,Booking.com,Member,Cash,Checked-In,3.2,Positive,Low
+BK4657494,ITC Grand Goa,Resort,Goa,Goa,India,44352,44353,June,Q2,2021,Luxury Suite,4,1,13636,2194,1249,15830,14581,1749.72,16330.72,MakeMyTrip,Regular,UPI,Checked-In,3.7,Positive,High
+BK5057093,ITC Maurya,Luxury,New Delhi,Delhi,India,44553,44558,December,Q4,2021,Luxury Suite,1,5,11045,1124,2933,56349,53416,6409.92,59825.92,Walk-in,Regular,Debit Card,Checked-In,4.4,Positive,Low
+BK7213623,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44515,44518,November,Q4,2021,Deluxe,3,3,24414,5117,4599,78359,73760,8851.2,82611.2,Booking.com,Member,UPI,Checked-Out,3.4,Positive,Low
+BK1103701,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44334,44339,May,Q2,2021,Club Room,3,5,7222,6024,1911,42134,40223,4826.76,45049.76,Corporate,New Guest,Debit Card,Checked-In,3.6,Positive,High
+BK6394435,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44418,44421,August,Q3,2021,Presidential Suite,3,3,14601,3476,2228,47279,45051,5406.12,50457.12,Booking.com,Corporate,Cash,Checked-In,3.6,Positive,Low
+BK5414335,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44364,44369,June,Q2,2021,Executive,1,5,24996,3326,4566,128306,123740,14848.8,138588.8,Goibibo,Member,Credit Card,Checked-Out,3.3,Positive,High
+BK8587881,ITC Windsor,Business,Bengaluru,Karnataka,India,44416,44417,August,Q3,2021,Presidential Suite,3,1,19644,4725,2956,24369,21413,2569.56,23982.56,Walk-in,Member,Credit Card,Checked-Out,4.5,Positive,Low
+BK2867594,ITC Maurya,Luxury,New Delhi,Delhi,India,44448,44450,September,Q3,2021,Club Room,3,2,5551,3884,4341,14986,10645,1277.4,11922.4,Corporate,Member,Debit Card,Checked-Out,3.2,Positive,Low
+BK3988531,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44431,44432,August,Q3,2021,Luxury Suite,4,1,4596,947,3614,5543,1929,231.48,2160.48,Walk-in,Regular,Debit Card,No Show,4.5,Positive,Low
+BK2696565,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44502,44505,November,Q4,2021,Club Room,2,3,24781,5593,1684,79936,78252,9390.24,87642.24,MakeMyTrip,New Guest,UPI,Checked-Out,4.2,Negative,Low
+BK9001300,ITC Grand Goa,Resort,Goa,Goa,India,44423,44427,August,Q3,2021,Luxury Suite,3,4,24057,2778,2784,99006,96222,11546.64,107768.64,Booking.com,VIP,Net Banking,Cancelled,4.3,Positive,Low
+BK1547053,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44634,44636,March,Q1,2022,Executive,3,2,5937,421,3068,12295,9227,1107.24,10334.24,Goibibo,Regular,Debit Card,Checked-Out,4.0,Positive,Low
+BK3089240,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44517,44518,November,Q4,2021,Club Room,3,1,16385,6457,2273,22842,20569,2468.28,23037.28,Goibibo,Member,Net Banking,Checked-In,3.2,Positive,Low
+BK2507920,ITC Maurya,Luxury,New Delhi,Delhi,India,44500,44504,October,Q4,2021,Presidential Suite,4,4,11088,3068,2349,47420,45071,5408.52,50479.52,Walk-in,Corporate,UPI,Checked-In,3.9,Positive,Low
+BK1053413,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44513,44514,November,Q4,2021,Deluxe,1,1,15328,4220,4612,19548,14936,1792.32,16728.32,Goibibo,Member,UPI,Checked-Out,3.8,Positive,Low
+BK4531846,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44311,44313,April,Q2,2021,Presidential Suite,2,2,10747,459,3351,21953,18602,2232.24,20834.24,Walk-in,Regular,Credit Card,No Show,3.9,Positive,High
+BK4624247,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44490,44495,October,Q4,2021,Deluxe,3,5,10680,5142,3260,58542,55282,6633.84,61915.84,Website,Corporate,Credit Card,Checked-In,3.7,Negative,Low
+BK3896031,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44460,44465,September,Q3,2021,Presidential Suite,4,5,27007,1006,4759,136041,131282,15753.84,147035.84,Booking.com,Regular,Credit Card,Checked-In,4.9,Positive,Low
+BK5002293,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44434,44438,August,Q3,2021,Club Room,1,4,13973,3692,4981,59584,54603,6552.36,61155.36,Goibibo,Member,Debit Card,Checked-In,3.3,Positive,Low
+BK3885213,ITC Rajputana,Business,Jaipur,Rajasthan,India,44588,44591,January,Q1,2022,Executive,3,3,21612,6808,4953,71644,66691,8002.92,74693.92,Website,New Guest,Net Banking,Checked-In,3.8,Neutral,High
+BK8784454,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44548,44551,December,Q4,2021,Luxury Suite,3,3,13025,1906,4618,40981,36363,4363.56,40726.56,MakeMyTrip,Corporate,Credit Card,Checked-Out,4.8,Negative,Low
+BK4852300,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44401,44403,July,Q3,2021,Deluxe,3,2,24894,4007,858,53795,52937,6352.44,59289.44,Walk-in,Regular,Net Banking,Checked-Out,3.8,Positive,Low
+BK2282924,ITC Sonar,Business,Kolkata,West Bengal,India,44299,44300,April,Q2,2021,Deluxe,4,1,22769,6482,4298,29251,24953,2994.36,27947.36,Booking.com,New Guest,UPI,Checked-Out,3.1,Neutral,High
+BK4250848,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44523,44528,November,Q4,2021,Presidential Suite,3,5,20642,4554,2561,107764,105203,12624.36,117827.36,Walk-in,Corporate,Net Banking,Checked-In,4.5,Positive,Low
+BK3240190,ITC Sonar,Business,Kolkata,West Bengal,India,44289,44293,April,Q2,2021,Presidential Suite,2,4,9110,6386,2002,42826,40824,4898.88,45722.88,Website,New Guest,Debit Card,Checked-In,3.8,Positive,High
+BK7250107,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44605,44607,February,Q1,2022,Luxury Suite,4,2,20960,45,163,41965,41802,5016.24,46818.24,MakeMyTrip,Corporate,Debit Card,Checked-In,3.2,Positive,Low
+BK6716960,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44298,44303,April,Q2,2021,Presidential Suite,4,5,13487,2495,2580,69930,67350,8082.0,75432.0,Goibibo,Member,UPI,Checked-Out,4.1,Positive,High
+BK4462814,ITC Rajputana,Business,Jaipur,Rajasthan,India,44589,44590,January,Q1,2022,Presidential Suite,4,1,14385,3049,2332,17434,15102,1812.24,16914.24,MakeMyTrip,Member,Credit Card,Checked-Out,4.9,Negative,High
+BK2665395,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44422,44423,August,Q3,2021,Deluxe,2,1,22203,580,1676,22783,21107,2532.84,23639.84,Website,New Guest,Credit Card,Checked-Out,3.0,Positive,Low
+BK2319078,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44612,44615,February,Q1,2022,Deluxe,1,3,9755,4978,9,34243,34234,4108.08,38342.08,Website,New Guest,Cash,Checked-Out,4.9,Positive,Low
+BK9067586,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44499,44503,October,Q4,2021,Presidential Suite,4,4,4963,4763,4342,24615,20273,2432.76,22705.76,Booking.com,Corporate,Credit Card,Checked-In,3.6,Neutral,Low
+BK9148650,ITC Narmada,Business,Ahmedabad,Gujarat,India,44335,44338,May,Q2,2021,Luxury Suite,1,3,16319,1200,4359,50157,45798,5495.76,51293.76,MakeMyTrip,Corporate,Cash,Checked-In,4.4,Neutral,High
+BK1754674,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44465,44466,September,Q3,2021,Executive,2,1,12690,1106,1979,13796,11817,1418.04,13235.04,Booking.com,VIP,Debit Card,Checked-Out,3.8,Negative,Low
+BK4080303,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44514,44518,November,Q4,2021,Presidential Suite,1,4,11869,3391,4586,50867,46281,5553.72,51834.72,Booking.com,Regular,Cash,Checked-In,3.1,Positive,Low
+BK9119260,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44413,44417,August,Q3,2021,Presidential Suite,2,4,23594,2478,190,96854,96664,11599.68,108263.68,Website,Member,Credit Card,Checked-Out,4.9,Positive,Low
+BK8406239,ITC Maurya,Luxury,New Delhi,Delhi,India,44395,44397,July,Q3,2021,Presidential Suite,4,2,15918,2698,2967,34534,31567,3788.04,35355.04,MakeMyTrip,New Guest,Cash,Checked-In,4.2,Neutral,Low
+BK6756818,ITC Sonar,Business,Kolkata,West Bengal,India,44532,44537,December,Q4,2021,Luxury Suite,2,5,16492,1632,4812,84092,79280,9513.6,88793.6,MakeMyTrip,New Guest,Cash,Cancelled,4.3,Neutral,Low
+BK7873412,ITC Maurya,Luxury,New Delhi,Delhi,India,44418,44423,August,Q3,2021,Club Room,2,5,23508,2229,4622,119769,115147,13817.64,128964.64,Corporate,Member,Debit Card,Checked-In,4.6,Negative,Low
+BK4132614,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44360,44361,June,Q2,2021,Presidential Suite,4,1,23745,3050,4853,26795,21942,2633.04,24575.04,Walk-in,Corporate,Credit Card,Checked-In,3.1,Negative,High
+BK3614705,ITC Narmada,Business,Ahmedabad,Gujarat,India,44448,44452,September,Q3,2021,Luxury Suite,2,4,20479,798,3428,82714,79286,9514.32,88800.32,Booking.com,New Guest,Net Banking,Checked-In,4.1,Neutral,Low
+BK9067049,ITC Rajputana,Business,Jaipur,Rajasthan,India,44573,44578,January,Q1,2022,Deluxe,1,5,25800,6340,3309,135340,132031,15843.72,147874.72,Website,Regular,Debit Card,Checked-In,3.3,Neutral,High
+BK9733536,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44562,44567,January,Q1,2022,Luxury Suite,1,5,10278,5555,204,56945,56741,6808.92,63549.92,Corporate,VIP,Debit Card,Checked-In,4.9,Neutral,High
+BK8162381,ITC Grand Goa,Resort,Goa,Goa,India,44480,44484,October,Q4,2021,Deluxe,2,4,15239,4615,515,65571,65056,7806.72,72862.72,Website,VIP,Debit Card,Checked-In,3.7,Positive,Low
+BK8480909,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44507,44508,November,Q4,2021,Deluxe,3,1,15760,5919,1479,21679,20200,2424.0,22624.0,Walk-in,New Guest,UPI,Checked-In,4.4,Neutral,Low
+BK4383648,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44346,44347,May,Q2,2021,Club Room,2,1,12025,6655,1733,18680,16947,2033.64,18980.64,Goibibo,VIP,Cash,Checked-In,4.8,Negative,High
+BK4722291,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44429,44431,August,Q3,2021,Presidential Suite,1,2,11490,6545,1374,29525,28151,3378.12,31529.12,MakeMyTrip,Member,Credit Card,Checked-Out,3.8,Positive,Low
+BK8991305,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44345,44348,May,Q2,2021,Deluxe,1,3,17338,2819,1501,54833,53332,6399.84,59731.84,Website,Regular,Net Banking,Checked-In,3.7,Negative,High
+BK1897646,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44470,44475,October,Q4,2021,Executive,3,5,14085,6730,339,77155,76816,9217.92,86033.92,Website,VIP,Net Banking,Checked-In,4.2,Positive,Low
+BK4334406,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44624,44625,March,Q1,2022,Club Room,4,1,19227,6553,3172,25780,22608,2712.96,25320.96,Corporate,VIP,Credit Card,Cancelled,4.1,Positive,Low
+BK4360367,ITC Sonar,Business,Kolkata,West Bengal,India,44361,44364,June,Q2,2021,Presidential Suite,1,3,11224,125,2297,33797,31500,3780.0,35280.0,Walk-in,Regular,Net Banking,Checked-In,4.4,Positive,High
+BK2751805,ITC Grand Goa,Resort,Goa,Goa,India,44494,44497,October,Q4,2021,Presidential Suite,2,3,17872,5208,3517,58824,55307,6636.84,61943.84,Website,VIP,UPI,Checked-In,4.6,Positive,Low
+BK5079008,ITC Windsor,Business,Bengaluru,Karnataka,India,44644,44648,March,Q1,2022,Deluxe,2,4,21054,2970,809,87186,86377,10365.24,96742.24,Walk-in,VIP,UPI,No Show,3.2,Positive,Low
+BK3496222,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44414,44415,August,Q3,2021,Luxury Suite,3,1,18832,1242,4991,20074,15083,1809.96,16892.96,Website,Member,UPI,Cancelled,3.9,Positive,Low
+BK6178304,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44410,44411,August,Q3,2021,Club Room,4,1,8517,6807,1110,15324,14214,1705.68,15919.68,MakeMyTrip,Corporate,Net Banking,Checked-In,3.7,Positive,Low
+BK8418183,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44477,44482,October,Q4,2021,Executive,3,5,4517,1,4773,22586,17813,2137.56,19950.56,Walk-in,Regular,UPI,Checked-Out,3.9,Neutral,Low
+BK9758545,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44571,44573,January,Q1,2022,Presidential Suite,4,2,23224,4276,2003,50724,48721,5846.52,54567.52,MakeMyTrip,VIP,UPI,Checked-In,3.2,Neutral,High
+BK2947919,ITC Grand Goa,Resort,Goa,Goa,India,44606,44610,February,Q1,2022,Presidential Suite,1,4,17959,726,237,72562,72325,8679.0,81004.0,Walk-in,New Guest,UPI,Checked-Out,4.2,Positive,Low
+BK6794106,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44347,44352,May,Q2,2021,Deluxe,4,5,4542,1268,2599,23978,21379,2565.48,23944.48,Goibibo,Corporate,UPI,Checked-Out,3.3,Positive,High
+BK3835855,ITC Maurya,Luxury,New Delhi,Delhi,India,44427,44432,August,Q3,2021,Deluxe,4,5,4706,1816,2596,25346,22750,2730.0,25480.0,Booking.com,Regular,Net Banking,Checked-In,3.6,Positive,Low
+BK2625957,ITC Sonar,Business,Kolkata,West Bengal,India,44628,44629,March,Q1,2022,Executive,4,1,26361,5114,715,31475,30760,3691.2,34451.2,Booking.com,New Guest,UPI,Checked-In,3.7,Positive,Low
+BK3923938,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44607,44609,February,Q1,2022,Club Room,3,2,7733,3597,330,19063,18733,2247.96,20980.96,Website,Corporate,Debit Card,Cancelled,4.5,Positive,Low
+BK1853359,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44581,44584,January,Q1,2022,Presidential Suite,1,3,22943,4468,1360,73297,71937,8632.44,80569.44,Goibibo,New Guest,Credit Card,Checked-Out,4.1,Negative,High
+BK9178750,ITC Windsor,Business,Bengaluru,Karnataka,India,44511,44516,November,Q4,2021,Luxury Suite,4,5,24225,5525,4566,126650,122084,14650.08,136734.08,Goibibo,VIP,UPI,Checked-In,3.9,Positive,Low
+BK3434516,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44534,44537,December,Q4,2021,Club Room,2,3,22297,2327,945,69218,68273,8192.76,76465.76,Corporate,Regular,Credit Card,Checked-Out,4.9,Positive,Low
+BK8368568,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44409,44413,August,Q3,2021,Executive,3,4,23092,2119,2816,94487,91671,11000.52,102671.52,Corporate,Regular,Debit Card,No Show,3.2,Positive,Low
+BK3236190,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44578,44580,January,Q1,2022,Executive,2,2,12033,2441,1209,26507,25298,3035.76,28333.76,Booking.com,Member,Debit Card,Checked-In,4.3,Positive,High
+BK6434455,ITC Windsor,Business,Bengaluru,Karnataka,India,44506,44510,November,Q4,2021,Presidential Suite,1,4,24361,3217,2704,100661,97957,11754.84,109711.84,Walk-in,Member,Debit Card,Checked-Out,3.0,Positive,Low
+BK6580704,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44490,44491,October,Q4,2021,Executive,4,1,19836,4080,4637,23916,19279,2313.48,21592.48,Walk-in,Member,Debit Card,Checked-Out,3.8,Positive,Low
+BK7340774,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44346,44347,May,Q2,2021,Club Room,4,1,8855,2502,903,11357,10454,1254.48,11708.48,Corporate,Corporate,Net Banking,Checked-In,3.8,Positive,High
+BK4748449,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44607,44611,February,Q1,2022,Presidential Suite,2,4,18222,107,3826,72995,69169,8300.28,77469.28,Website,VIP,Credit Card,Checked-In,4.4,Positive,Low
+BK3003564,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44472,44477,October,Q4,2021,Executive,2,5,18964,6112,4441,100932,96491,11578.92,108069.92,Corporate,Regular,Cash,Checked-Out,4.8,Positive,Low
+BK9988277,ITC Rajputana,Business,Jaipur,Rajasthan,India,44568,44573,January,Q1,2022,Club Room,4,5,11564,4376,4108,62196,58088,6970.56,65058.56,MakeMyTrip,Corporate,Debit Card,Checked-In,3.1,Positive,High
+BK8007758,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44495,44497,October,Q4,2021,Luxury Suite,2,2,17053,2644,966,36750,35784,4294.08,40078.08,Booking.com,Corporate,Cash,Checked-In,3.8,Positive,Low
+BK6557210,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44298,44299,April,Q2,2021,Presidential Suite,1,1,14141,1428,3716,15569,11853,1422.36,13275.36,MakeMyTrip,Member,Debit Card,Checked-Out,3.3,Neutral,High
+BK8723966,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44327,44329,May,Q2,2021,Club Room,3,2,13319,5178,3329,31816,28487,3418.44,31905.44,Walk-in,VIP,Net Banking,Checked-In,4.7,Positive,High
+BK9941766,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44314,44315,April,Q2,2021,Deluxe,2,1,24867,1729,930,26596,25666,3079.92,28745.92,Corporate,Regular,Cash,No Show,3.1,Positive,High
+BK7075326,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44299,44304,April,Q2,2021,Luxury Suite,4,5,25278,3661,500,130051,129551,15546.12,145097.12,Goibibo,Corporate,UPI,Checked-Out,3.5,Neutral,High
+BK7241940,ITC Grand Goa,Resort,Goa,Goa,India,44331,44333,May,Q2,2021,Presidential Suite,4,2,17452,364,900,35268,34368,4124.16,38492.16,MakeMyTrip,VIP,Net Banking,Checked-In,3.9,Neutral,High
+BK3764642,ITC Rajputana,Business,Jaipur,Rajasthan,India,44503,44505,November,Q4,2021,Luxury Suite,2,2,19921,1036,4298,40878,36580,4389.6,40969.6,Website,Member,UPI,No Show,3.4,Positive,Low
+BK9733154,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44620,44625,February,Q1,2022,Luxury Suite,2,5,13631,1280,2253,69435,67182,8061.84,75243.84,MakeMyTrip,New Guest,Credit Card,Checked-In,4.7,Positive,Low
+BK7957172,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44467,44469,September,Q3,2021,Club Room,2,2,5818,3959,4788,15595,10807,1296.84,12103.84,Corporate,VIP,Credit Card,Checked-Out,4.2,Positive,Low
+BK9276969,ITC Rajputana,Business,Jaipur,Rajasthan,India,44637,44639,March,Q1,2022,Presidential Suite,1,2,4544,6551,172,15639,15467,1856.04,17323.04,Corporate,Member,Credit Card,Checked-In,3.7,Positive,Low
+BK7725740,ITC Maurya,Luxury,New Delhi,Delhi,India,44302,44305,April,Q2,2021,Deluxe,1,3,17762,544,3147,53830,50683,6081.96,56764.96,Walk-in,Regular,UPI,Checked-In,3.1,Positive,High
+BK8364042,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44325,44328,May,Q2,2021,Club Room,1,3,27180,5087,3825,86627,82802,9936.24,92738.24,Corporate,VIP,Cash,Checked-In,3.0,Positive,High
+BK6109327,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44433,44435,August,Q3,2021,Luxury Suite,3,2,18675,1898,881,39248,38367,4604.04,42971.04,Booking.com,New Guest,Net Banking,Checked-In,4.8,Neutral,Low
+BK1521940,ITC Rajputana,Business,Jaipur,Rajasthan,India,44536,44538,December,Q4,2021,Luxury Suite,3,2,20183,6878,1749,47244,45495,5459.4,50954.4,Corporate,New Guest,UPI,Checked-In,3.4,Positive,Low
+BK5520480,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44319,44322,May,Q2,2021,Luxury Suite,1,3,11821,1638,3122,37101,33979,4077.48,38056.48,Booking.com,Member,Debit Card,Checked-Out,4.1,Positive,High
+BK2056069,ITC Rajputana,Business,Jaipur,Rajasthan,India,44320,44323,May,Q2,2021,Executive,3,3,16789,4965,3362,55332,51970,6236.4,58206.4,MakeMyTrip,Regular,Debit Card,Checked-Out,4.9,Positive,High
+BK3246332,ITC Narmada,Business,Ahmedabad,Gujarat,India,44610,44614,February,Q1,2022,Executive,1,4,26099,6369,2219,110765,108546,13025.52,121571.52,Booking.com,Member,Debit Card,Checked-Out,3.7,Positive,Low
+BK6160611,ITC Windsor,Business,Bengaluru,Karnataka,India,44520,44524,November,Q4,2021,Club Room,2,4,12028,5451,2278,53563,51285,6154.2,57439.2,Goibibo,Regular,Credit Card,Checked-Out,3.1,Neutral,Low
+BK1216136,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44370,44374,June,Q2,2021,Executive,3,4,24525,3425,4826,101525,96699,11603.88,108302.88,MakeMyTrip,Regular,Net Banking,Checked-Out,4.4,Positive,High
+BK2888160,ITC Maurya,Luxury,New Delhi,Delhi,India,44526,44530,November,Q4,2021,Executive,3,4,18841,3689,4956,79053,74097,8891.64,82988.64,Walk-in,VIP,Debit Card,Checked-In,3.8,Positive,Low
+BK6278635,ITC Sonar,Business,Kolkata,West Bengal,India,44494,44496,October,Q4,2021,Deluxe,1,2,8631,316,3121,17578,14457,1734.84,16191.84,Walk-in,Member,Debit Card,Cancelled,4.4,Neutral,Low
+BK2109420,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44380,44383,July,Q3,2021,Presidential Suite,3,3,21146,5161,2266,68599,66333,7959.96,74292.96,Corporate,Member,Credit Card,Checked-In,4.9,Positive,Low
+BK3725462,ITC Windsor,Business,Bengaluru,Karnataka,India,44548,44553,December,Q4,2021,Luxury Suite,3,5,26097,2208,407,132693,132286,15874.32,148160.32,MakeMyTrip,Corporate,Credit Card,Checked-Out,4.3,Positive,Low
+BK9319994,ITC Windsor,Business,Bengaluru,Karnataka,India,44354,44357,June,Q2,2021,Executive,3,3,19449,153,4883,58500,53617,6434.04,60051.04,Corporate,Member,Credit Card,Checked-Out,3.4,Positive,High
+BK2205297,ITC Windsor,Business,Bengaluru,Karnataka,India,44582,44586,January,Q1,2022,Luxury Suite,3,4,11558,6856,3583,53088,49505,5940.6,55445.6,MakeMyTrip,VIP,Debit Card,Checked-In,3.1,Positive,High
+BK1260459,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44459,44464,September,Q3,2021,Luxury Suite,3,5,19701,6229,153,104734,104581,12549.72,117130.72,Walk-in,New Guest,Cash,Checked-In,4.2,Positive,Low
+BK7571206,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44624,44629,March,Q1,2022,Luxury Suite,2,5,27153,213,4467,135978,131511,15781.32,147292.32,Corporate,Regular,Net Banking,Checked-In,4.5,Positive,Low
+BK4431131,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44542,44543,December,Q4,2021,Deluxe,1,1,11420,2430,3453,13850,10397,1247.64,11644.64,Website,Regular,Net Banking,Checked-In,4.7,Positive,Low
+BK1472611,ITC Rajputana,Business,Jaipur,Rajasthan,India,44642,44643,March,Q1,2022,Club Room,3,1,14078,3916,4139,17994,13855,1662.6,15517.6,Goibibo,Member,Cash,Checked-Out,4.7,Negative,Low
+BK9827644,ITC Grand Goa,Resort,Goa,Goa,India,44374,44376,June,Q2,2021,Club Room,2,2,15581,2150,652,33312,32660,3919.2,36579.2,Goibibo,New Guest,Credit Card,Checked-Out,3.1,Neutral,High
+BK4938454,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44564,44568,January,Q1,2022,Luxury Suite,1,4,21698,6364,3024,93156,90132,10815.84,100947.84,Goibibo,Corporate,Cash,Checked-In,3.7,Neutral,High
+BK7890007,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44356,44357,June,Q2,2021,Club Room,2,1,14175,372,219,14547,14328,1719.36,16047.36,MakeMyTrip,New Guest,Credit Card,Checked-Out,5.0,Positive,High
+BK4526945,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44393,44397,July,Q3,2021,Deluxe,3,4,15157,6328,461,66956,66495,7979.4,74474.4,Website,Member,Debit Card,Cancelled,3.9,Positive,Low
+BK9783070,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44528,44530,November,Q4,2021,Deluxe,1,2,5193,1892,3182,12278,9096,1091.52,10187.52,Booking.com,Regular,Net Banking,Checked-Out,4.1,Positive,Low
+BK7004472,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44637,44641,March,Q1,2022,Club Room,4,4,11435,4358,3294,50098,46804,5616.48,52420.48,Booking.com,New Guest,Credit Card,Cancelled,4.5,Positive,Low
+BK3078730,ITC Sonar,Business,Kolkata,West Bengal,India,44536,44538,December,Q4,2021,Club Room,3,2,8645,3556,2357,20846,18489,2218.68,20707.68,Corporate,New Guest,Cash,Checked-Out,4.8,Neutral,Low
+BK6976931,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44349,44354,June,Q2,2021,Executive,4,5,27699,4843,4221,143338,139117,16694.04,155811.04,Booking.com,New Guest,Net Banking,Checked-Out,3.8,Positive,High
+BK1514863,ITC Grand Goa,Resort,Goa,Goa,India,44486,44487,October,Q4,2021,Presidential Suite,2,1,18316,3921,290,22237,21947,2633.64,24580.64,Corporate,Member,Cash,Checked-In,4.1,Positive,Low
+BK3316424,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44535,44537,December,Q4,2021,Deluxe,4,2,6995,3234,2193,17224,15031,1803.72,16834.72,Booking.com,Regular,Net Banking,Checked-In,4.3,Negative,Low
+BK4807752,ITC Windsor,Business,Bengaluru,Karnataka,India,44580,44584,January,Q1,2022,Deluxe,2,4,5069,2993,615,23269,22654,2718.48,25372.48,Goibibo,Member,Cash,No Show,4.5,Positive,High
+BK5049801,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44303,44305,April,Q2,2021,Luxury Suite,3,2,11922,3826,1480,27670,26190,3142.8,29332.8,Goibibo,New Guest,Cash,Checked-Out,3.2,Positive,High
+BK9491634,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44313,44316,April,Q2,2021,Executive,2,3,6122,2541,4404,20907,16503,1980.36,18483.36,Booking.com,Regular,Net Banking,Checked-In,3.6,Positive,High
+BK5251052,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44304,44308,April,Q2,2021,Club Room,3,4,18686,2309,2883,77053,74170,8900.4,83070.4,Website,Member,UPI,Checked-Out,3.4,Positive,High
+BK4481447,ITC Maurya,Luxury,New Delhi,Delhi,India,44304,44309,April,Q2,2021,Executive,3,5,8189,5717,3155,46662,43507,5220.84,48727.84,MakeMyTrip,VIP,Cash,Cancelled,3.7,Positive,High
+BK9478573,ITC Sonar,Business,Kolkata,West Bengal,India,44448,44449,September,Q3,2021,Presidential Suite,2,1,21735,2538,237,24273,24036,2884.32,26920.32,Corporate,Corporate,Net Banking,Checked-Out,4.0,Neutral,Low
+BK9864301,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44505,44506,November,Q4,2021,Executive,4,1,20931,6338,2830,27269,24439,2932.68,27371.68,Corporate,New Guest,Debit Card,Checked-Out,4.0,Neutral,Low
+BK9876209,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44305,44306,April,Q2,2021,Executive,1,1,15329,3762,1759,19091,17332,2079.84,19411.84,MakeMyTrip,Regular,Net Banking,Cancelled,3.4,Positive,High
+BK4688891,ITC Windsor,Business,Bengaluru,Karnataka,India,44465,44469,September,Q3,2021,Deluxe,3,4,17626,1352,4734,71856,67122,8054.64,75176.64,Booking.com,VIP,Debit Card,Checked-In,4.4,Positive,Low
+BK2648522,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44524,44527,November,Q4,2021,Deluxe,3,3,11470,6279,23,40689,40666,4879.92,45545.92,MakeMyTrip,Member,Net Banking,Checked-In,3.3,Positive,Low
+BK2801114,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44401,44405,July,Q3,2021,Executive,3,4,8043,4135,2515,36307,33792,4055.04,37847.04,Walk-in,Corporate,UPI,Checked-Out,3.7,Negative,Low
+BK2877197,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44517,44520,November,Q4,2021,Luxury Suite,2,3,15295,3599,38,49484,49446,5933.52,55379.52,Website,Member,Cash,Checked-Out,4.7,Positive,Low
+BK8600488,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44310,44311,April,Q2,2021,Luxury Suite,1,1,14866,5270,3315,20136,16821,2018.52,18839.52,Corporate,Member,Cash,Checked-Out,4.6,Neutral,High
+BK4298137,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44393,44396,July,Q3,2021,Luxury Suite,4,3,23802,3612,4758,75018,70260,8431.2,78691.2,Website,VIP,Debit Card,Checked-Out,3.3,Positive,Low
+BK1690070,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44510,44513,November,Q4,2021,Club Room,4,3,22942,5315,1245,74141,72896,8747.52,81643.52,MakeMyTrip,New Guest,Credit Card,Checked-In,3.9,Negative,Low
+BK5298690,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44409,44411,August,Q3,2021,Club Room,3,2,19728,1811,824,41267,40443,4853.16,45296.16,Walk-in,New Guest,Cash,Checked-In,3.2,Positive,Low
+BK2252731,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44404,44409,July,Q3,2021,Luxury Suite,3,5,22553,832,1325,113597,112272,13472.64,125744.64,MakeMyTrip,Corporate,UPI,Checked-In,3.4,Neutral,Low
+BK3765356,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44304,44306,April,Q2,2021,Luxury Suite,3,2,6929,5673,4581,19531,14950,1794.0,16744.0,Booking.com,VIP,Net Banking,Checked-Out,3.1,Positive,High
+BK3306341,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44628,44631,March,Q1,2022,Luxury Suite,2,3,13114,4894,3515,44236,40721,4886.52,45607.52,Goibibo,Corporate,UPI,Checked-Out,4.0,Positive,Low
+BK8126315,ITC Windsor,Business,Bengaluru,Karnataka,India,44335,44340,May,Q2,2021,Presidential Suite,2,5,10751,2821,1082,56576,55494,6659.28,62153.28,Corporate,VIP,Debit Card,Checked-In,3.6,Positive,High
+BK6092047,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44354,44359,June,Q2,2021,Club Room,3,5,18136,3161,2500,93841,91341,10960.92,102301.92,Corporate,New Guest,Debit Card,Checked-Out,3.6,Positive,High
+BK3530805,ITC Maurya,Luxury,New Delhi,Delhi,India,44466,44467,September,Q3,2021,Deluxe,3,1,20078,1932,2979,22010,19031,2283.72,21314.72,Booking.com,VIP,Credit Card,Cancelled,4.2,Neutral,Low
+BK8320345,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44621,44624,March,Q1,2022,Executive,1,3,19999,4217,4395,64214,59819,7178.28,66997.28,Corporate,VIP,Credit Card,Checked-In,3.5,Neutral,Low
+BK7328609,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44612,44615,February,Q1,2022,Club Room,2,3,8888,2532,568,29196,28628,3435.36,32063.36,MakeMyTrip,Regular,Net Banking,Checked-Out,3.4,Neutral,Low
+BK7008311,ITC Maurya,Luxury,New Delhi,Delhi,India,44488,44492,October,Q4,2021,Deluxe,1,4,15060,2184,3566,62424,58858,7062.96,65920.96,Booking.com,Corporate,Cash,No Show,3.0,Neutral,Low
+BK7903885,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44335,44337,May,Q2,2021,Executive,2,2,20226,2380,3420,42832,39412,4729.44,44141.44,Walk-in,New Guest,Cash,Checked-Out,4.5,Neutral,High
+BK3719084,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44390,44393,July,Q3,2021,Club Room,3,3,16689,5693,274,55760,55486,6658.32,62144.32,MakeMyTrip,Regular,Cash,Checked-In,4.2,Neutral,Low
+BK8222108,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44401,44405,July,Q3,2021,Club Room,3,4,25595,4535,280,106915,106635,12796.2,119431.2,Goibibo,New Guest,Net Banking,Checked-In,4.5,Positive,Low
+BK9643003,ITC Rajputana,Business,Jaipur,Rajasthan,India,44601,44603,February,Q1,2022,Executive,3,2,24422,3462,1868,52306,50438,6052.56,56490.56,Booking.com,Member,Cash,Checked-In,4.7,Neutral,Low
+BK9965732,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44646,44649,March,Q1,2022,Club Room,4,3,23543,3212,1402,73841,72439,8692.68,81131.68,Walk-in,Corporate,Credit Card,Checked-Out,4.8,Neutral,Low
+BK3539890,ITC Sonar,Business,Kolkata,West Bengal,India,44509,44514,November,Q4,2021,Presidential Suite,3,5,14493,2537,1331,75002,73671,8840.52,82511.52,MakeMyTrip,VIP,Cash,Checked-Out,4.4,Positive,Low
+BK8731030,ITC Grand Goa,Resort,Goa,Goa,India,44639,44640,March,Q1,2022,Luxury Suite,2,1,23833,1309,3589,25142,21553,2586.36,24139.36,MakeMyTrip,VIP,Net Banking,Cancelled,3.2,Positive,Low
+BK9838703,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44643,44648,March,Q1,2022,Presidential Suite,4,5,14346,5760,2653,77490,74837,8980.44,83817.44,MakeMyTrip,New Guest,Cash,Checked-In,3.7,Neutral,Low
+BK7895192,ITC Maurya,Luxury,New Delhi,Delhi,India,44361,44365,June,Q2,2021,Luxury Suite,1,4,20756,5249,4712,88273,83561,10027.32,93588.32,Goibibo,VIP,Cash,Cancelled,3.8,Neutral,High
+BK6246079,ITC Grand Goa,Resort,Goa,Goa,India,44443,44447,September,Q3,2021,Deluxe,3,4,18473,4493,4145,78385,74240,8908.8,83148.8,Booking.com,Member,Credit Card,Checked-In,4.2,Positive,Low
+BK6251387,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44593,44596,February,Q1,2022,Executive,1,3,12606,5436,2497,43254,40757,4890.84,45647.84,Corporate,Corporate,Debit Card,Checked-Out,4.5,Positive,Low
+BK8581112,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44564,44568,January,Q1,2022,Luxury Suite,4,4,5408,4622,738,26254,25516,3061.92,28577.92,Website,Member,Debit Card,No Show,4.5,Positive,High
+BK3747402,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44348,44353,June,Q2,2021,Deluxe,3,5,6841,5460,3971,39665,35694,4283.28,39977.28,Goibibo,Regular,UPI,Checked-Out,4.6,Positive,High
+BK5622160,ITC Rajputana,Business,Jaipur,Rajasthan,India,44413,44416,August,Q3,2021,Deluxe,3,3,24367,3688,1370,76789,75419,9050.28,84469.28,MakeMyTrip,New Guest,Credit Card,Checked-In,5.0,Positive,Low
+BK9120567,ITC Grand Goa,Resort,Goa,Goa,India,44623,44625,March,Q1,2022,Club Room,3,2,15066,1597,3228,31729,28501,3420.12,31921.12,Website,Corporate,Credit Card,Checked-In,3.4,Positive,Low
+BK1149392,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44578,44581,January,Q1,2022,Luxury Suite,1,3,9505,1980,1991,30495,28504,3420.48,31924.48,Walk-in,Member,Net Banking,Checked-Out,4.5,Neutral,High
+BK3281952,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44420,44424,August,Q3,2021,Luxury Suite,2,4,16215,2850,3718,67710,63992,7679.04,71671.04,Booking.com,Member,Net Banking,Checked-In,3.2,Negative,Low
+BK4903301,ITC Windsor,Business,Bengaluru,Karnataka,India,44508,44512,November,Q4,2021,Presidential Suite,4,4,13576,2131,2721,56435,53714,6445.68,60159.68,Corporate,Member,UPI,Cancelled,3.6,Positive,Low
+BK7051912,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44326,44329,May,Q2,2021,Presidential Suite,1,3,25525,5923,4345,82498,78153,9378.36,87531.36,Walk-in,Regular,Net Banking,No Show,4.3,Positive,High
+BK7377761,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44375,44379,June,Q2,2021,Club Room,2,4,4592,5749,2529,24117,21588,2590.56,24178.56,Booking.com,Corporate,Net Banking,Checked-Out,4.5,Positive,High
+BK1341604,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44496,44500,October,Q4,2021,Presidential Suite,3,4,27061,5211,2572,113455,110883,13305.96,124188.96,Website,Member,Debit Card,Cancelled,4.0,Positive,Low
+BK4502965,ITC Rajputana,Business,Jaipur,Rajasthan,India,44539,44543,December,Q4,2021,Presidential Suite,2,4,19563,1564,4540,79816,75276,9033.12,84309.12,Walk-in,New Guest,Debit Card,Checked-In,4.7,Positive,Low
+BK6176592,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44633,44638,March,Q1,2022,Deluxe,4,5,26427,1179,4030,133314,129284,15514.08,144798.08,MakeMyTrip,Member,UPI,Checked-In,3.9,Positive,Low
+BK7073882,ITC Grand Goa,Resort,Goa,Goa,India,44500,44502,October,Q4,2021,Deluxe,1,2,16376,2986,4223,35738,31515,3781.8,35296.8,MakeMyTrip,Regular,Credit Card,No Show,3.5,Neutral,Low
+BK5340164,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44508,44510,November,Q4,2021,Club Room,3,2,17778,3116,867,38672,37805,4536.6,42341.6,Booking.com,Regular,Credit Card,Checked-Out,3.5,Positive,Low
+BK8635893,ITC Windsor,Business,Bengaluru,Karnataka,India,44563,44566,January,Q1,2022,Executive,3,3,24328,847,3412,73831,70419,8450.28,78869.28,MakeMyTrip,VIP,Cash,Checked-Out,3.4,Neutral,High
+BK7847607,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44588,44593,January,Q1,2022,Luxury Suite,3,5,12218,3735,4918,64825,59907,7188.84,67095.84,Goibibo,Member,Debit Card,Checked-In,3.2,Positive,High
+BK1869972,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44363,44364,June,Q2,2021,Presidential Suite,3,1,19408,1231,1288,20639,19351,2322.12,21673.12,MakeMyTrip,Regular,Net Banking,Checked-In,4.9,Positive,High
+BK4013391,ITC Maurya,Luxury,New Delhi,Delhi,India,44505,44507,November,Q4,2021,Luxury Suite,4,2,16429,869,818,33727,32909,3949.08,36858.08,Walk-in,Member,Credit Card,Checked-In,3.6,Positive,Low
+BK2092202,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44468,44472,September,Q3,2021,Club Room,2,4,19290,2209,2253,79369,77116,9253.92,86369.92,Booking.com,Member,UPI,Checked-In,4.0,Positive,Low
+BK8058101,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44356,44361,June,Q2,2021,Club Room,1,5,8307,5936,51,47471,47420,5690.4,53110.4,Goibibo,Regular,UPI,Checked-Out,3.9,Positive,High
+BK6081268,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44495,44499,October,Q4,2021,Luxury Suite,3,4,26269,307,2212,105383,103171,12380.52,115551.52,Walk-in,Regular,Debit Card,Checked-Out,3.2,Positive,Low
+BK2362562,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44327,44331,May,Q2,2021,Deluxe,4,4,23301,5344,3594,98548,94954,11394.48,106348.48,Website,New Guest,Credit Card,Checked-Out,4.8,Positive,High
+BK1614323,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44342,44344,May,Q2,2021,Club Room,3,2,25898,5490,2889,57286,54397,6527.64,60924.64,MakeMyTrip,Member,UPI,Checked-In,4.0,Positive,High
+BK5633372,ITC Windsor,Business,Bengaluru,Karnataka,India,44632,44635,March,Q1,2022,Presidential Suite,3,3,25859,4791,1386,82368,80982,9717.84,90699.84,Website,VIP,Cash,Checked-Out,4.5,Positive,Low
+BK6581452,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44484,44488,October,Q4,2021,Deluxe,1,4,15331,1584,4822,62908,58086,6970.32,65056.32,MakeMyTrip,VIP,UPI,Checked-Out,3.1,Positive,Low
+BK6126301,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44599,44603,February,Q1,2022,Luxury Suite,3,4,20474,3467,645,85363,84718,10166.16,94884.16,Booking.com,New Guest,Credit Card,Cancelled,3.4,Positive,Low
+BK6213302,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44394,44399,July,Q3,2021,Club Room,2,5,25809,1238,3322,130283,126961,15235.32,142196.32,Booking.com,VIP,Net Banking,Checked-In,4.2,Positive,Low
+BK6106962,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44618,44620,February,Q1,2022,Presidential Suite,4,2,14143,2921,55,31207,31152,3738.24,34890.24,Booking.com,Corporate,Credit Card,Checked-Out,4.5,Negative,Low
+BK5791187,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44335,44339,May,Q2,2021,Presidential Suite,3,4,26706,6943,2038,113767,111729,13407.48,125136.48,Corporate,VIP,Net Banking,Checked-Out,3.9,Positive,High
+BK6103957,ITC Maurya,Luxury,New Delhi,Delhi,India,44288,44291,April,Q2,2021,Presidential Suite,1,3,4939,6711,3779,21528,17749,2129.88,19878.88,Goibibo,New Guest,Net Banking,No Show,4.7,Positive,High
+BK8343554,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44386,44388,July,Q3,2021,Executive,4,2,23685,2084,88,49454,49366,5923.92,55289.92,MakeMyTrip,Member,Debit Card,Checked-In,4.2,Positive,Low
+BK8708972,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44558,44562,December,Q4,2021,Presidential Suite,4,4,7846,6579,4523,37963,33440,4012.8,37452.8,Corporate,Regular,Cash,Checked-In,3.6,Positive,Low
+BK9174945,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44633,44638,March,Q1,2022,Executive,1,5,11385,648,4065,57573,53508,6420.96,59928.96,Walk-in,Corporate,UPI,Checked-In,3.3,Positive,Low
+BK6181648,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44637,44639,March,Q1,2022,Luxury Suite,2,2,4892,5739,1433,15523,14090,1690.8,15780.8,Goibibo,Corporate,Net Banking,Checked-Out,3.2,Negative,Low
+BK4453851,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44636,44639,March,Q1,2022,Presidential Suite,2,3,27289,4211,1401,86078,84677,10161.24,94838.24,Website,Member,Credit Card,Checked-Out,4.7,Negative,Low
+BK4764715,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44382,44386,July,Q3,2021,Presidential Suite,2,4,6536,6132,1877,32276,30399,3647.88,34046.88,Corporate,Corporate,Credit Card,Checked-In,4.4,Neutral,Low
+BK5963478,ITC Rajputana,Business,Jaipur,Rajasthan,India,44596,44597,February,Q1,2022,Executive,1,1,19447,5955,4770,25402,20632,2475.84,23107.84,MakeMyTrip,VIP,Debit Card,Checked-Out,4.4,Positive,Low
+BK7939517,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44567,44572,January,Q1,2022,Luxury Suite,1,5,23230,1275,312,117425,117113,14053.56,131166.56,MakeMyTrip,New Guest,Debit Card,Checked-In,5.0,Positive,High
+BK8490675,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44587,44592,January,Q1,2022,Luxury Suite,1,5,5471,6244,2914,33599,30685,3682.2,34367.2,MakeMyTrip,Member,Cash,Checked-In,4.5,Positive,High
+BK7121563,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44384,44386,July,Q3,2021,Executive,3,2,14087,3725,776,31899,31123,3734.76,34857.76,Corporate,Regular,Net Banking,Checked-Out,4.6,Positive,Low
+BK2641883,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44552,44556,December,Q4,2021,Presidential Suite,3,4,26546,2548,4503,108732,104229,12507.48,116736.48,Website,New Guest,Net Banking,Checked-In,3.3,Positive,Low
+BK5875544,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44434,44439,August,Q3,2021,Club Room,3,5,10178,1639,1847,52529,50682,6081.84,56763.84,Walk-in,Regular,Credit Card,Checked-In,3.6,Positive,Low
+BK5177379,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44498,44502,October,Q4,2021,Deluxe,3,4,23491,259,3139,94223,91084,10930.08,102014.08,Corporate,Corporate,Credit Card,Checked-In,3.6,Negative,Low
+BK9077653,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44396,44400,July,Q3,2021,Presidential Suite,3,4,27894,1204,2669,112780,110111,13213.32,123324.32,Walk-in,VIP,Credit Card,Checked-Out,3.4,Neutral,Low
+BK3455645,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44526,44529,November,Q4,2021,Club Room,4,3,22290,5671,1055,72541,71486,8578.32,80064.32,Walk-in,Regular,UPI,Checked-In,4.0,Negative,Low
+BK1632824,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44439,44444,August,Q3,2021,Executive,3,5,16652,5427,2871,88687,85816,10297.92,96113.92,Website,Member,Debit Card,Checked-Out,3.3,Positive,Low
+BK1961557,ITC Maurya,Luxury,New Delhi,Delhi,India,44425,44427,August,Q3,2021,Presidential Suite,4,2,20303,4309,1119,44915,43796,5255.52,49051.52,Website,Corporate,Credit Card,Checked-In,3.5,Positive,Low
+BK7824411,ITC Sonar,Business,Kolkata,West Bengal,India,44548,44553,December,Q4,2021,Deluxe,3,5,23497,4951,3402,122436,119034,14284.08,133318.08,MakeMyTrip,VIP,Credit Card,Checked-In,4.9,Negative,Low
+BK9662769,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44578,44582,January,Q1,2022,Executive,2,4,23656,6000,4261,100624,96363,11563.56,107926.56,Goibibo,Regular,Net Banking,Checked-Out,4.5,Neutral,High
+BK2361871,ITC Grand Goa,Resort,Goa,Goa,India,44581,44583,January,Q1,2022,Deluxe,2,2,20267,2877,373,43411,43038,5164.56,48202.56,Corporate,Regular,Debit Card,Checked-Out,3.4,Positive,High
+BK1176145,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44425,44426,August,Q3,2021,Executive,1,1,10899,2218,2557,13117,10560,1267.2,11827.2,Booking.com,VIP,Cash,Checked-Out,4.0,Negative,Low
+BK1351067,ITC Sonar,Business,Kolkata,West Bengal,India,44490,44492,October,Q4,2021,Deluxe,1,2,7057,332,108,14446,14338,1720.56,16058.56,Corporate,VIP,Debit Card,No Show,3.2,Negative,Low
+BK2883173,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44331,44332,May,Q2,2021,Deluxe,2,1,20003,4246,2913,24249,21336,2560.32,23896.32,Walk-in,Regular,Cash,Checked-In,3.2,Negative,High
+BK6749365,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44373,44375,June,Q2,2021,Luxury Suite,1,2,24156,6184,2809,54496,51687,6202.44,57889.44,Website,New Guest,Debit Card,Checked-In,3.7,Neutral,High
+BK7310280,ITC Maurya,Luxury,New Delhi,Delhi,India,44374,44375,June,Q2,2021,Deluxe,3,1,6122,2228,2752,8350,5598,671.76,6269.76,Booking.com,Corporate,Net Banking,Checked-Out,4.7,Positive,High
+BK3810987,ITC Windsor,Business,Bengaluru,Karnataka,India,44292,44297,April,Q2,2021,Deluxe,2,5,27585,3633,932,141558,140626,16875.12,157501.12,Website,Member,Debit Card,Checked-Out,3.7,Positive,High
+BK5992768,ITC Narmada,Business,Ahmedabad,Gujarat,India,44638,44639,March,Q1,2022,Club Room,4,1,26929,5906,1712,32835,31123,3734.76,34857.76,Corporate,Corporate,Cash,Checked-In,3.5,Positive,Low
+BK8820910,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44641,44642,March,Q1,2022,Club Room,2,1,24346,3815,1534,28161,26627,3195.24,29822.24,Walk-in,New Guest,Credit Card,Checked-In,4.6,Positive,Low
+BK4910398,ITC Sonar,Business,Kolkata,West Bengal,India,44542,44544,December,Q4,2021,Executive,1,2,13350,1245,4054,27945,23891,2866.92,26757.92,Website,Regular,Debit Card,Checked-Out,3.2,Positive,Low
+BK1748270,ITC Windsor,Business,Bengaluru,Karnataka,India,44451,44452,September,Q3,2021,Deluxe,4,1,21308,3182,3014,24490,21476,2577.12,24053.12,Booking.com,Member,UPI,Checked-In,4.4,Positive,Low
+BK2893447,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44376,44378,June,Q2,2021,Executive,2,2,26190,679,3115,53059,49944,5993.28,55937.28,Walk-in,Corporate,UPI,Cancelled,3.4,Negative,High
+BK4831208,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44478,44480,October,Q4,2021,Presidential Suite,1,2,18238,4167,2106,40643,38537,4624.44,43161.44,Corporate,VIP,Debit Card,Checked-Out,4.3,Positive,Low
+BK3891614,ITC Windsor,Business,Bengaluru,Karnataka,India,44612,44615,February,Q1,2022,Presidential Suite,3,3,27188,5264,572,86828,86256,10350.72,96606.72,MakeMyTrip,Member,Cash,Checked-In,3.5,Negative,Low
+BK8190973,ITC Maurya,Luxury,New Delhi,Delhi,India,44629,44633,March,Q1,2022,Club Room,3,4,12420,926,4840,50606,45766,5491.92,51257.92,Booking.com,Regular,Cash,Checked-In,3.2,Positive,Low
+BK3892918,ITC Maurya,Luxury,New Delhi,Delhi,India,44433,44438,August,Q3,2021,Luxury Suite,2,5,23953,4617,2008,124382,122374,14684.88,137058.88,Booking.com,New Guest,Debit Card,Checked-Out,4.2,Negative,Low
+BK2228047,ITC Grand Goa,Resort,Goa,Goa,India,44320,44323,May,Q2,2021,Deluxe,4,3,6124,3463,1130,21835,20705,2484.6,23189.6,MakeMyTrip,Member,Credit Card,Checked-In,3.4,Neutral,High
+BK2570490,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44519,44520,November,Q4,2021,Club Room,1,1,6574,6590,1702,13164,11462,1375.44,12837.44,Corporate,VIP,Cash,Checked-Out,5.0,Positive,Low
+BK6468038,ITC Narmada,Business,Ahmedabad,Gujarat,India,44505,44507,November,Q4,2021,Club Room,3,2,11067,154,2616,22288,19672,2360.64,22032.64,Website,Corporate,Net Banking,No Show,3.2,Positive,Low
+BK8019908,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44638,44643,March,Q1,2022,Presidential Suite,1,5,6452,3913,1436,36173,34737,4168.44,38905.44,Website,New Guest,Debit Card,Checked-In,3.6,Positive,Low
+BK7033226,ITC Windsor,Business,Bengaluru,Karnataka,India,44434,44438,August,Q3,2021,Presidential Suite,4,4,15530,6693,3673,68813,65140,7816.8,72956.8,Website,New Guest,Net Banking,Cancelled,4.0,Positive,Low
+BK4837608,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44613,44614,February,Q1,2022,Luxury Suite,3,1,14323,426,92,14749,14657,1758.84,16415.84,Booking.com,Member,Credit Card,Checked-Out,3.6,Negative,Low
+BK2621962,ITC Maurya,Luxury,New Delhi,Delhi,India,44554,44558,December,Q4,2021,Deluxe,3,4,5106,6649,553,27073,26520,3182.4,29702.4,Website,Regular,Net Banking,Checked-Out,3.6,Positive,Low
+BK8389723,ITC Maurya,Luxury,New Delhi,Delhi,India,44576,44581,January,Q1,2022,Deluxe,3,5,22250,2299,3532,113549,110017,13202.04,123219.04,Corporate,Corporate,Cash,Checked-Out,4.1,Positive,High
+BK1971166,ITC Sonar,Business,Kolkata,West Bengal,India,44449,44453,September,Q3,2021,Club Room,4,4,21345,2031,1590,87411,85821,10298.52,96119.52,Website,New Guest,UPI,Checked-Out,3.6,Negative,Low
+BK7064644,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44416,44419,August,Q3,2021,Executive,4,3,8086,1911,5,26169,26164,3139.68,29303.68,Goibibo,Member,Net Banking,Checked-In,4.9,Positive,Low
+BK7380056,ITC Narmada,Business,Ahmedabad,Gujarat,India,44597,44600,February,Q1,2022,Executive,3,3,14891,6808,361,51481,51120,6134.4,57254.4,Walk-in,New Guest,Cash,Cancelled,3.7,Positive,Low
+BK2830835,ITC Windsor,Business,Bengaluru,Karnataka,India,44366,44367,June,Q2,2021,Luxury Suite,1,1,27911,6398,3242,34309,31067,3728.04,34795.04,MakeMyTrip,Corporate,Cash,Cancelled,3.2,Positive,High
+BK4834319,ITC Grand Goa,Resort,Goa,Goa,India,44329,44331,May,Q2,2021,Deluxe,1,2,8750,901,4117,18401,14284,1714.08,15998.08,Walk-in,New Guest,Net Banking,Checked-In,3.7,Neutral,High
+BK9207389,ITC Grand Goa,Resort,Goa,Goa,India,44390,44391,July,Q3,2021,Executive,1,1,23277,589,4728,23866,19138,2296.56,21434.56,Corporate,New Guest,UPI,Checked-Out,4.0,Positive,Low
+BK9060344,ITC Windsor,Business,Bengaluru,Karnataka,India,44624,44629,March,Q1,2022,Deluxe,3,5,12254,6612,296,67882,67586,8110.32,75696.32,MakeMyTrip,Regular,Cash,Checked-Out,4.6,Positive,Low
+BK2808257,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44422,44424,August,Q3,2021,Club Room,2,2,27545,2575,1133,57665,56532,6783.84,63315.84,Walk-in,Regular,UPI,Checked-Out,4.6,Negative,Low
+BK2879480,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44350,44355,June,Q2,2021,Luxury Suite,2,5,7569,4942,3502,42787,39285,4714.2,43999.2,Walk-in,Corporate,Credit Card,Cancelled,3.8,Positive,High
+BK4438354,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44537,44542,December,Q4,2021,Club Room,3,5,14827,1221,994,75356,74362,8923.44,83285.44,Goibibo,VIP,Cash,Checked-In,3.0,Neutral,Low
+BK9787840,ITC Grand Goa,Resort,Goa,Goa,India,44614,44619,February,Q1,2022,Executive,1,5,14156,6471,4176,77251,73075,8769.0,81844.0,Website,Corporate,Debit Card,No Show,4.8,Positive,Low
+BK7563894,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44629,44632,March,Q1,2022,Deluxe,1,3,6840,3299,3883,23819,19936,2392.32,22328.32,Goibibo,VIP,Cash,Checked-In,4.9,Positive,Low
+BK2378901,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44420,44421,August,Q3,2021,Club Room,3,1,22858,6673,2126,29531,27405,3288.6,30693.6,Website,New Guest,Debit Card,Checked-In,4.7,Positive,Low
+BK4570179,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44507,44511,November,Q4,2021,Executive,4,4,12319,6541,3844,55817,51973,6236.76,58209.76,Website,New Guest,Credit Card,Checked-In,3.2,Positive,Low
+BK3405033,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44423,44425,August,Q3,2021,Executive,2,2,16164,3185,2971,35513,32542,3905.04,36447.04,Booking.com,Regular,UPI,No Show,4.9,Positive,Low
+BK1825334,ITC Maurya,Luxury,New Delhi,Delhi,India,44441,44446,September,Q3,2021,Luxury Suite,4,5,15707,3781,4869,82316,77447,9293.64,86740.64,Booking.com,Regular,Cash,Cancelled,3.9,Positive,Low
+BK2788856,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44587,44591,January,Q1,2022,Deluxe,3,4,10106,6099,3043,46523,43480,5217.6,48697.6,Goibibo,New Guest,Cash,Checked-In,4.5,Positive,High
+BK4010301,ITC Sonar,Business,Kolkata,West Bengal,India,44533,44537,December,Q4,2021,Club Room,4,4,24188,4031,2754,100783,98029,11763.48,109792.48,MakeMyTrip,Member,Cash,Checked-In,4.5,Positive,Low
+BK6460993,ITC Grand Goa,Resort,Goa,Goa,India,44458,44460,September,Q3,2021,Presidential Suite,3,2,5908,2560,3,14376,14373,1724.76,16097.76,Corporate,New Guest,Cash,Cancelled,3.5,Positive,Low
+BK9982367,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44513,44514,November,Q4,2021,Deluxe,1,1,16269,5971,358,22240,21882,2625.84,24507.84,Walk-in,New Guest,Cash,Checked-In,4.1,Positive,Low
+BK5465892,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44342,44343,May,Q2,2021,Executive,1,1,27307,3091,1009,30398,29389,3526.68,32915.68,Goibibo,VIP,Net Banking,Checked-In,3.0,Positive,High
+BK1355356,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44451,44453,September,Q3,2021,Deluxe,4,2,13885,2669,1523,30439,28916,3469.92,32385.92,Website,Regular,UPI,Checked-In,3.8,Positive,Low
+BK6667791,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44309,44310,April,Q2,2021,Executive,4,1,16806,2325,3361,19131,15770,1892.4,17662.4,Walk-in,Member,UPI,Checked-In,3.9,Positive,High
+BK4263299,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44595,44597,February,Q1,2022,Deluxe,3,2,13459,3870,2026,30788,28762,3451.44,32213.44,Walk-in,VIP,Net Banking,Checked-In,4.8,Positive,Low
+BK5407103,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44392,44394,July,Q3,2021,Luxury Suite,1,2,21073,6822,2530,48968,46438,5572.56,52010.56,Corporate,New Guest,Net Banking,Cancelled,3.4,Positive,Low
+BK7404175,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44534,44537,December,Q4,2021,Presidential Suite,1,3,10509,2975,4063,34502,30439,3652.68,34091.68,Walk-in,VIP,Cash,Checked-In,4.1,Neutral,Low
+BK1532472,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44346,44348,May,Q2,2021,Deluxe,2,2,11978,1433,3482,25389,21907,2628.84,24535.84,Booking.com,Member,UPI,Checked-In,4.7,Positive,High
+BK7152752,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44519,44521,November,Q4,2021,Executive,3,2,7505,4476,3360,19486,16126,1935.12,18061.12,Website,VIP,Net Banking,Checked-In,3.0,Negative,Low
+BK6889533,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44614,44615,February,Q1,2022,Executive,2,1,18277,5866,4865,24143,19278,2313.36,21591.36,Walk-in,Member,Cash,Checked-In,3.6,Neutral,Low
+BK3902869,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44350,44351,June,Q2,2021,Presidential Suite,4,1,5546,5137,3876,10683,6807,816.84,7623.84,Website,Member,Net Banking,Checked-Out,3.2,Positive,High
+BK5683816,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44460,44464,September,Q3,2021,Deluxe,1,4,12859,5464,1803,56900,55097,6611.64,61708.64,Corporate,Member,UPI,Checked-In,3.2,Positive,Low
+BK9491672,ITC Grand Goa,Resort,Goa,Goa,India,44466,44470,September,Q3,2021,Club Room,3,4,11965,2008,4497,49868,45371,5444.52,50815.52,Goibibo,Corporate,Debit Card,No Show,4.1,Positive,Low
+BK9532948,ITC Narmada,Business,Ahmedabad,Gujarat,India,44458,44461,September,Q3,2021,Presidential Suite,1,3,4843,4009,203,18538,18335,2200.2,20535.2,Website,Regular,Credit Card,Checked-In,4.6,Positive,Low
+BK6753529,ITC Grand Goa,Resort,Goa,Goa,India,44356,44358,June,Q2,2021,Presidential Suite,1,2,13308,4251,3265,30867,27602,3312.24,30914.24,Goibibo,VIP,Debit Card,Checked-Out,3.6,Neutral,High
+BK8355334,ITC Sonar,Business,Kolkata,West Bengal,India,44579,44584,January,Q1,2022,Deluxe,2,5,22371,6260,694,118115,117421,14090.52,131511.52,Corporate,Corporate,Credit Card,Cancelled,3.0,Positive,High
+BK1311206,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44538,44542,December,Q4,2021,Deluxe,3,4,19530,2381,1574,80501,78927,9471.24,88398.24,Corporate,Corporate,UPI,Checked-Out,3.5,Positive,Low
+BK3064504,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44509,44511,November,Q4,2021,Executive,1,2,13948,5088,390,32984,32594,3911.28,36505.28,Walk-in,Regular,UPI,Checked-In,4.4,Neutral,Low
+BK7904890,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44412,44413,August,Q3,2021,Club Room,3,1,9618,4048,3141,13666,10525,1263.0,11788.0,Corporate,Member,Credit Card,No Show,4.1,Positive,Low
+BK3986281,ITC Grand Goa,Resort,Goa,Goa,India,44527,44529,November,Q4,2021,Deluxe,1,2,16755,235,4843,33745,28902,3468.24,32370.24,Booking.com,Corporate,Debit Card,Checked-In,4.0,Positive,Low
+BK1423002,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44417,44419,August,Q3,2021,Presidential Suite,3,2,4548,3456,43,12552,12509,1501.08,14010.08,Walk-in,Corporate,Net Banking,Checked-Out,4.1,Neutral,Low
+BK7630748,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44650,44651,March,Q1,2022,Executive,1,1,4696,2135,3491,6831,3340,400.8,3740.8,Website,VIP,Cash,Cancelled,4.1,Neutral,Low
+BK5354061,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44287,44291,April,Q2,2021,Luxury Suite,2,4,17603,4931,890,75343,74453,8934.36,83387.36,Goibibo,New Guest,Cash,Cancelled,4.5,Negative,High
+BK9618165,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44391,44396,July,Q3,2021,Executive,4,5,25707,5153,872,133688,132816,15937.92,148753.92,Website,Regular,Debit Card,Checked-In,4.8,Positive,Low
+BK7955849,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44311,44316,April,Q2,2021,Presidential Suite,2,5,12254,3580,756,64850,64094,7691.28,71785.28,Goibibo,Member,Cash,Checked-Out,3.9,Positive,High
+BK1023615,ITC Sonar,Business,Kolkata,West Bengal,India,44480,44483,October,Q4,2021,Deluxe,4,3,15461,1867,2625,48250,45625,5475.0,51100.0,MakeMyTrip,VIP,Credit Card,Checked-Out,4.5,Positive,Low
+BK9616348,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44605,44606,February,Q1,2022,Presidential Suite,4,1,25863,1359,1798,27222,25424,3050.88,28474.88,Website,New Guest,Cash,Checked-In,4.5,Positive,Low
+BK8321913,ITC Maurya,Luxury,New Delhi,Delhi,India,44536,44540,December,Q4,2021,Presidential Suite,2,4,18831,867,703,76191,75488,9058.56,84546.56,Corporate,New Guest,Credit Card,Checked-Out,3.2,Positive,Low
+BK4105839,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44618,44619,February,Q1,2022,Deluxe,3,1,18817,2978,3355,21795,18440,2212.8,20652.8,Goibibo,New Guest,Credit Card,Checked-In,4.4,Positive,Low
+BK1592180,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44398,44401,July,Q3,2021,Club Room,1,3,5303,6451,4654,22360,17706,2124.72,19830.72,Corporate,New Guest,UPI,Checked-In,5.0,Positive,Low
+BK5748574,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44419,44424,August,Q3,2021,Deluxe,2,5,16351,4765,97,86520,86423,10370.76,96793.76,MakeMyTrip,New Guest,Debit Card,Checked-In,3.4,Positive,Low
+BK4259645,ITC Maurya,Luxury,New Delhi,Delhi,India,44407,44411,July,Q3,2021,Luxury Suite,1,4,8755,2146,179,37166,36987,4438.44,41425.44,Website,VIP,Net Banking,Checked-In,4.0,Positive,Low
+BK7341022,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44340,44344,May,Q2,2021,Deluxe,1,4,17536,5811,4642,75955,71313,8557.56,79870.56,MakeMyTrip,Regular,UPI,Cancelled,3.1,Positive,High
+BK5880263,ITC Sonar,Business,Kolkata,West Bengal,India,44609,44610,February,Q1,2022,Presidential Suite,3,1,8507,6782,4893,15289,10396,1247.52,11643.52,Website,VIP,Debit Card,Checked-Out,4.1,Positive,Low
+BK7662994,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44374,44376,June,Q2,2021,Luxury Suite,2,2,10197,5873,1445,26267,24822,2978.64,27800.64,Corporate,Regular,Cash,Checked-In,4.4,Positive,High
+BK9671269,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44466,44470,September,Q3,2021,Club Room,1,4,21540,5007,3668,91167,87499,10499.88,97998.88,Corporate,VIP,UPI,Checked-In,4.6,Neutral,Low
+BK2838522,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44475,44480,October,Q4,2021,Presidential Suite,2,5,5330,6908,4308,33558,29250,3510.0,32760.0,Booking.com,Member,Net Banking,Checked-In,4.9,Positive,Low
+BK2040043,ITC Windsor,Business,Bengaluru,Karnataka,India,44292,44295,April,Q2,2021,Club Room,1,3,5456,3268,3354,19636,16282,1953.84,18235.84,Walk-in,VIP,Net Banking,Cancelled,4.2,Positive,High
+BK6474780,ITC Maurya,Luxury,New Delhi,Delhi,India,44349,44351,June,Q2,2021,Presidential Suite,1,2,8463,1525,1554,18451,16897,2027.64,18924.64,Goibibo,VIP,Net Banking,Checked-Out,3.6,Neutral,High
+BK7604193,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44450,44454,September,Q3,2021,Club Room,3,4,17242,6470,196,75438,75242,9029.04,84271.04,Corporate,Corporate,Credit Card,Checked-In,3.3,Positive,Low
+BK7635894,ITC Grand Goa,Resort,Goa,Goa,India,44547,44549,December,Q4,2021,Club Room,3,2,18545,6245,372,43335,42963,5155.56,48118.56,Corporate,Corporate,Credit Card,Checked-In,3.6,Negative,Low
+BK5735341,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44288,44289,April,Q2,2021,Presidential Suite,2,1,17017,334,4765,17351,12586,1510.32,14096.32,Website,New Guest,Cash,Checked-In,4.0,Positive,High
+BK6526028,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44290,44293,April,Q2,2021,Luxury Suite,4,3,21544,4934,2070,69566,67496,8099.52,75595.52,MakeMyTrip,Member,Credit Card,Checked-In,3.3,Positive,High
+BK7718313,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44408,44409,July,Q3,2021,Deluxe,1,1,6846,5088,1367,11934,10567,1268.04,11835.04,Booking.com,VIP,Credit Card,Checked-In,3.4,Positive,Low
+BK1795591,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44507,44508,November,Q4,2021,Club Room,2,1,18819,1674,546,20493,19947,2393.64,22340.64,MakeMyTrip,Member,Credit Card,Checked-Out,4.0,Positive,Low
+BK2476769,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44573,44574,January,Q1,2022,Executive,4,1,16684,3727,2430,20411,17981,2157.72,20138.72,Goibibo,Corporate,Credit Card,Checked-Out,3.2,Positive,High
+BK9459145,ITC Maurya,Luxury,New Delhi,Delhi,India,44352,44353,June,Q2,2021,Presidential Suite,3,1,9143,2656,1963,11799,9836,1180.32,11016.32,Goibibo,Member,Net Banking,Checked-In,3.7,Positive,High
+BK3639446,ITC Maurya,Luxury,New Delhi,Delhi,India,44554,44557,December,Q4,2021,Luxury Suite,4,3,19953,3066,2624,62925,60301,7236.12,67537.12,Website,Member,UPI,Checked-Out,3.5,Neutral,Low
+BK6058607,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44380,44383,July,Q3,2021,Luxury Suite,4,3,24210,6651,684,79281,78597,9431.64,88028.64,Website,New Guest,Net Banking,Checked-In,3.6,Neutral,Low
+BK9156898,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44472,44475,October,Q4,2021,Presidential Suite,1,3,21046,4361,753,67499,66746,8009.52,74755.52,Corporate,Member,Debit Card,Checked-Out,3.0,Neutral,Low
+BK8417964,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44506,44507,November,Q4,2021,Luxury Suite,2,1,10116,6837,2613,16953,14340,1720.8,16060.8,Corporate,Corporate,Credit Card,Checked-Out,3.2,Neutral,Low
+BK9380863,ITC Rajputana,Business,Jaipur,Rajasthan,India,44591,44592,January,Q1,2022,Luxury Suite,3,1,10057,2829,1162,12886,11724,1406.88,13130.88,Booking.com,Corporate,UPI,Checked-Out,3.6,Positive,High
+BK5491431,ITC Grand Goa,Resort,Goa,Goa,India,44593,44595,February,Q1,2022,Executive,4,2,20491,3206,3776,44188,40412,4849.44,45261.44,Booking.com,Member,Net Banking,Checked-In,3.3,Positive,Low
+BK8466773,ITC Narmada,Business,Ahmedabad,Gujarat,India,44532,44534,December,Q4,2021,Presidential Suite,2,2,4835,3949,1300,13619,12319,1478.28,13797.28,Goibibo,Corporate,Debit Card,Checked-In,4.4,Neutral,Low
+BK8273840,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44369,44372,June,Q2,2021,Presidential Suite,2,3,18711,6438,1778,62571,60793,7295.16,68088.16,Walk-in,New Guest,UPI,Checked-Out,4.3,Positive,High
+BK6067493,ITC Maurya,Luxury,New Delhi,Delhi,India,44431,44433,August,Q3,2021,Presidential Suite,1,2,23473,518,3500,47464,43964,5275.68,49239.68,Goibibo,Regular,Cash,Checked-In,3.1,Positive,Low
+BK9905377,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44588,44591,January,Q1,2022,Club Room,3,3,27425,238,3296,82513,79217,9506.04,88723.04,MakeMyTrip,New Guest,Net Banking,Checked-In,3.1,Positive,High
+BK7096987,ITC Windsor,Business,Bengaluru,Karnataka,India,44301,44302,April,Q2,2021,Executive,3,1,13192,4533,2921,17725,14804,1776.48,16580.48,Website,VIP,Cash,Checked-In,4.1,Positive,High
+BK8730204,ITC Grand Goa,Resort,Goa,Goa,India,44378,44379,July,Q3,2021,Luxury Suite,2,1,18341,2242,2567,20583,18016,2161.92,20177.92,Booking.com,Regular,Debit Card,Cancelled,3.1,Positive,Low
+BK5017506,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44567,44571,January,Q1,2022,Deluxe,1,4,25189,5124,2664,105880,103216,12385.92,115601.92,MakeMyTrip,Corporate,Debit Card,Checked-Out,3.3,Positive,High
+BK3699952,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44287,44291,April,Q2,2021,Luxury Suite,4,4,22946,6216,1842,98000,96158,11538.96,107696.96,Walk-in,Member,Credit Card,Checked-In,4.1,Negative,High
+BK9696765,ITC Windsor,Business,Bengaluru,Karnataka,India,44371,44374,June,Q2,2021,Executive,2,3,22873,6742,4500,75361,70861,8503.32,79364.32,Booking.com,Corporate,UPI,Checked-Out,3.2,Positive,High
+BK5010145,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44362,44365,June,Q2,2021,Club Room,3,3,9906,5654,1571,35372,33801,4056.12,37857.12,Website,New Guest,UPI,No Show,3.8,Positive,High
+BK6354490,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44591,44595,January,Q1,2022,Luxury Suite,2,4,27349,4536,2953,113932,110979,13317.48,124296.48,Walk-in,New Guest,Credit Card,Checked-Out,4.5,Positive,High
+BK8057053,ITC Windsor,Business,Bengaluru,Karnataka,India,44439,44444,August,Q3,2021,Club Room,3,5,14597,3788,4009,76773,72764,8731.68,81495.68,Goibibo,VIP,UPI,Checked-In,3.8,Positive,Low
+BK4019174,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44539,44541,December,Q4,2021,Presidential Suite,4,2,10599,1112,2644,22310,19666,2359.92,22025.92,Walk-in,New Guest,Credit Card,Checked-In,3.0,Positive,Low
+BK4621121,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44388,44392,July,Q3,2021,Luxury Suite,2,4,10244,6988,3101,47964,44863,5383.56,50246.56,Walk-in,New Guest,UPI,Checked-In,4.7,Neutral,Low
+BK6522001,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44479,44481,October,Q4,2021,Club Room,1,2,4807,5427,2361,15041,12680,1521.6,14201.6,MakeMyTrip,New Guest,Debit Card,Checked-In,4.7,Positive,Low
+BK9221696,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44341,44346,May,Q2,2021,Presidential Suite,1,5,27298,1827,1021,138317,137296,16475.52,153771.52,Booking.com,New Guest,Credit Card,Cancelled,4.1,Neutral,High
+BK6463036,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44514,44516,November,Q4,2021,Executive,4,2,10138,3215,929,23491,22562,2707.44,25269.44,Booking.com,Corporate,Debit Card,Checked-In,3.4,Neutral,Low
+BK5826865,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44442,44447,September,Q3,2021,Executive,4,5,27149,4711,2730,140456,137726,16527.12,154253.12,Goibibo,Member,Net Banking,Checked-Out,4.4,Positive,Low
+BK2863303,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44459,44461,September,Q3,2021,Presidential Suite,2,2,12194,1609,489,25997,25508,3060.96,28568.96,Walk-in,New Guest,Credit Card,Checked-In,3.8,Positive,Low
+BK8409138,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44584,44586,January,Q1,2022,Deluxe,2,2,10196,3440,3187,23832,20645,2477.4,23122.4,Goibibo,Corporate,Credit Card,Checked-In,4.6,Positive,High
+BK1862679,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44541,44545,December,Q4,2021,Club Room,1,4,10842,3026,1810,46394,44584,5350.08,49934.08,Goibibo,Corporate,UPI,Cancelled,4.7,Positive,Low
+BK3745450,ITC Windsor,Business,Bengaluru,Karnataka,India,44476,44480,October,Q4,2021,Presidential Suite,3,4,22327,4125,4407,93433,89026,10683.12,99709.12,Walk-in,Regular,UPI,Checked-In,3.4,Positive,Low
+BK3209917,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44451,44454,September,Q3,2021,Luxury Suite,3,3,11299,5283,2548,39180,36632,4395.84,41027.84,Booking.com,New Guest,Net Banking,Checked-Out,3.6,Positive,Low
+BK5534438,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44287,44290,April,Q2,2021,Club Room,2,3,26835,1879,1495,82384,80889,9706.68,90595.68,Corporate,New Guest,Debit Card,Checked-In,3.9,Neutral,High
+BK5599033,ITC Narmada,Business,Ahmedabad,Gujarat,India,44544,44547,December,Q4,2021,Luxury Suite,2,3,27848,2851,469,86395,85926,10311.12,96237.12,Goibibo,Regular,Cash,Checked-In,4.7,Positive,Low
+BK2022219,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44313,44316,April,Q2,2021,Executive,1,3,22951,1777,1321,70630,69309,8317.08,77626.08,MakeMyTrip,Member,UPI,No Show,4.0,Positive,High
+BK6297572,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44374,44375,June,Q2,2021,Luxury Suite,3,1,13481,2363,240,15844,15604,1872.48,17476.48,Booking.com,VIP,Cash,Cancelled,3.3,Positive,High
+BK8994641,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44492,44496,October,Q4,2021,Club Room,4,4,6436,3381,4502,29125,24623,2954.76,27577.76,Website,Member,Debit Card,Cancelled,3.3,Positive,Low
+BK6948141,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44481,44485,October,Q4,2021,Presidential Suite,1,4,20039,6642,1666,86798,85132,10215.84,95347.84,Corporate,Member,Credit Card,Cancelled,4.0,Neutral,Low
+BK6263680,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44625,44626,March,Q1,2022,Presidential Suite,2,1,8927,4106,4303,13033,8730,1047.6,9777.6,Booking.com,Member,UPI,Checked-In,3.9,Positive,Low
+BK4633335,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44482,44484,October,Q4,2021,Deluxe,2,2,22236,2109,3585,46581,42996,5159.52,48155.52,Goibibo,Member,Credit Card,Checked-Out,3.6,Positive,Low
+BK5977791,ITC Grand Goa,Resort,Goa,Goa,India,44294,44296,April,Q2,2021,Deluxe,3,2,11613,4485,1601,27711,26110,3133.2,29243.2,MakeMyTrip,Corporate,UPI,Checked-In,4.0,Positive,High
+BK1032323,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44488,44492,October,Q4,2021,Club Room,1,4,10318,2394,1980,43666,41686,5002.32,46688.32,Website,Member,UPI,Checked-In,4.0,Positive,Low
+BK5978856,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44329,44334,May,Q2,2021,Deluxe,1,5,10558,900,4778,53690,48912,5869.44,54781.44,MakeMyTrip,Corporate,Net Banking,Checked-Out,4.0,Positive,High
+BK3983116,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44309,44311,April,Q2,2021,Deluxe,2,2,22510,6285,4370,51305,46935,5632.2,52567.2,Booking.com,New Guest,Debit Card,Checked-Out,4.1,Positive,High
+BK3319531,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44306,44311,April,Q2,2021,Executive,3,5,20789,2371,3160,106316,103156,12378.72,115534.72,Corporate,Member,Debit Card,Checked-In,3.5,Negative,High
+BK7812036,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44469,44473,September,Q3,2021,Presidential Suite,1,4,10251,507,4824,41511,36687,4402.44,41089.44,Goibibo,VIP,Credit Card,No Show,3.7,Positive,Low
+BK6743995,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44523,44525,November,Q4,2021,Presidential Suite,1,2,13648,5831,3301,33127,29826,3579.12,33405.12,MakeMyTrip,New Guest,Credit Card,Cancelled,4.5,Positive,Low
+BK4735677,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44454,44459,September,Q3,2021,Deluxe,3,5,6061,3862,2856,34167,31311,3757.32,35068.32,MakeMyTrip,VIP,UPI,Checked-Out,4.0,Positive,Low
+BK2948533,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44622,44626,March,Q1,2022,Luxury Suite,1,4,4644,843,2982,19419,16437,1972.44,18409.44,Goibibo,New Guest,Cash,Checked-Out,4.5,Positive,Low
+BK7486440,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44329,44334,May,Q2,2021,Club Room,4,5,14200,403,1158,71403,70245,8429.4,78674.4,Booking.com,Regular,UPI,Checked-Out,3.1,Positive,High
+BK6796508,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44547,44551,December,Q4,2021,Deluxe,3,4,8811,378,461,35622,35161,4219.32,39380.32,Booking.com,Regular,Net Banking,Cancelled,4.3,Positive,Low
+BK3358714,ITC Grand Goa,Resort,Goa,Goa,India,44511,44515,November,Q4,2021,Presidential Suite,4,4,23821,4973,4563,100257,95694,11483.28,107177.28,MakeMyTrip,New Guest,UPI,Checked-Out,4.1,Negative,Low
+BK5592151,ITC Narmada,Business,Ahmedabad,Gujarat,India,44642,44645,March,Q1,2022,Executive,3,3,25357,6153,629,82224,81595,9791.4,91386.4,Website,Member,Cash,No Show,3.7,Positive,Low
+BK3455972,ITC Narmada,Business,Ahmedabad,Gujarat,India,44507,44510,November,Q4,2021,Club Room,3,3,24919,115,1207,74872,73665,8839.8,82504.8,MakeMyTrip,Corporate,Debit Card,Checked-In,4.6,Positive,Low
+BK8030023,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44475,44479,October,Q4,2021,Club Room,2,4,16899,3778,1834,71374,69540,8344.8,77884.8,Booking.com,New Guest,Net Banking,Checked-In,4.7,Positive,Low
+BK5936168,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44401,44405,July,Q3,2021,Club Room,3,4,20608,2378,4768,84810,80042,9605.04,89647.04,Booking.com,Regular,Debit Card,Checked-In,4.1,Neutral,Low
+BK8760091,ITC Windsor,Business,Bengaluru,Karnataka,India,44563,44567,January,Q1,2022,Presidential Suite,1,4,12246,2135,2660,51119,48459,5815.08,54274.08,Website,New Guest,Credit Card,Checked-Out,3.6,Positive,High
+BK6924527,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44415,44416,August,Q3,2021,Club Room,1,1,24223,4195,1653,28418,26765,3211.8,29976.8,Booking.com,Regular,Cash,Checked-Out,3.7,Positive,Low
+BK3128449,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44415,44419,August,Q3,2021,Deluxe,3,4,26632,2360,383,108888,108505,13020.6,121525.6,Corporate,VIP,Cash,Checked-Out,3.2,Positive,Low
+BK7057699,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44651,44652,March,Q1,2022,Luxury Suite,4,1,19292,126,745,19418,18673,2240.76,20913.76,Booking.com,Regular,Credit Card,Checked-In,4.4,Neutral,Low
+BK6102935,ITC Windsor,Business,Bengaluru,Karnataka,India,44385,44387,July,Q3,2021,Executive,1,2,24464,593,3790,49521,45731,5487.72,51218.72,Corporate,New Guest,Net Banking,Checked-In,4.6,Positive,Low
+BK7065511,ITC Maurya,Luxury,New Delhi,Delhi,India,44570,44575,January,Q1,2022,Presidential Suite,4,5,18029,6024,2606,96169,93563,11227.56,104790.56,Corporate,New Guest,Net Banking,Checked-In,3.9,Positive,High
+BK4171550,ITC Grand Goa,Resort,Goa,Goa,India,44319,44323,May,Q2,2021,Deluxe,1,4,11974,864,988,48760,47772,5732.64,53504.64,Website,Regular,Cash,Checked-In,3.6,Positive,High
+BK3626669,ITC Rajputana,Business,Jaipur,Rajasthan,India,44461,44464,September,Q3,2021,Presidential Suite,2,3,19249,736,2211,58483,56272,6752.64,63024.64,Corporate,Regular,Credit Card,Checked-Out,4.0,Positive,Low
+BK1802760,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44290,44292,April,Q2,2021,Deluxe,2,2,14198,6353,1751,34749,32998,3959.76,36957.76,Walk-in,Member,Net Banking,Checked-In,4.0,Positive,High
+BK1571222,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44567,44570,January,Q1,2022,Executive,1,3,4907,5029,2255,19750,17495,2099.4,19594.4,Corporate,Regular,Net Banking,Checked-In,4.4,Positive,High
+BK6550479,ITC Grand Goa,Resort,Goa,Goa,India,44427,44432,August,Q3,2021,Club Room,3,5,23685,6979,3778,125404,121626,14595.12,136221.12,Goibibo,New Guest,Net Banking,Cancelled,4.1,Positive,Low
+BK7294246,ITC Sonar,Business,Kolkata,West Bengal,India,44323,44325,May,Q2,2021,Club Room,2,2,16004,5237,4178,37245,33067,3968.04,37035.04,Walk-in,Corporate,Cash,Checked-In,4.6,Neutral,High
+BK6650062,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44535,44538,December,Q4,2021,Presidential Suite,3,3,9805,6246,4091,35661,31570,3788.4,35358.4,Website,VIP,UPI,Checked-In,4.7,Negative,Low
+BK5653602,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44408,44410,July,Q3,2021,Luxury Suite,3,2,23751,5363,1445,52865,51420,6170.4,57590.4,Goibibo,VIP,Cash,Checked-In,3.9,Positive,Low
+BK1140219,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44416,44418,August,Q3,2021,Executive,2,2,25369,6784,4379,57522,53143,6377.16,59520.16,MakeMyTrip,Member,UPI,Checked-In,4.3,Positive,Low
+BK3920717,ITC Narmada,Business,Ahmedabad,Gujarat,India,44510,44514,November,Q4,2021,Luxury Suite,1,4,27636,6706,2281,117250,114969,13796.28,128765.28,Walk-in,VIP,Debit Card,Checked-Out,3.8,Neutral,Low
+BK2509068,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44295,44298,April,Q2,2021,Luxury Suite,4,3,27509,2733,2606,85260,82654,9918.48,92572.48,MakeMyTrip,Member,Debit Card,Checked-Out,3.9,Positive,High
+BK1587149,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44597,44600,February,Q1,2022,Luxury Suite,3,3,24132,460,784,72856,72072,8648.64,80720.64,Goibibo,Corporate,Net Banking,Checked-In,3.7,Negative,Low
+BK7287988,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44544,44547,December,Q4,2021,Luxury Suite,1,3,5903,1330,575,19039,18464,2215.68,20679.68,Goibibo,Member,Net Banking,Checked-In,3.5,Positive,Low
+BK1171672,ITC Grand Goa,Resort,Goa,Goa,India,44526,44528,November,Q4,2021,Club Room,2,2,5546,4782,4843,15874,11031,1323.72,12354.72,Walk-in,New Guest,UPI,Checked-Out,4.1,Neutral,Low
+BK2186770,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44458,44459,September,Q3,2021,Deluxe,1,1,8208,3783,2948,11991,9043,1085.16,10128.16,Website,VIP,UPI,Checked-In,3.2,Positive,Low
+BK3242418,ITC Rajputana,Business,Jaipur,Rajasthan,India,44558,44563,December,Q4,2021,Luxury Suite,2,5,26611,1618,1807,134673,132866,15943.92,148809.92,Booking.com,Member,Net Banking,Checked-In,4.1,Positive,Low
+BK7296181,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44416,44419,August,Q3,2021,Club Room,4,3,24618,4224,1688,78078,76390,9166.8,85556.8,MakeMyTrip,VIP,Credit Card,Checked-In,3.8,Negative,Low
+BK1797971,ITC Sonar,Business,Kolkata,West Bengal,India,44529,44531,November,Q4,2021,Presidential Suite,1,2,18293,2184,2123,38770,36647,4397.64,41044.64,MakeMyTrip,Regular,Credit Card,Cancelled,4.3,Positive,Low
+BK2571605,ITC Grand Goa,Resort,Goa,Goa,India,44613,44614,February,Q1,2022,Luxury Suite,1,1,24390,4649,2113,29039,26926,3231.12,30157.12,Goibibo,Corporate,Net Banking,Checked-Out,4.9,Positive,Low
+BK2068907,ITC Maurya,Luxury,New Delhi,Delhi,India,44629,44633,March,Q1,2022,Luxury Suite,2,4,14490,1289,2992,59249,56257,6750.84,63007.84,Goibibo,Member,Net Banking,Checked-In,3.1,Neutral,Low
+BK1709680,ITC Rajputana,Business,Jaipur,Rajasthan,India,44316,44318,April,Q2,2021,Deluxe,2,2,18522,1131,2910,38175,35265,4231.8,39496.8,MakeMyTrip,VIP,UPI,Checked-Out,4.3,Positive,High
+BK5967661,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44622,44624,March,Q1,2022,Luxury Suite,2,2,13021,5633,1089,31675,30586,3670.32,34256.32,Walk-in,VIP,UPI,Checked-In,3.6,Negative,Low
+BK7994843,ITC Maurya,Luxury,New Delhi,Delhi,India,44626,44629,March,Q1,2022,Executive,2,3,16763,3879,3716,54168,50452,6054.24,56506.24,Walk-in,Corporate,Cash,Checked-In,4.7,Positive,Low
+BK8693075,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44519,44520,November,Q4,2021,Executive,2,1,13297,4144,2559,17441,14882,1785.84,16667.84,MakeMyTrip,Regular,UPI,Checked-Out,4.2,Positive,Low
+BK3927134,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44515,44518,November,Q4,2021,Executive,3,3,11402,4699,1623,38905,37282,4473.84,41755.84,Walk-in,New Guest,Credit Card,Checked-In,3.8,Positive,Low
+BK2087899,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44632,44633,March,Q1,2022,Luxury Suite,1,1,21614,4212,2282,25826,23544,2825.28,26369.28,Booking.com,Regular,Debit Card,Checked-In,3.9,Positive,Low
+BK8756066,ITC Grand Goa,Resort,Goa,Goa,India,44301,44304,April,Q2,2021,Luxury Suite,2,3,17474,3317,133,55739,55606,6672.72,62278.72,Goibibo,Corporate,Cash,Checked-In,3.1,Positive,High
+BK8620984,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44571,44572,January,Q1,2022,Club Room,3,1,10066,65,4413,10131,5718,686.16,6404.16,Walk-in,Member,Cash,Checked-Out,4.2,Positive,High
+BK4807374,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44340,44343,May,Q2,2021,Deluxe,2,3,7628,3856,186,26740,26554,3186.48,29740.48,Walk-in,Regular,Debit Card,Checked-In,4.2,Positive,High
+BK2474337,ITC Rajputana,Business,Jaipur,Rajasthan,India,44407,44409,July,Q3,2021,Executive,4,2,23348,3292,1145,49988,48843,5861.16,54704.16,Booking.com,Regular,Credit Card,Checked-Out,3.6,Positive,Low
+BK8054437,ITC Windsor,Business,Bengaluru,Karnataka,India,44543,44547,December,Q4,2021,Executive,4,4,25312,752,1512,102000,100488,12058.56,112546.56,Website,Member,Credit Card,Checked-In,3.3,Negative,Low
+BK3824137,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44631,44632,March,Q1,2022,Luxury Suite,4,1,26880,989,2829,27869,25040,3004.8,28044.8,Goibibo,New Guest,Credit Card,Checked-In,3.4,Positive,Low
+BK9515101,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44560,44565,December,Q4,2021,Presidential Suite,2,5,23515,3545,3422,121120,117698,14123.76,131821.76,Corporate,New Guest,Cash,Checked-In,4.3,Positive,Low
+BK3963169,ITC Grand Goa,Resort,Goa,Goa,India,44548,44552,December,Q4,2021,Luxury Suite,3,4,20301,2872,2975,84076,81101,9732.12,90833.12,Corporate,Corporate,UPI,Cancelled,3.2,Positive,Low
+BK1109167,ITC Windsor,Business,Bengaluru,Karnataka,India,44626,44631,March,Q1,2022,Executive,4,5,4587,4617,2049,27552,25503,3060.36,28563.36,Corporate,VIP,UPI,Checked-In,3.8,Positive,Low
+BK6901274,ITC Rajputana,Business,Jaipur,Rajasthan,India,44624,44629,March,Q1,2022,Club Room,3,5,8367,3236,289,45071,44782,5373.84,50155.84,Website,New Guest,Debit Card,Cancelled,3.4,Positive,Low
+BK2586104,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44588,44589,January,Q1,2022,Luxury Suite,2,1,26222,3299,4796,29521,24725,2967.0,27692.0,MakeMyTrip,Member,Debit Card,Cancelled,3.4,Positive,High
+BK7702515,ITC Narmada,Business,Ahmedabad,Gujarat,India,44381,44385,July,Q3,2021,Executive,4,4,23842,1662,1773,97030,95257,11430.84,106687.84,MakeMyTrip,VIP,Cash,Checked-In,4.0,Positive,Low
+BK1105824,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44292,44295,April,Q2,2021,Executive,1,3,13344,3331,4833,43363,38530,4623.6,43153.6,Corporate,VIP,Debit Card,Checked-Out,4.0,Positive,High
+BK8883954,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44611,44614,February,Q1,2022,Executive,2,3,24139,4825,914,77242,76328,9159.36,85487.36,Walk-in,Corporate,Net Banking,Cancelled,4.8,Neutral,Low
+BK3575680,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44558,44561,December,Q4,2021,Presidential Suite,3,3,6096,6179,2077,24467,22390,2686.8,25076.8,Booking.com,Regular,Cash,Checked-In,3.8,Neutral,Low
+BK4508824,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44629,44632,March,Q1,2022,Executive,3,3,4843,3970,2272,18499,16227,1947.24,18174.24,Walk-in,VIP,UPI,Checked-Out,4.4,Neutral,Low
+BK1475559,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44431,44436,August,Q3,2021,Presidential Suite,1,5,19088,183,2915,95623,92708,11124.96,103832.96,Website,Regular,Cash,Checked-In,3.4,Negative,Low
+BK2069683,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44536,44537,December,Q4,2021,Luxury Suite,1,1,17801,532,1335,18333,16998,2039.76,19037.76,Corporate,Corporate,Debit Card,Checked-Out,3.1,Positive,Low
+BK3011729,ITC Grand Goa,Resort,Goa,Goa,India,44612,44614,February,Q1,2022,Luxury Suite,1,2,12365,4041,3707,28771,25064,3007.68,28071.68,MakeMyTrip,VIP,Debit Card,Checked-In,4.1,Positive,Low
+BK5026210,ITC Grand Goa,Resort,Goa,Goa,India,44456,44459,September,Q3,2021,Luxury Suite,1,3,24374,2619,2384,75741,73357,8802.84,82159.84,MakeMyTrip,VIP,Credit Card,Checked-Out,3.8,Positive,Low
+BK8034087,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44622,44624,March,Q1,2022,Luxury Suite,4,2,18254,2816,636,39324,38688,4642.56,43330.56,Goibibo,Regular,UPI,Checked-Out,3.6,Neutral,Low
+BK8625471,ITC Windsor,Business,Bengaluru,Karnataka,India,44331,44334,May,Q2,2021,Presidential Suite,3,3,15386,3032,3840,49190,45350,5442.0,50792.0,Walk-in,Member,Credit Card,Checked-Out,4.6,Positive,High
+BK6185966,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44610,44612,February,Q1,2022,Presidential Suite,3,2,23710,2313,1584,49733,48149,5777.88,53926.88,Booking.com,VIP,Cash,Checked-In,3.2,Negative,Low
+BK7995605,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44461,44466,September,Q3,2021,Deluxe,3,5,12804,2147,1669,66167,64498,7739.76,72237.76,Walk-in,VIP,Credit Card,Checked-In,3.3,Positive,Low
+BK5562303,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44305,44308,April,Q2,2021,Presidential Suite,1,3,18992,3728,2482,60704,58222,6986.64,65208.64,Goibibo,Corporate,Cash,Checked-Out,4.6,Positive,High
+BK9746031,ITC Windsor,Business,Bengaluru,Karnataka,India,44535,44536,December,Q4,2021,Presidential Suite,2,1,26547,6504,4549,33051,28502,3420.24,31922.24,Goibibo,New Guest,Cash,Checked-In,3.3,Positive,Low
+BK4467092,ITC Sonar,Business,Kolkata,West Bengal,India,44450,44452,September,Q3,2021,Executive,4,2,8230,2601,2334,19061,16727,2007.24,18734.24,MakeMyTrip,Regular,Credit Card,Checked-In,4.1,Positive,Low
+BK3137036,ITC Grand Goa,Resort,Goa,Goa,India,44566,44567,January,Q1,2022,Deluxe,2,1,4932,6404,3573,11336,7763,931.56,8694.56,Walk-in,Regular,UPI,Checked-In,4.3,Positive,High
+BK7314029,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44356,44358,June,Q2,2021,Club Room,2,2,15589,782,3319,31960,28641,3436.92,32077.92,MakeMyTrip,New Guest,Debit Card,Checked-In,3.5,Positive,High
+BK5113039,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44544,44548,December,Q4,2021,Executive,4,4,10044,6518,343,46694,46351,5562.12,51913.12,Walk-in,Corporate,Debit Card,Checked-Out,4.6,Positive,Low
+BK8460014,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44456,44459,September,Q3,2021,Luxury Suite,2,3,24296,2497,1103,75385,74282,8913.84,83195.84,Corporate,Regular,UPI,Checked-In,3.4,Positive,Low
+BK2093334,ITC Maurya,Luxury,New Delhi,Delhi,India,44412,44415,August,Q3,2021,Luxury Suite,4,3,16817,6102,2509,56553,54044,6485.28,60529.28,Goibibo,VIP,Net Banking,Checked-Out,3.8,Positive,Low
+BK3366635,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44464,44469,September,Q3,2021,Club Room,1,5,24790,1404,4623,125354,120731,14487.72,135218.72,MakeMyTrip,Corporate,Debit Card,Cancelled,4.3,Positive,Low
+BK9665410,ITC Grand Goa,Resort,Goa,Goa,India,44395,44397,July,Q3,2021,Club Room,1,2,15755,2233,4383,33743,29360,3523.2,32883.2,Website,New Guest,Credit Card,No Show,3.4,Positive,Low
+BK1242830,ITC Windsor,Business,Bengaluru,Karnataka,India,44394,44397,July,Q3,2021,Luxury Suite,4,3,11269,6696,1952,40503,38551,4626.12,43177.12,Goibibo,Corporate,Credit Card,Checked-Out,3.9,Positive,Low
+BK2430017,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44627,44628,March,Q1,2022,Luxury Suite,3,1,15443,6792,3468,22235,18767,2252.04,21019.04,Goibibo,New Guest,UPI,Checked-In,3.8,Positive,Low
+BK4653099,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44471,44472,October,Q4,2021,Executive,3,1,13482,1248,4771,14730,9959,1195.08,11154.08,Walk-in,New Guest,Credit Card,Checked-Out,4.7,Positive,Low
+BK1801501,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44645,44648,March,Q1,2022,Club Room,2,3,4903,5074,1512,19783,18271,2192.52,20463.52,Goibibo,VIP,Net Banking,Checked-Out,3.1,Neutral,Low
+BK9867061,ITC Windsor,Business,Bengaluru,Karnataka,India,44437,44439,August,Q3,2021,Club Room,2,2,5292,1906,4117,12490,8373,1004.76,9377.76,Corporate,VIP,Debit Card,Checked-In,4.4,Positive,Low
+BK3813682,ITC Maurya,Luxury,New Delhi,Delhi,India,44575,44577,January,Q1,2022,Club Room,1,2,12912,2468,2329,28292,25963,3115.56,29078.56,Booking.com,Regular,Credit Card,Checked-In,4.4,Positive,High
+BK6312099,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44423,44427,August,Q3,2021,Executive,3,4,24608,4498,3302,102930,99628,11955.36,111583.36,Corporate,New Guest,Cash,Checked-In,3.0,Positive,Low
+BK9423458,ITC Sonar,Business,Kolkata,West Bengal,India,44538,44542,December,Q4,2021,Executive,4,4,14814,5150,53,64406,64353,7722.36,72075.36,Website,Corporate,Net Banking,Checked-Out,4.4,Neutral,Low
+BK1783566,ITC Maurya,Luxury,New Delhi,Delhi,India,44600,44602,February,Q1,2022,Presidential Suite,4,2,7851,4657,3220,20359,17139,2056.68,19195.68,Goibibo,Corporate,Cash,Checked-In,4.0,Positive,Low
+BK9615553,ITC Rajputana,Business,Jaipur,Rajasthan,India,44403,44404,July,Q3,2021,Presidential Suite,3,1,14810,6235,3755,21045,17290,2074.8,19364.8,Corporate,Corporate,Cash,Checked-In,3.6,Negative,Low
+BK5059543,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44369,44370,June,Q2,2021,Deluxe,2,1,13592,3867,4141,17459,13318,1598.16,14916.16,Walk-in,Member,Net Banking,Checked-In,3.1,Positive,High
+BK8928872,ITC Rajputana,Business,Jaipur,Rajasthan,India,44361,44364,June,Q2,2021,Presidential Suite,3,3,14048,3331,2134,45475,43341,5200.92,48541.92,Website,Corporate,Cash,Checked-In,3.5,Positive,High
+BK7271268,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44389,44390,July,Q3,2021,Club Room,1,1,4550,4769,2074,9319,7245,869.4,8114.4,Corporate,VIP,Net Banking,Checked-In,3.1,Neutral,Low
+BK1284750,ITC Windsor,Business,Bengaluru,Karnataka,India,44549,44551,December,Q4,2021,Executive,1,2,8136,6270,683,22542,21859,2623.08,24482.08,Walk-in,New Guest,Cash,Cancelled,3.7,Neutral,Low
+BK3173428,ITC Grand Goa,Resort,Goa,Goa,India,44514,44518,November,Q4,2021,Club Room,2,4,10689,4970,3093,47726,44633,5355.96,49988.96,MakeMyTrip,VIP,Cash,Checked-Out,4.7,Neutral,Low
+BK7247154,ITC Grand Goa,Resort,Goa,Goa,India,44367,44369,June,Q2,2021,Club Room,2,2,18342,851,2381,37535,35154,4218.48,39372.48,Walk-in,Member,Net Banking,Checked-Out,4.8,Positive,High
+BK8966839,ITC Grand Goa,Resort,Goa,Goa,India,44296,44301,April,Q2,2021,Executive,1,5,27586,4038,1074,141968,140894,16907.28,157801.28,Booking.com,VIP,Net Banking,Checked-In,4.7,Positive,High
+BK5597765,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44344,44349,May,Q2,2021,Presidential Suite,3,5,7941,2558,3418,42263,38845,4661.4,43506.4,MakeMyTrip,Regular,UPI,Checked-In,4.6,Positive,High
+BK5384273,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44537,44542,December,Q4,2021,Club Room,1,5,17373,1342,21,88207,88186,10582.32,98768.32,MakeMyTrip,Corporate,Debit Card,Checked-Out,3.2,Positive,Low
+BK8245654,ITC Rajputana,Business,Jaipur,Rajasthan,India,44366,44371,June,Q2,2021,Presidential Suite,3,5,6103,6887,3415,37402,33987,4078.44,38065.44,MakeMyTrip,New Guest,Credit Card,Checked-In,3.8,Positive,High
+BK6593746,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44452,44456,September,Q3,2021,Executive,4,4,19073,6017,1174,82309,81135,9736.2,90871.2,Walk-in,Corporate,Net Banking,Cancelled,3.7,Positive,Low
+BK6373292,ITC Narmada,Business,Ahmedabad,Gujarat,India,44304,44307,April,Q2,2021,Deluxe,1,3,26683,4449,4714,84498,79784,9574.08,89358.08,Goibibo,Corporate,Debit Card,Checked-Out,3.6,Neutral,High
+BK6693063,ITC Windsor,Business,Bengaluru,Karnataka,India,44568,44571,January,Q1,2022,Luxury Suite,2,3,20087,1419,3975,61680,57705,6924.6,64629.6,Booking.com,Member,Cash,Checked-In,3.1,Positive,High
+BK8438474,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44446,44447,September,Q3,2021,Deluxe,2,1,19967,6881,921,26848,25927,3111.24,29038.24,Walk-in,New Guest,Debit Card,Checked-Out,3.9,Negative,Low
+BK9159554,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44494,44499,October,Q4,2021,Presidential Suite,1,5,13610,991,3275,69041,65766,7891.92,73657.92,MakeMyTrip,New Guest,UPI,Checked-Out,3.8,Positive,Low
+BK6400602,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44390,44395,July,Q3,2021,Club Room,1,5,17272,5584,693,91944,91251,10950.12,102201.12,Website,Regular,Debit Card,Checked-In,4.7,Positive,Low
+BK9758233,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44499,44500,October,Q4,2021,Luxury Suite,4,1,24629,5168,2970,29797,26827,3219.24,30046.24,Corporate,New Guest,Credit Card,Cancelled,3.5,Positive,Low
+BK3471699,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44551,44553,December,Q4,2021,Luxury Suite,1,2,20873,3177,641,44923,44282,5313.84,49595.84,MakeMyTrip,New Guest,Debit Card,Checked-In,3.8,Positive,Low
+BK9226081,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44584,44589,January,Q1,2022,Luxury Suite,3,5,9963,613,4444,50428,45984,5518.08,51502.08,Booking.com,Member,Cash,Checked-Out,4.0,Neutral,High
+BK2456286,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44502,44506,November,Q4,2021,Club Room,1,4,9777,5592,4287,44700,40413,4849.56,45262.56,Corporate,Member,Debit Card,Checked-In,4.3,Positive,Low
+BK7118777,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44326,44327,May,Q2,2021,Club Room,1,1,8263,2522,4563,10785,6222,746.64,6968.64,Goibibo,VIP,Debit Card,Checked-In,4.4,Neutral,High
+BK9660883,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44419,44422,August,Q3,2021,Executive,2,3,21973,6757,3876,72676,68800,8256.0,77056.0,Website,New Guest,Debit Card,Checked-Out,4.9,Negative,Low
+BK1024952,ITC Maurya,Luxury,New Delhi,Delhi,India,44478,44482,October,Q4,2021,Luxury Suite,1,4,17386,374,4335,69918,65583,7869.96,73452.96,Goibibo,Member,Cash,Checked-In,3.7,Positive,Low
+BK7399696,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44635,44639,March,Q1,2022,Club Room,4,4,25247,5248,2068,106236,104168,12500.16,116668.16,Walk-in,VIP,Credit Card,Checked-In,3.7,Negative,Low
+BK3975575,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44386,44391,July,Q3,2021,Presidential Suite,3,5,17071,4125,1461,89480,88019,10562.28,98581.28,Website,Regular,Net Banking,Checked-In,4.1,Positive,Low
+BK6256304,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44346,44347,May,Q2,2021,Executive,2,1,5744,6528,1412,12272,10860,1303.2,12163.2,Corporate,New Guest,Cash,Checked-In,3.0,Positive,High
+BK9406664,ITC Maurya,Luxury,New Delhi,Delhi,India,44613,44616,February,Q1,2022,Luxury Suite,3,3,27072,4976,3847,86192,82345,9881.4,92226.4,Booking.com,Corporate,Cash,Checked-Out,3.9,Positive,Low
+BK5902349,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44543,44546,December,Q4,2021,Executive,1,3,21440,4935,3473,69255,65782,7893.84,73675.84,Website,New Guest,Net Banking,Checked-Out,4.6,Negative,Low
+BK2697896,ITC Rajputana,Business,Jaipur,Rajasthan,India,44431,44433,August,Q3,2021,Deluxe,4,2,26794,3511,4881,57099,52218,6266.16,58484.16,Corporate,VIP,Debit Card,Cancelled,4.1,Positive,Low
+BK5970522,ITC Rajputana,Business,Jaipur,Rajasthan,India,44540,44541,December,Q4,2021,Presidential Suite,1,1,27896,1030,2528,28926,26398,3167.76,29565.76,Booking.com,VIP,Cash,Checked-In,4.4,Positive,Low
+BK1438745,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44474,44478,October,Q4,2021,Luxury Suite,3,4,21723,5473,1447,92365,90918,10910.16,101828.16,MakeMyTrip,Regular,Credit Card,Checked-In,3.5,Negative,Low
+BK4032138,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44290,44295,April,Q2,2021,Luxury Suite,3,5,5661,1104,1694,29409,27715,3325.8,31040.8,Walk-in,Corporate,Debit Card,Cancelled,3.9,Positive,High
+BK6253896,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44499,44503,October,Q4,2021,Luxury Suite,2,4,13136,2548,1469,55092,53623,6434.76,60057.76,Corporate,VIP,Cash,Cancelled,4.6,Positive,Low
+BK5938289,ITC Narmada,Business,Ahmedabad,Gujarat,India,44294,44295,April,Q2,2021,Club Room,4,1,22816,4219,1642,27035,25393,3047.16,28440.16,Corporate,Regular,Debit Card,Checked-In,3.1,Positive,High
+BK7437785,ITC Windsor,Business,Bengaluru,Karnataka,India,44306,44308,April,Q2,2021,Executive,4,2,16697,6978,1406,40372,38966,4675.92,43641.92,Corporate,VIP,UPI,Checked-Out,3.7,Positive,High
+BK4677241,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44316,44319,April,Q2,2021,Deluxe,1,3,16350,358,3168,49408,46240,5548.8,51788.8,MakeMyTrip,Member,Net Banking,Checked-In,4.8,Negative,High
+BK6885517,ITC Sonar,Business,Kolkata,West Bengal,India,44426,44431,August,Q3,2021,Deluxe,1,5,27014,1366,193,136436,136243,16349.16,152592.16,Goibibo,Regular,Debit Card,Checked-Out,4.2,Neutral,Low
+BK4716626,ITC Rajputana,Business,Jaipur,Rajasthan,India,44389,44392,July,Q3,2021,Presidential Suite,3,3,21273,5521,2435,69340,66905,8028.6,74933.6,Website,Regular,Cash,Checked-Out,3.9,Positive,Low
+BK6867686,ITC Windsor,Business,Bengaluru,Karnataka,India,44350,44352,June,Q2,2021,Presidential Suite,2,2,22290,1100,364,45680,45316,5437.92,50753.92,Corporate,Corporate,UPI,Checked-In,3.4,Positive,High
+BK9019786,ITC Sonar,Business,Kolkata,West Bengal,India,44460,44464,September,Q3,2021,Presidential Suite,4,4,23220,310,536,93190,92654,11118.48,103772.48,MakeMyTrip,Member,Credit Card,Checked-Out,3.0,Neutral,Low
+BK9244902,ITC Windsor,Business,Bengaluru,Karnataka,India,44541,44544,December,Q4,2021,Executive,3,3,26898,5928,191,86622,86431,10371.72,96802.72,Booking.com,Member,Debit Card,Checked-In,3.8,Positive,Low
+BK6955998,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44548,44549,December,Q4,2021,Presidential Suite,2,1,26035,2520,4660,28555,23895,2867.4,26762.4,Booking.com,New Guest,Credit Card,Checked-In,4.8,Positive,Low
+BK4839267,ITC Sonar,Business,Kolkata,West Bengal,India,44502,44503,November,Q4,2021,Club Room,3,1,14669,6516,3406,21185,17779,2133.48,19912.48,Booking.com,New Guest,Credit Card,Checked-In,3.7,Negative,Low
+BK1893322,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44330,44332,May,Q2,2021,Club Room,3,2,19441,179,880,39061,38181,4581.72,42762.72,Corporate,Member,Net Banking,Cancelled,3.9,Negative,High
+BK2695775,ITC Windsor,Business,Bengaluru,Karnataka,India,44431,44434,August,Q3,2021,Executive,4,3,4895,6185,1382,20870,19488,2338.56,21826.56,Walk-in,Member,Credit Card,Checked-In,4.1,Positive,Low
+BK7027703,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44331,44335,May,Q2,2021,Deluxe,4,4,10579,2997,2073,45313,43240,5188.8,48428.8,MakeMyTrip,VIP,Cash,Checked-In,3.6,Positive,High
+BK3002001,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44524,44529,November,Q4,2021,Deluxe,1,5,19798,6183,2205,105173,102968,12356.16,115324.16,MakeMyTrip,VIP,Net Banking,Checked-Out,4.8,Neutral,Low
+BK4815670,ITC Sonar,Business,Kolkata,West Bengal,India,44644,44649,March,Q1,2022,Luxury Suite,1,5,14818,1695,4722,75785,71063,8527.56,79590.56,MakeMyTrip,New Guest,Cash,Checked-Out,4.6,Positive,Low
+BK9572050,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44627,44631,March,Q1,2022,Club Room,4,4,15218,4443,1018,65315,64297,7715.64,72012.64,Booking.com,VIP,Debit Card,Checked-In,4.4,Neutral,Low
+BK7268167,ITC Windsor,Business,Bengaluru,Karnataka,India,44292,44295,April,Q2,2021,Club Room,2,3,6801,2013,4918,22416,17498,2099.76,19597.76,Booking.com,New Guest,Net Banking,No Show,4.9,Neutral,High
+BK7058641,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44621,44626,March,Q1,2022,Club Room,3,5,7205,241,3433,36266,32833,3939.96,36772.96,MakeMyTrip,Regular,Credit Card,Checked-In,4.3,Positive,Low
+BK3177962,ITC Windsor,Business,Bengaluru,Karnataka,India,44472,44474,October,Q4,2021,Executive,2,2,5643,6051,4620,17337,12717,1526.04,14243.04,Corporate,Regular,Net Banking,No Show,3.6,Positive,Low
+BK8943428,ITC Windsor,Business,Bengaluru,Karnataka,India,44301,44306,April,Q2,2021,Luxury Suite,4,5,11751,416,2895,59171,56276,6753.12,63029.12,Website,VIP,Cash,Checked-Out,4.8,Negative,High
+BK7246427,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44317,44322,May,Q2,2021,Presidential Suite,4,5,6644,5548,2367,38768,36401,4368.12,40769.12,Walk-in,New Guest,Debit Card,Checked-Out,3.8,Negative,High
+BK3657258,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44353,44358,June,Q2,2021,Executive,3,5,16050,1553,733,81803,81070,9728.4,90798.4,Booking.com,Member,Cash,Checked-In,4.3,Positive,High
+BK9643005,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44357,44359,June,Q2,2021,Executive,1,2,25488,3785,2636,54761,52125,6255.0,58380.0,Corporate,VIP,Cash,Checked-Out,5.0,Negative,High
+BK9155361,ITC Narmada,Business,Ahmedabad,Gujarat,India,44640,44641,March,Q1,2022,Club Room,3,1,27388,2215,4704,29603,24899,2987.88,27886.88,Corporate,Member,UPI,Checked-Out,3.6,Negative,Low
+BK3559649,ITC Rajputana,Business,Jaipur,Rajasthan,India,44512,44514,November,Q4,2021,Club Room,3,2,5642,3515,4369,14799,10430,1251.6,11681.6,Booking.com,New Guest,Credit Card,Checked-In,4.2,Positive,Low
+BK3235396,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44550,44552,December,Q4,2021,Executive,4,2,8874,1680,3725,19428,15703,1884.36,17587.36,Goibibo,Member,Cash,Cancelled,4.8,Neutral,Low
+BK9018317,ITC Maurya,Luxury,New Delhi,Delhi,India,44624,44625,March,Q1,2022,Executive,3,1,6936,713,4032,7649,3617,434.04,4051.04,Booking.com,Corporate,Net Banking,Checked-In,4.9,Positive,Low
+BK7338458,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44431,44434,August,Q3,2021,Presidential Suite,4,3,16139,5402,357,53819,53462,6415.44,59877.44,Walk-in,Corporate,Net Banking,Checked-In,3.6,Positive,Low
+BK9897065,ITC Maurya,Luxury,New Delhi,Delhi,India,44599,44603,February,Q1,2022,Club Room,4,4,17600,5227,3080,75627,72547,8705.64,81252.64,Goibibo,Member,Net Banking,Checked-Out,4.2,Neutral,Low
+BK4224768,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44642,44644,March,Q1,2022,Club Room,1,2,15967,1520,274,33454,33180,3981.6,37161.6,Booking.com,Member,Net Banking,Checked-In,3.8,Positive,Low
+BK9791005,ITC Royal Bengal,Luxury,Kolkata,West Bengal,India,44363,44365,June,Q2,2021,Executive,1,2,25043,3166,2233,53252,51019,6122.28,57141.28,Goibibo,New Guest,Net Banking,Checked-In,4.8,Neutral,High
+BK7012121,ITC Grand Goa,Resort,Goa,Goa,India,44362,44366,June,Q2,2021,Deluxe,1,4,21426,5446,3507,91150,87643,10517.16,98160.16,MakeMyTrip,New Guest,UPI,Checked-Out,4.9,Positive,High
+BK5732834,ITC Windsor,Business,Bengaluru,Karnataka,India,44390,44392,July,Q3,2021,Deluxe,4,2,19096,3443,744,41635,40891,4906.92,45797.92,Goibibo,New Guest,Net Banking,Checked-In,4.6,Positive,Low
+BK8887472,ITC Grand Goa,Resort,Goa,Goa,India,44428,44432,August,Q3,2021,Luxury Suite,1,4,17617,6931,32,77399,77367,9284.04,86651.04,Goibibo,New Guest,Debit Card,Checked-In,5.0,Positive,Low
+BK7341827,ITC Grand Goa,Resort,Goa,Goa,India,44606,44611,February,Q1,2022,Luxury Suite,2,5,6707,3602,4659,37137,32478,3897.36,36375.36,Website,Regular,UPI,Checked-In,3.8,Positive,Low
+BK6840765,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44618,44620,February,Q1,2022,Presidential Suite,4,2,15631,5428,3567,36690,33123,3974.76,37097.76,Corporate,VIP,Debit Card,Checked-In,3.7,Positive,Low
+BK2985640,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44585,44590,January,Q1,2022,Luxury Suite,4,5,15153,1070,205,76835,76630,9195.6,85825.6,Website,Corporate,UPI,No Show,3.2,Positive,High
+BK6838328,ITC Grand Goa,Resort,Goa,Goa,India,44322,44324,May,Q2,2021,Club Room,2,2,18730,6540,3318,44000,40682,4881.84,45563.84,Booking.com,Corporate,UPI,Checked-In,3.6,Positive,High
+BK2608965,ITC Rajputana,Business,Jaipur,Rajasthan,India,44436,44441,August,Q3,2021,Deluxe,3,5,26145,5257,4500,135982,131482,15777.84,147259.84,Website,Regular,Debit Card,Checked-Out,4.0,Positive,Low
+BK8594848,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44581,44582,January,Q1,2022,Presidential Suite,2,1,18364,3529,3693,21893,18200,2184.0,20384.0,Walk-in,Corporate,Credit Card,Checked-Out,4.1,Neutral,High
+BK2502238,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44405,44406,July,Q3,2021,Club Room,3,1,9617,3319,2943,12936,9993,1199.16,11192.16,Walk-in,New Guest,UPI,Checked-In,3.8,Neutral,Low
+BK3826165,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44316,44320,April,Q2,2021,Presidential Suite,3,4,18262,5473,3094,78521,75427,9051.24,84478.24,MakeMyTrip,Member,Debit Card,Checked-In,4.0,Positive,High
+BK8863180,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44533,44535,December,Q4,2021,Deluxe,2,2,14011,3266,942,31288,30346,3641.52,33987.52,Corporate,Member,Debit Card,Checked-In,4.3,Positive,Low
+BK1986938,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44608,44610,February,Q1,2022,Club Room,3,2,22453,1098,1163,46004,44841,5380.92,50221.92,Walk-in,VIP,Cash,Checked-Out,5.0,Positive,Low
+BK7274318,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44515,44520,November,Q4,2021,Executive,3,5,17388,3095,771,90035,89264,10711.68,99975.68,Walk-in,Corporate,Credit Card,Cancelled,3.8,Positive,Low
+BK1462975,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44641,44645,March,Q1,2022,Club Room,2,4,26042,3972,1951,108140,106189,12742.68,118931.68,Booking.com,VIP,Cash,Checked-In,4.3,Neutral,Low
+BK6721088,ITC Sonar,Business,Kolkata,West Bengal,India,44381,44383,July,Q3,2021,Presidential Suite,3,2,11340,4675,510,27355,26845,3221.4,30066.4,Walk-in,VIP,Net Banking,Checked-In,4.7,Positive,Low
+BK2055941,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44608,44612,February,Q1,2022,Deluxe,4,4,4847,5513,2298,24901,22603,2712.36,25315.36,Website,VIP,Debit Card,Checked-Out,3.2,Positive,Low
+BK2746664,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44416,44418,August,Q3,2021,Deluxe,4,2,9811,4674,1386,24296,22910,2749.2,25659.2,MakeMyTrip,VIP,Cash,Checked-In,4.1,Negative,Low
+BK6541256,ITC Narmada,Business,Ahmedabad,Gujarat,India,44302,44305,April,Q2,2021,Presidential Suite,2,3,19858,3640,4214,63214,59000,7080.0,66080.0,Walk-in,VIP,UPI,Checked-In,3.6,Positive,High
+BK4827722,ITC Grand Goa,Resort,Goa,Goa,India,44540,44542,December,Q4,2021,Club Room,4,2,16152,4171,4398,36475,32077,3849.24,35926.24,Website,Member,Debit Card,Checked-In,3.5,Neutral,Low
+BK3934712,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44437,44438,August,Q3,2021,Presidential Suite,1,1,20123,384,4483,20507,16024,1922.88,17946.88,Booking.com,Member,Debit Card,Cancelled,3.7,Negative,Low
+BK1507743,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44459,44461,September,Q3,2021,Club Room,2,2,21949,2386,4341,46284,41943,5033.16,46976.16,Walk-in,Regular,Credit Card,Checked-In,3.6,Positive,Low
+BK3495488,ITC Sonar,Business,Kolkata,West Bengal,India,44476,44480,October,Q4,2021,Deluxe,3,4,5054,5106,1707,25322,23615,2833.8,26448.8,Website,Corporate,Credit Card,Checked-Out,4.3,Positive,Low
+BK2575709,ITC Maurya,Luxury,New Delhi,Delhi,India,44335,44339,May,Q2,2021,Luxury Suite,4,4,20088,2917,4321,83269,78948,9473.76,88421.76,MakeMyTrip,Member,Net Banking,Checked-Out,3.4,Positive,High
+BK9361363,ITC Rajputana,Business,Jaipur,Rajasthan,India,44313,44316,April,Q2,2021,Luxury Suite,2,3,20734,3245,4931,65447,60516,7261.92,67777.92,Booking.com,VIP,Credit Card,Checked-In,3.2,Positive,High
+BK9210031,ITC Maurya,Luxury,New Delhi,Delhi,India,44306,44307,April,Q2,2021,Club Room,4,1,12424,5451,1268,17875,16607,1992.84,18599.84,Goibibo,New Guest,Credit Card,Checked-Out,4.8,Neutral,High
+BK2188486,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44368,44373,June,Q2,2021,Executive,2,5,26541,1145,1957,133850,131893,15827.16,147720.16,Goibibo,VIP,Cash,No Show,3.8,Neutral,High
+BK7312455,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44642,44644,March,Q1,2022,Executive,1,2,9120,2230,3244,20470,17226,2067.12,19293.12,Walk-in,Corporate,Debit Card,Checked-In,3.1,Negative,Low
+BK2118313,ITC Maurya,Luxury,New Delhi,Delhi,India,44598,44600,February,Q1,2022,Club Room,4,2,12112,6434,1708,30658,28950,3474.0,32424.0,Corporate,VIP,Debit Card,Checked-Out,5.0,Negative,Low
+BK7491760,ITC Narmada,Business,Ahmedabad,Gujarat,India,44450,44455,September,Q3,2021,Presidential Suite,2,5,25893,1208,3050,130673,127623,15314.76,142937.76,MakeMyTrip,VIP,UPI,Checked-Out,3.9,Positive,Low
+BK3877128,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44422,44425,August,Q3,2021,Executive,4,3,5761,3702,2689,20985,18296,2195.52,20491.52,Walk-in,Corporate,UPI,Checked-Out,3.7,Positive,Low
+BK1714166,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44317,44320,May,Q2,2021,Executive,1,3,14542,5821,4096,49447,45351,5442.12,50793.12,Website,VIP,Credit Card,Checked-In,4.0,Neutral,High
+BK2274703,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44613,44615,February,Q1,2022,Presidential Suite,3,2,7554,4412,3551,19520,15969,1916.28,17885.28,Website,Regular,Credit Card,Checked-In,3.5,Positive,Low
+BK4968787,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44342,44343,May,Q2,2021,Club Room,3,1,14885,4009,4837,18894,14057,1686.84,15743.84,Booking.com,Regular,UPI,Checked-Out,4.9,Positive,High
+BK4066041,ITC Rajputana,Business,Jaipur,Rajasthan,India,44359,44361,June,Q2,2021,Presidential Suite,4,2,8203,1208,2395,17614,15219,1826.28,17045.28,Website,New Guest,Credit Card,Checked-In,4.4,Neutral,High
+BK1474645,ITC Narmada,Business,Ahmedabad,Gujarat,India,44552,44556,December,Q4,2021,Deluxe,3,4,15258,5211,3673,66243,62570,7508.4,70078.4,Booking.com,New Guest,UPI,Checked-Out,4.8,Negative,Low
+BK2971360,ITC Narmada,Business,Ahmedabad,Gujarat,India,44455,44460,September,Q3,2021,Deluxe,2,5,5668,695,2804,29035,26231,3147.72,29378.72,MakeMyTrip,Corporate,UPI,Checked-In,3.2,Positive,Low
+BK6506394,ITC Maurya,Luxury,New Delhi,Delhi,India,44494,44495,October,Q4,2021,Executive,2,1,18882,2010,1314,20892,19578,2349.36,21927.36,MakeMyTrip,Regular,Credit Card,Checked-In,3.4,Neutral,Low
+BK6783497,ITC Grand Goa,Resort,Goa,Goa,India,44297,44298,April,Q2,2021,Presidential Suite,1,1,14314,2949,4006,17263,13257,1590.84,14847.84,Walk-in,Member,Debit Card,Checked-In,3.1,Positive,High
+BK5911558,ITC Maurya,Luxury,New Delhi,Delhi,India,44399,44402,July,Q3,2021,Luxury Suite,1,3,5939,4345,2669,22162,19493,2339.16,21832.16,Corporate,Member,UPI,Checked-In,3.1,Positive,Low
+BK3916382,ITC Grand Chola,Luxury,Chennai,Tamil Nadu,India,44344,44348,May,Q2,2021,Club Room,2,4,26772,2678,2344,109766,107422,12890.64,120312.64,Goibibo,Member,Cash,Checked-In,3.8,Neutral,High
+BK6822660,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44345,44348,May,Q2,2021,Presidential Suite,4,3,19308,561,2818,58485,55667,6680.04,62347.04,Corporate,New Guest,Net Banking,Checked-Out,4.8,Positive,High
+BK8617879,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44404,44406,July,Q3,2021,Presidential Suite,2,2,5540,686,1899,11766,9867,1184.04,11051.04,Booking.com,Regular,Credit Card,Checked-In,3.5,Negative,Low
+BK9112494,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44455,44459,September,Q3,2021,Luxury Suite,3,4,10323,1750,3978,43042,39064,4687.68,43751.68,Website,Corporate,Net Banking,Checked-In,4.5,Positive,Low
+BK2351228,ITC Maurya,Luxury,New Delhi,Delhi,India,44405,44407,July,Q3,2021,Club Room,1,2,26018,602,1648,52638,50990,6118.8,57108.8,Corporate,New Guest,Net Banking,Checked-In,3.9,Positive,Low
+BK9925043,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44386,44388,July,Q3,2021,Luxury Suite,1,2,11452,1022,2758,23926,21168,2540.16,23708.16,MakeMyTrip,New Guest,Debit Card,Checked-In,3.3,Positive,Low
+BK5598716,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44631,44633,March,Q1,2022,Presidential Suite,1,2,27174,1974,2803,56322,53519,6422.28,59941.28,MakeMyTrip,Regular,Cash,Checked-Out,3.0,Positive,Low
+BK9940413,ITC Rajputana,Business,Jaipur,Rajasthan,India,44533,44536,December,Q4,2021,Executive,4,3,25368,6522,3991,82626,78635,9436.2,88071.2,MakeMyTrip,New Guest,Debit Card,Checked-In,3.8,Neutral,Low
+BK9470549,ITC Windsor,Business,Bengaluru,Karnataka,India,44305,44308,April,Q2,2021,Executive,4,3,24136,2676,2037,75084,73047,8765.64,81812.64,MakeMyTrip,VIP,Credit Card,Checked-Out,4.3,Positive,High
+BK8267551,ITC Maurya,Luxury,New Delhi,Delhi,India,44589,44594,January,Q1,2022,Club Room,4,5,25099,5188,1824,130683,128859,15463.08,144322.08,Walk-in,Corporate,Credit Card,Cancelled,3.8,Neutral,High
+BK6138857,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44378,44382,July,Q3,2021,Executive,3,4,22895,2469,268,94049,93781,11253.72,105034.72,Website,Regular,Debit Card,Checked-In,4.4,Positive,Low
+BK3066869,Fortune Select Trinity,Business,Bengaluru,Karnataka,India,44462,44463,September,Q3,2021,Luxury Suite,3,1,7857,3242,949,11099,10150,1218.0,11368.0,MakeMyTrip,Regular,Net Banking,Checked-Out,3.9,Negative,Low
+BK9421277,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44456,44459,September,Q3,2021,Club Room,4,3,7603,4583,2843,27392,24549,2945.88,27494.88,Booking.com,VIP,Net Banking,Checked-In,3.0,Positive,Low
+BK6571296,ITC Rajputana,Business,Jaipur,Rajasthan,India,44489,44492,October,Q4,2021,Club Room,3,3,23949,1300,17,73147,73130,8775.6,81905.6,MakeMyTrip,Member,Cash,Checked-In,3.6,Positive,Low
+BK8885842,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44453,44457,September,Q3,2021,Deluxe,2,4,20968,1532,1104,85404,84300,10116.0,94416.0,Booking.com,New Guest,Cash,Checked-Out,3.7,Positive,Low
+BK4957732,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44593,44595,February,Q1,2022,Club Room,3,2,9149,4503,2083,22801,20718,2486.16,23204.16,Corporate,Member,UPI,Checked-In,4.4,Positive,Low
+BK7014736,ITC Kakatiya,Luxury,Hyderabad,Telangana,India,44604,44609,February,Q1,2022,Presidential Suite,4,5,27544,270,2060,137990,135930,16311.6,152241.6,Walk-in,New Guest,Credit Card,Checked-In,4.9,Positive,Low
+BK7020915,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44365,44369,June,Q2,2021,Executive,3,4,7821,5147,667,36431,35764,4291.68,40055.68,Booking.com,VIP,Cash,Checked-In,3.1,Positive,High
+BK9778294,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44589,44591,January,Q1,2022,Deluxe,4,2,8697,2849,4455,20243,15788,1894.56,17682.56,Booking.com,New Guest,Credit Card,Checked-In,4.2,Neutral,High
+BK2978038,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44374,44376,June,Q2,2021,Club Room,4,2,8721,2516,2220,19958,17738,2128.56,19866.56,Website,VIP,UPI,Checked-In,3.7,Positive,High
+BK3705168,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44573,44576,January,Q1,2022,Luxury Suite,3,3,14042,3067,556,45193,44637,5356.44,49993.44,Walk-in,Member,Net Banking,Checked-In,5.0,Positive,High
+BK9971445,ITC Mughal,Resort,Agra,Uttar Pradesh,India,44534,44536,December,Q4,2021,Luxury Suite,4,2,4649,5236,2229,14534,12305,1476.6,13781.6,Booking.com,Regular,Cash,Checked-Out,3.3,Positive,Low
+BK7505412,ITC Gardenia,Luxury,Bengaluru,Karnataka,India,44591,44592,January,Q1,2022,Club Room,2,1,18268,3606,1243,21874,20631,2475.72,23106.72,Goibibo,Member,Net Banking,Checked-Out,4.7,Positive,High
+BK4339151,ITC Maurya,Luxury,New Delhi,Delhi,India,44504,44506,November,Q4,2021,Presidential Suite,3,2,18578,5743,1535,42899,41364,4963.68,46327.68,Booking.com,Member,Debit Card,Checked-In,4.2,Positive,Low
+BK6354964,ITC Maratha,Luxury,Mumbai,Maharashtra,India,44355,44360,June,Q2,2021,Presidential Suite,3,5,26511,1994,3610,134549,130939,15712.68,146651.68,Goibibo,New Guest,Cash,Checked-In,3.2,Positive,High
+BK9610442,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44545,44548,December,Q4,2021,Club Room,1,3,15691,3288,4564,50361,45797,5495.64,51292.64,Walk-in,VIP,Cash,Checked-Out,4.6,Neutral,Low
+BK6013864,ITC Kohenur,Luxury,Hyderabad,Telangana,India,44490,44495,October,Q4,2021,Deluxe,2,5,11467,2029,4684,59364,54680,6561.6,61241.6,Walk-in,New Guest,Debit Card,Checked-In,3.2,Positive,Low
+BK6947337,Welcomhotel Dwarka,Business,New Delhi,Delhi,India,44579,44583,January,Q1,2022,Club Room,4,4,10668,1604,761,44276,43515,5221.8,48736.8,Goibibo,New Guest,UPI,Checked-In,3.9,Negative,High
