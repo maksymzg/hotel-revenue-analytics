@@ -73,7 +73,7 @@ pip install -r requirements.txt
 # UPDATES
 > 🚧 **Work in progress** — this project is actively being built.
 > Current stage: **data cleaning**. See the roadmap below.
-
+```
 ## 11. Author
 Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
 LinkedIN: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
