@@ -64,4 +64,5 @@ pip install -r requirements.txt
 ```
 
 ## 11. Autor
-<!-- TODO: imię, LinkedIn, kontakt -->
+Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
+LinkedIN: [CHECK LINK](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
