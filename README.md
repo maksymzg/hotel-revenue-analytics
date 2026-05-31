@@ -1,5 +1,95 @@
 # Hotel Revenue & Profitability Analytics — ITC Hotels
 
+> Revenue and profitability analysis of a hotel chain (April 2021 – April 2022, post-COVID recovery).
+> Stack: **SQL (DuckDB) · Python (pandas) · Power BI**.
+
+> 🚧 **Work in progress** — this project is actively being built.
+> Current stage: **data cleaning**. See the roadmap below.
+
+### Project status / Roadmap
+- [x] **Business understanding** — problem, KPIs, hypotheses defined ([`reports/00_business_problem.md`](reports/00_business_problem.md))
+- [ ] **Data cleaning** *(in progress)* — date conversion ✓, consistency validation ✓, anomaly removal ✓, revenue logic verified ✓, type optimization & processed dataset (pending)
+- [ ] **SQL analysis** — business questions Q1–Q6 in DuckDB
+- [ ] **EDA & feature engineering** — KPI metrics, hypothesis testing
+- [ ] **Power BI dashboard** — executive & operational views
+- [ ] **Executive summary & recommendations** — decision memo with estimated impact
+
+---
+
+## 1. Business problem
+Full description: [`reports/00_business_problem.md`](reports/00_business_problem.md).
+
+Management question (in short): *where does revenue really come from, where are we losing margin, and which levers (channel, segment, pricing, discounts) should we pull to grow profitably?*
+
+## 2. Data
+- **Source:** Kaggle — *ITC Hotels Sales* (`arjunguptadatanalyst/itc-hotels-sales`).
+- **Size:** 300,000 bookings × 28 columns, April 2021 – April 2022, 15 hotels across India.
+- **Nature:** **synthetic data modelling realistic hotel operations** (not sold as production data).
+- **Download:** `Hotels.csv` is *gitignored* (57 MB). Download it from Kaggle into `data/raw/Hotels.csv`. A sample `data/sample/hotels_sample.csv` is included in the repo (structure without the full download).
+
+## 3. Tech stack & architecture
+| Layer | Tool | Role |
+|---|---|---|
+| Cleaning / feature eng. | Python (pandas) | data preparation |
+| Analysis | **DuckDB (SQL)** | aggregations, window functions, CTEs |
+| Presentation | Power BI | executive + operational dashboard |
+
+> **Why DuckDB:** in-process OLAP engine, reads files directly, no server → reproducible project (`git clone` + notebook). SQL logic is portable to PostgreSQL.
+
+## 4. Repository structure
+data/ raw (gitignored) · sample (in repo) · processed (gitignored)
+notebooks/ 01_cleaning · 02_eda · 03_feature_engineering
+sql/ analytical queries (DuckDB)
+dashboard/ .pbix + documented DAX measures
+visuals/ PNG exports for the README
+reports/ business problem + executive summary
+
+
+## 5. KPIs & business questions
+Definitions and hypotheses: [`reports/00_business_problem.md`](reports/00_business_problem.md).
+- Core: Net/Gross Revenue, Margin %, ADR, ALOS, Cancellation Rate, Discount Rate, Channel mix.
+- Advanced: **Margin Leakage Rate over time**, **Revenue at Risk %**, **Discount Effectiveness**.
+
+## 6. Methodology (stages)
+1. Business understanding → 2. Data cleaning → 3. SQL analysis → 4. EDA & feature engineering → 5. Insight synthesis → 6. Power BI dashboard → 7. Executive summary & recommendations.
+
+## 7. Key findings
+<!-- TODO: 3–5 strongest insights with numbers and ₹ impact -->
+
+## 8. Recommendations
+<!-- TODO: decision-oriented recommendations + estimated impact; including the deposit-policy scenario -->
+
+## 9. Data limitations (by design)
+- **RevPAR** requires available-room counts the dataset does not contain → not reported as a KPI. The analysis instead shows a lower-bound capacity estimate derived from overlapping stays, and how RevPAR would be computed given an inventory field.
+- No recurring customer ID → no true CLV / retention analysis.
+- Synthetic data → findings illustrate the analytical method, not a specific company's reality.
+
+## 10. How to run
+```bash
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+# download Hotels.csv into data/raw/, then run the notebooks/ in VS Code
+
+# UPDATES
+> 🚧 **Work in progress** — this project is actively being built.
+> Current stage: **data cleaning**. See the roadmap below.
+
+## 11. Author
+Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
+LinkedIN: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
+
+## Project status / Roadmap
+
+- [x] **Business understanding** — problem, KPIs, hypotheses defined ([`reports/00_business_problem.md`](reports/00_business_problem.md))
+- [ ] **Data cleaning** *(in progress)* — date conversion ✓, consistency validation ✓, anomaly removal ✓, revenue logic verified ✓, type optimization & processed dataset (pending)
+- [ ] **SQL analysis** — business questions Q1–Q6 in DuckDB
+- [ ] **EDA & feature engineering** — KPI metrics, hypothesis testing
+- [ ] **Power BI dashboard** — executive & operational views
+- [ ] **Executive summary & recommendations** — decision memo with estimated ₹ impact
+
+_Last updated: 2026-05-29_
+# Hotel Revenue & Profitability Analytics — ITC Hotels
+
 > Analiza przychodów i rentowności sieci hotelowej (2021–2022, faza odbicia po COVID).
 > Stack: **SQL (DuckDB) · Python (pandas) · Power BI**.
 
@@ -65,4 +155,4 @@ pip install -r requirements.txt
 
 ## 11. Autor
 Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
-LinkedIN: [CHECK LINK](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
+LinkedIN: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
