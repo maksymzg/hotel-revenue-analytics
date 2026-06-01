@@ -1,4 +1,4 @@
-# Business Understanding — ITC Hotels Revenue & Profitability
+# Business Understanding - ITC Hotels Revenue & Profitability
 
 ## Persona i kontekst
 Analityk revenue/biznesowy w sieci **ITC Hotels** (15 obiektów w Indiach: kategorie Luxury / Resort / Business).
