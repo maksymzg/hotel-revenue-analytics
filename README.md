@@ -1,162 +1,138 @@
-## English
+# 🏨 Hotel Booking Data: Forensic Audit & Signal Assessment
 
-# Hotel Revenue & Profitability Analytics - ITC Hotels
+> A rigorous statistical and SQL-based audit of a 300,000-row hotel booking dataset to determine its analytical viability.
+> Stack: **SQL (DuckDB) · Python (pandas, scipy)**.
 
-> Revenue and profitability analysis of a hotel chain (April 2021 – April 2022, post-COVID recovery).
-> Stack: **SQL (DuckDB) · Python (pandas) · Power BI**.
+> 🚧 **Work in progress** — current stage: **Phase 2: Signal Assessment**.
 
-> 🚧 **Work in progress** - this project is actively being built.
-> Current stage: **data cleaning**. See the roadmap below.
-
-### Project status / Roadmap
-- [x] **Business understanding** - problem, KPIs, hypotheses defined ([`reports/00_business_problem.md`](reports/00_business_problem.md))
-- [ ] **Data cleaning** *(in progress)* - date conversion ✓, consistency validation ✓, anomaly removal ✓, revenue logic verified ✓, type optimization & processed dataset (pending)
-- [ ] **SQL analysis** - business questions Q1–Q6 in DuckDB
-- [ ] **EDA & feature engineering** - KPI metrics, hypothesis testing
-- [ ] **Power BI dashboard** - executive & operational views
-- [ ] **Executive summary & recommendations** - decision memo with estimated impact
+**🌐 [English](#english) · [Polski](#polski)**
 
 ---
 
-## 1. Business problem
+## English
+
+### Project status / Roadmap
+- [x] **Phase 1: Data Cleaning & Validation** (`01_data_cleaning.ipynb`) — date conversion ✓, consistency validation ✓, anomaly removal ✓, revenue logic verified ✓, memory optimization ✓
+- [ ] **Phase 2: Signal Assessment & Data Forensics** (`02_signal_assessment.ipynb`) *(in progress)* — SQL grouping, Chi-Square tests, and distribution fingerprinting to test the dataset's claims.
+- [ ] **Phase 3: Final Verdict** (`reports/executive_summary.md`) — conclusion on data viability and usage recommendations.
+
+### 1. Project Context & Pivot
 Full description: [`reports/00_business_problem.md`](reports/00_business_problem.md).
 
-Management question (in short): *where does revenue really come from, where are we losing margin, and which levers (channel, segment, pricing, discounts) should we pull to grow profitably?*
+This project initially began as a standard revenue analysis. However, during early exploratory analysis I found strong indicators of synthetic generation (e.g. perfectly flat margins across every segment). **The objective was pivoted to a Forensic Data Audit.** The goal is now to test the structural claims of the dataset and assess whether it contains genuine business signal or artificial noise.
 
-## 2. Data
-- **Source:** Kaggle - *ITC Hotels Sales* (`arjunguptadatanalyst/itc-hotels-sales`).
+### 2. Data
+- **Source:** Kaggle — *ITC Hotels Sales* (`arjunguptadatanalyst/itc-hotels-sales`).
 - **Size:** 300,000 bookings × 28 columns, April 2021 – April 2022, 15 hotels across India.
-- **Nature:** **synthetic data modelling realistic hotel operations** (not sold as production data).
-- **Download:** `Hotels.csv` is *gitignored* (57 MB). Download it from Kaggle into `data/raw/Hotels.csv`. A sample `data/sample/hotels_sample.csv` is included in the repo (structure without the full download).
+- **Nature:** Suspected synthetic data modelling hotel operations.
+- **Download:** `Hotels.csv` is *gitignored* (57 MB). Download it from Kaggle into `data/raw/Hotels.csv`. A sample `data/sample/hotels_sample.csv` is included in the repo.
 
-## 3. Tech stack & architecture
+### 3. Tech stack & architecture
 | Layer | Tool | Role |
 |---|---|---|
-| Cleaning / feature eng. | Python (pandas) | data preparation |
-| Analysis | **DuckDB (SQL)** | aggregations, window functions, CTEs |
-| Presentation | Power BI | executive + operational dashboard |
+| Cleaning / prep | Python (pandas) | data validation and type optimization |
+| Forensic analysis | **DuckDB (SQL)** | rapid aggregations, CTEs, signal extraction |
+| Statistical testing | Python (scipy, matplotlib) | distribution fingerprinting, hypothesis testing |
 
-> **Why DuckDB:** in-process OLAP engine, reads files directly, no server → reproducible project (`git clone` + notebook). SQL logic is portable to PostgreSQL.
+> **Why DuckDB:** in-process OLAP engine, reads Parquet files directly, no server required → reproducible project (`git clone` + notebook).
 
-## 4. Repository structure
-
-```
-data/        raw (gitignored) · sample (w repo) · processed (gitignored)
-notebooks/   01_cleaning · 02_eda · 03_feature_engineering
-sql/         zapytania analityczne (DuckDB)
-dashboard/   .pbix + udokumentowane miary DAX
-visuals/     eksporty PNG do README
-reports/     problem biznesowy + executive summary
+### 4. Repository structure
+```text
+data/        raw (gitignored) · sample (in repo) · processed (gitignored)
+notebooks/   01_data_cleaning · 02_signal_assessment
+sql/         signal assessment queries (DuckDB)
+visuals/     PNG exports for the README
+reports/     data viability audit (problem statement) + executive summary
 ```
 
-## 5. KPIs & business questions
-Definitions and hypotheses: [`reports/00_business_problem.md`](reports/00_business_problem.md).
-- Core: Net/Gross Revenue, Margin %, ADR, ALOS, Cancellation Rate, Discount Rate, Channel mix.
-- Advanced: **Margin Leakage Rate over time**, **Revenue at Risk %**, **Discount Effectiveness**.
+### 5. Audit questions (hypothesis testing)
+Detailed hypotheses: [`reports/00_business_problem.md`](reports/00_business_problem.md).
+1. **Channel performance** — do booking channels exhibit statistically significant financial differences?
+2. **Seasonality** — does the data reflect natural, market-driven seasonality?
+3. **Customer segmentation** — do customer types show distinct purchasing-power patterns?
+4. **Natural variance** — do core financial metrics follow natural (skewed) distributions or an artificial (uniform) spread?
 
-## 6. Methodology (stages)
-1. Business understanding → 2. Data cleaning → 3. SQL analysis → 4. EDA & feature engineering → 5. Insight synthesis → 6. Power BI dashboard → 7. Executive summary & recommendations.
+### 6. Methodology
+1. Data cleaning & formula validation → 2. SQL-based signal assessment → 3. Statistical distribution testing (Chi-Square, variance) → 4. Final verdict & documentation.
 
-## 7. Key findings
-<!-- TODO: 3–5 strongest insights with numbers and ₹ impact -->
+### 7. Key findings
+<!-- TODO: fill in after the analysis, with evidence -->
 
-## 8. Recommendations
-<!-- TODO: decision-oriented recommendations + estimated impact; including the deposit-policy scenario -->
+### 8. Recommendations
+<!-- TODO: data viability verdict + usage recommendation -->
 
-## 9. Data limitations (by design)
-- **RevPAR** requires available-room counts the dataset does not contain → not reported as a KPI. The analysis instead shows a lower-bound capacity estimate derived from overlapping stays, and how RevPAR would be computed given an inventory field.
-- No recurring customer ID → no true CLV / retention analysis.
-- Synthetic data → findings illustrate the analytical method, not a specific company's reality.
-
-## 10. How to run
+### 9. How to run
 ```bash
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 # download Hotels.csv into data/raw/, then run the notebooks/ in VS Code
-
-# UPDATES
-> 🚧 **Work in progress** - this project is actively being built.
-> Current stage: **data cleaning**. See the roadmap below.
 ```
-## 11. Author
-- Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
-- LinkedIN: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
+
+### 10. Author
+**Maksym Wieczorek** — Master's student in Economic Data Analytics, UEP Poznań
+LinkedIn: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
 
 ---
-
 
 ## Polski
 
-> 🚧 **W trakcie realizacji** - projekt jest aktywnie rozwijany.
-> Aktualny etap: **czyszczenie danych**. Roadmapa poniżej.
-
 ### Status projektu / Roadmapa
-- [x] **Zrozumienie problemu biznesowego** - problem, KPI, hipotezy zdefiniowane ([`reports/00_business_problem.md`](reports/00_business_problem.md))
-- [ ] **Czyszczenie danych** *(w trakcie)* - konwersja dat ✓, walidacja spójności ✓, usunięcie anomalii ✓, weryfikacja logiki przychodu ✓, optymalizacja typów i zapis przetworzonego zbioru (w toku)
-- [ ] **Analiza SQL** - pytania biznesowe Q1–Q6 w DuckDB
-- [ ] **EDA i feature engineering** - metryki KPI, testowanie hipotez
-- [ ] **Dashboard Power BI** - widoki executive i operacyjny
-- [ ] **Podsumowanie i rekomendacje** - memo decyzyjne z szacowanym wpływem
+- [x] **Faza 1: Czyszczenie i walidacja danych** (`01_data_cleaning.ipynb`) — konwersja dat ✓, walidacja spójności ✓, usunięcie anomalii ✓, weryfikacja logiki przychodu ✓, optymalizacja pamięci ✓
+- [ ] **Faza 2: Ocena sygnału i audyt śledczy** (`02_signal_assessment.ipynb`) *(w trakcie)* — zapytania SQL, testy Chi-kwadrat i analiza rozkładów w celu weryfikacji struktury danych.
+- [ ] **Faza 3: Werdykt końcowy** (`reports/executive_summary.md`) — ostateczna konkluzja o przydatności danych i rekomendacje.
 
----
-
-## 1. Problem biznesowy
+### 1. Kontekst i pivot
 Pełny opis: [`reports/00_business_problem.md`](reports/00_business_problem.md).
 
-Pytanie zarządu (w skrócie): *skąd realnie pochodzi przychód, gdzie tracimy marżę, i które dźwignie (kanał, segment, ceny, rabaty) pociągnąć, by rosnąć rentownie?*
+Projekt rozpoczął się jako standardowa analiza przychodów. Jednak we wczesnej analizie eksploracyjnej znalazłem silne wskaźniki sztucznego generowania (np. idealnie płaskie marże w każdym segmencie). **Cel projektu został zmieniony na Śledczy Audyt Danych.** Obecnym celem jest przetestowanie strukturalnych deklaracji zbioru i ocena, czy zawiera on autentyczny sygnał biznesowy, czy sztuczny szum.
 
-## 2. Dane
-- **Źródło:** Kaggle - *ITC Hotels Sales* (`arjunguptadatanalyst/itc-hotels-sales`).
-- **Rozmiar:** 300 000 rezerwacji × 28 kolumn, 2021–2022, 15 hoteli w Indiach.
-- **Charakter:** dane **syntetyczne, modelujące realne operacje hotelowe** (nie sprzedaję ich jako produkcyjne).
-- **Pobranie:** plik `Hotels.csv` jest *gitignorowany* (57 MB). Pobierz z Kaggle i wrzuć do `data/raw/Hotels.csv`. W repo jest próbka `data/sample/hotels_sample.csv` (struktura bez ściągania całości).
+### 2. Dane
+- **Źródło:** Kaggle — *ITC Hotels Sales* (`arjunguptadatanalyst/itc-hotels-sales`).
+- **Rozmiar:** 300 000 rezerwacji × 28 kolumn, kwiecień 2021 – kwiecień 2022, 15 hoteli w Indiach.
+- **Charakter:** Podejrzewane dane syntetyczne modelujące operacje hotelowe.
+- **Pobranie:** Plik `Hotels.csv` jest *gitignorowany* (57 MB). Pobierz z Kaggle do `data/raw/Hotels.csv`. W repo jest próbka `data/sample/hotels_sample.csv`.
 
-## 3. Stack technologiczny i architektura
+### 3. Stack technologiczny i architektura
 | Warstwa | Narzędzie | Rola |
 |---|---|---|
-| Czyszczenie / feature eng. | Python (pandas) | przygotowanie danych |
-| Analiza | **DuckDB (SQL)** | agregacje, window functions, CTE |
-| Prezentacja | Power BI | dashboard executive + operational |
+| Czyszczenie | Python (pandas) | walidacja danych i optymalizacja typów |
+| Analiza śledcza | **DuckDB (SQL)** | szybkie agregacje, CTE, ekstrakcja sygnału |
+| Testy statystyczne | Python (scipy, matplotlib) | analiza rozkładów, testowanie hipotez |
 
-> **Dlaczego DuckDB:** silnik OLAP in-process, czyta pliki wprost, zero serwera → projekt reprodukowalny (`git clone` + notebook). Logika SQL przenośna na PostgreSQL.
+> **Dlaczego DuckDB:** silnik OLAP in-process, czyta pliki Parquet wprost, zero serwera → projekt reprodukowalny (`git clone` + notebook).
 
-## 4. Struktura repozytorium
-
-```
+### 4. Struktura repozytorium
+```text
 data/        raw (gitignored) · sample (w repo) · processed (gitignored)
-notebooks/   01_cleaning · 02_eda · 03_feature_engineering
-sql/         zapytania analityczne (DuckDB)
-dashboard/   .pbix + udokumentowane miary DAX
+notebooks/   01_data_cleaning · 02_signal_assessment
+sql/         zapytania audytowe (DuckDB)
 visuals/     eksporty PNG do README
-reports/     problem biznesowy + executive summary
+reports/     problem biznesowy (deklaracja audytu) + executive summary
 ```
 
-## 5. KPI i pytania biznesowe
-Definicje i hipotezy: [`reports/00_business_problem.md`](reports/00_business_problem.md).
-- Podstawowe: Net/Gross Revenue, Margin %, ADR, ALOS, Cancellation Rate, Discount Rate, Channel mix.
-- Zaawansowane: **Margin Leakage Rate w czasie**, **Revenue at Risk %**, **Discount Effectiveness**.
+### 5. Pytania audytowe (testowanie hipotez)
+Szczegółowe hipotezy: [`reports/00_business_problem.md`](reports/00_business_problem.md).
+1. **Skuteczność kanałów** — czy kanały rezerwacji wykazują statystycznie istotne różnice finansowe?
+2. **Sezonowość** — czy dane odzwierciedlają naturalną, rynkową sezonowość?
+3. **Segmentacja klientów** — czy typy klientów wykazują odmienne wzorce siły nabywczej?
+4. **Naturalna wariancja** — czy metryki finansowe mają naturalne (skośne) rozkłady, czy sztucznie równomierne?
 
-## 6. Metodyka (etapy)
-1. Business understanding → 2. Data cleaning → 3. SQL analysis → 4. EDA & feature engineering → 5. Insight synthesis → 6. Power BI dashboard → 7. Executive summary & rekomendacje.
+### 6. Metodyka (etapy)
+1. Czyszczenie i walidacja → 2. Ocena sygnału w SQL → 3. Testowanie statystyczne (Chi-kwadrat, wariancja) → 4. Werdykt końcowy i dokumentacja.
 
-## 7. Kluczowe wnioski
-<!-- TODO: 3–5 najmocniejszych insightów z liczbami i ₹ -->
+### 7. Kluczowe wnioski
+<!-- TODO: uzupełnić po analizie, z dowodami -->
 
-## 8. Rekomendacje
-<!-- TODO: rekomendacje decyzyjne + szacowany wpływ; w tym scenariusz polityki depozytu -->
+### 8. Rekomendacje
+<!-- TODO: werdykt o przydatności danych + rekomendacja -->
 
-## 9. Ograniczenia danych (świadome)
-- **RevPAR** wymaga liczby dostępnych pokoi, której zbiór nie zawiera → nie raportuję go jako KPI. W analizie pokazuję dolny limit pojemności wyliczony z nakładania pobytów oraz jak policzyłbym RevPAR mając pole inventory.
-- Brak powtarzalnego ID klienta → brak prawdziwego CLV / analizy retencji.
-- Dane syntetyczne → wnioski ilustrują metodę analityczną, nie realia konkretnej firmy.
-
-## 10. Jak uruchomić
+### 9. Jak uruchomić
 ```bash
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 # pobierz Hotels.csv do data/raw/, następnie odpalaj notebooks/ w VS Code
 ```
 
-## 11. Autor
-- Maksym Wieczorek - Master's student in Economic Data Analytics, UEP Poznań
-- LinkedIN: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
+### 10. Autor
+**Maksym Wieczorek** — Master's student in Economic Data Analytics, UEP Poznań
+LinkedIn: [Maksym Wieczorek](https://www.linkedin.com/in/maksym-wieczorek-31589b280/)
