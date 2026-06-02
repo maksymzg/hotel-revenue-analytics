@@ -18,3 +18,5 @@ To definitively evaluate the dataset's credibility, instead of calculating stand
 
 ## 4. Deliverable
 The final product of this project will be a conclusive analytical verdict on the dataset and a recommendation (or lack thereof) regarding its suitability for further analytical processes.
+
+> **Outcome:** see [`executive_summary.md`](executive_summary.md) for the final verdict and evidence.

@@ -1,4 +1,0 @@
--- 05_cancellations.sql  (Q5, KPI: Revenue at Risk + what-if depozyt)
--- Pytanie: kto anuluje i ile przychodu jest zagrożone?
--- Techniki: cancellation rate per kanał/segment, Net_Revenue anulacji jako % całości.
--- TODO: Revenue at Risk + baza pod scenariusz depozytu (R = 10/25/40% redukcji anulacji).

@@ -1,5 +1,0 @@
--- 04_segment_value.sql  (Q4)
--- Pytanie: jaka jest wartość segmentów klienta (VIP / Corporate / Regular ...)?
--- Techniki: agregacja per Customer_Type — ADR, ALOS, revenue/booking, udział w przychodzie.
--- Uwaga: brak ID klienta => brak CLV; analizujemy segment jako klasę, nie osobę.
--- TODO: profil wartości segmentów + koncentracja przychodu (Pareto / top X%).

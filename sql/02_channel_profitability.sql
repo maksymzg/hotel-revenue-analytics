@@ -1,4 +1,0 @@
--- 02_channel_profitability.sql  (Q2)
--- Pytanie: który kanał (Booking_Channel) daje wartościowe rezerwacje vs niską marżę?
--- Techniki: agregacja per kanał, margin %, revenue/booking, channel mix (% udziału).
--- TODO: zestaw wolumen vs marża % per kanał (baza pod quadrant w Power BI).

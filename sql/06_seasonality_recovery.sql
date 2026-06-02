@@ -1,4 +1,0 @@
--- 06_seasonality_recovery.sql  (Q6)
--- Pytanie: jak wygląda sezonowość i odbicie po COVID (2021 vs 2022)?
--- Techniki: agregacja po Month/Quarter/Year, MoM/YoY growth (LAG window), Covid_Impact_Level.
--- TODO: trend miesięczny, YoY per kategoria/miasto, kształt recovery.
