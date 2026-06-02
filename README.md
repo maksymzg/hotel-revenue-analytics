@@ -13,7 +13,7 @@
 
 ### Project status / Roadmap
 - [x] **Phase 1: Data Cleaning & Validation** (`01_data_cleaning.ipynb`) — date conversion ✓, consistency validation ✓, anomaly removal ✓, revenue logic verified ✓, memory optimization ✓
-- [ ] **Phase 2: Signal Assessment & Data Forensics** (`02_signal_assessment.ipynb`) *(in progress)* — SQL grouping, Chi-Square tests, and distribution fingerprinting to test the dataset's claims.
+- [ ] **Phase 2: Signal Assessment & Data Forensics** (`02_signal_assessment.ipynb`) *(in progress)* - SQL grouping, Chi-Square tests, and distribution fingerprinting to test the dataset's claims.
 - [ ] **Phase 3: Final Verdict** (`reports/executive_summary.md`) — conclusion on data viability and usage recommendations.
 
 ### 1. Project Context & Pivot
